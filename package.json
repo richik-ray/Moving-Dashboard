@@ -1,0 +1,23 @@
+{
+  "name": "moving-dashboard",
+  "version": "1.0.0",
+  "description": "HackDuke",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richik-ray/Moving-Dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richik-ray/Moving-Dashboard/issues"
+  },
+  "homepage": "https://github.com/richik-ray/Moving-Dashboard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
