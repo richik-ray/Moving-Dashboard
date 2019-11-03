@@ -1,3142 +1,3142 @@
-county,cohort,perc,zsc,state
-Autauga,660.0,0.9,-0.19,AL
-Baldwin,2207.0,0.86,0.49,AL
-Barbour,312.0,0.81,1.43,AL
-Bibb,271.0,0.84,0.98,AL
-Blount,689.0,0.93,-0.85,AL
-Bullock,121.0,0.7,3,AL
-Butler,239.0,0.82,1.39,AL
-Calhoun,1402.0,0.92,-0.64,AL
-Chambers,327.0,0.86,0.52,AL
-Cherokee,314.0,0.95,-1.12,AL
-Chilton,602.0,0.88,0.15,AL
-Choctaw,117.0,0.79,1.95,AL
-Clarke,385.0,0.91,-0.36,AL
-Clay,157.0,0.9,-0.16,AL
-Cleburne,203.0,0.98,-1.71,AL
-Coffee,735.0,0.93,-0.67,AL
-Colbert,585.0,0.92,-0.59,AL
-Conecuh,107.0,0.8,1.62,AL
-Coosa,81.0,0.83,1.18,AL
-Covington,412.0,0.95,-1.12,AL
-Crenshaw,174.0,0.89,-0.02,AL
-Cullman,981.0,0.91,-0.29,AL
-Dale,506.0,0.9,-0.25,AL
-Dallas,507.0,0.86,0.53,AL
-DeKalb,813.0,0.93,-0.71,AL
-Elmore,903.0,0.86,0.53,AL
-Escambia,385.0,0.88,0.23,AL
-Etowah,1213.0,0.9,-0.24,AL
-Fayette,183.0,0.92,-0.53,AL
-Franklin,380.0,0.92,-0.59,AL
-Geneva,278.0,0.9,-0.25,AL
-Greene,89.0,0.78,2.16,AL
-Hale,195.0,0.91,-0.43,AL
-Henry,191.0,0.98,-1.68,AL
-Houston,1090.0,0.91,-0.36,AL
-Jackson,597.0,0.9,-0.21,AL
-Jefferson,7953.0,0.89,0.05,AL
-Lamar,140.0,0.94,-1,AL
-Lauderdale,1033.0,0.94,-1.02,AL
-Lawrence,360.0,0.88,0.18,AL
-Lee,1671.0,0.91,-0.41,AL
-Limestone,1076.0,0.92,-0.57,AL
-Lowndes,115.0,0.91,-0.44,AL
-Macon,205.0,0.8,1.69,AL
-Madison,3982.0,0.93,-0.79,AL
-Marengo,297.0,0.91,-0.36,AL
-Marion,368.0,0.9,-0.23,AL
-Marshall,1258.0,0.92,-0.62,AL
-Mobile,4647.0,0.84,1,AL
-Monroe,259.0,0.88,0.18,AL
-Montgomery,2164.0,0.82,1.39,AL
-Morgan,1428.0,0.9,-0.23,AL
-Perry,101.0,0.93,-0.77,AL
-Pickens,220.0,0.98,-1.73,AL
-Pike,291.0,0.87,0.32,AL
-Randolph,293.0,0.92,-0.53,AL
-Russell,658.0,0.88,0.16,AL
-Shelby,2094.0,0.94,-0.99,AL
-St. Clair,897.0,0.88,0.11,AL
-Sumter,139.0,0.77,2.26,AL
-Talladega,877.0,0.93,-0.7,AL
-Tallapoosa,465.0,0.9,-0.17,AL
-Tuscaloosa,2013.0,0.89,0.09,AL
-Walker,809.0,0.9,-0.26,AL
-Washington,232.0,0.93,-0.7,AL
-Wilcox,143.0,0.83,1.09,AL
-Winston,308.0,0.93,-0.73,AL
-Aleutians East,17.0,0.82,NR,AK
-Aleutians West,45.0,0.93,-1.62,AK
-Anchorage,3468.0,0.8,-0.4,AK
-Bethel,290.0,0.55,1.96,AK
-Bristol Bay,36.0,0.83,-0.69,AK
-Denali,51.0,0.45,NR,AK
-Dillingham,88.0,0.65,1.03,AK
-Fairbanks North Star,1106.0,0.7,0.58,AK
-Haines,23.0,0.87,-1.03,AK
-Hoonah-Angoon,22.0,0.73,0.29,AK
-Juneau,370.0,0.77,-0.13,AK
-Kenai Peninsula,739.0,0.82,-0.55,AK
-Ketchikan Gateway,208.0,0.77,-0.1,AK
-Kodiak Island,210.0,0.9,-1.27,AK
-Kusilvak,165.0,0.6,1.48,AK
-Lake and Peninsula,,,0,AK
-Matanuska-Susitna,1360.0,0.78,-0.16,AK
-Nome,147.0,0.82,-0.54,AK
-North Slope,93.0,0.7,0.56,AK
-Northwest Arctic,111.0,0.75,0.1,AK
-Petersburg,33.0,0.91,-1.4,AK
-Prince of Wales-Hyder,103.0,0.71,0.46,AK
-Sitka,189.0,0.82,-0.57,AK
-Skagway,3.0,1.0,NR,AK
-Southeast Fairbanks,71.0,0.62,1.29,AK
-Valdez-Cordova,121.0,0.76,-0.02,AK
-Wrangell,24.0,0.88,-1.08,AK
-Yakutat,7.0,0.86,NR,AK
-Yukon-Koyukuk,576.0,0.56,1.81,AK
-Apache,867.0,0.74,1.52,AZ
-Cochise,1378.0,0.84,-0.3,AZ
-Coconino,1403.0,0.81,0.23,AZ
-Gila,581.0,0.82,0.01,AZ
-Graham,458.0,0.84,-0.28,AZ
-Greenlee,115.0,0.92,-1.76,AZ
-La Paz,182.0,0.82,0.12,AZ
-Maricopa,53585.0,0.81,0.34,AZ
-Mohave,1691.0,0.83,-0.16,AZ
-Navajo,1376.0,0.81,0.3,AZ
-Pima,10597.0,0.78,0.89,AZ
-Pinal,3253.0,0.72,1.97,AZ
-Santa Cruz,721.0,0.91,-1.54,AZ
-Yavapai,1916.0,0.85,-0.39,AZ
-Yuma,2747.0,0.88,-0.96,AZ
-Arkansas,237.0,0.82,1.61,AR
-Ashley,276.0,0.9,-0.16,AR
-Baxter,354.0,0.86,0.81,AR
-Benton,3025.0,0.9,-0.21,AR
-Boone,486.0,0.93,-0.68,AR
-Bradley,122.0,0.9,-0.14,AR
-Calhoun,48.0,0.92,-0.48,AR
-Carroll,316.0,0.82,1.61,AR
-Chicot,119.0,0.87,0.66,AR
-Clark,191.0,0.84,1.16,AR
-Clay,159.0,0.93,-0.79,AR
-Cleburne,264.0,0.92,-0.56,AR
-Cleveland,115.0,0.96,-1.37,AR
-Columbia,246.0,0.91,-0.25,AR
-Conway,221.0,0.86,0.89,AR
-Craighead,1188.0,0.93,-0.68,AR
-Crawford,859.0,0.9,-0.18,AR
-Crittenden,751.0,0.89,0.1,AR
-Cross,253.0,0.92,-0.57,AR
-Dallas,69.0,0.87,0.57,AR
-Desha,223.0,0.87,0.56,AR
-Drew,219.0,0.88,0.31,AR
-Faulkner,1331.0,0.93,-0.84,AR
-Franklin,182.0,0.97,-1.72,AR
-Fulton,121.0,0.98,-1.78,AR
-Garland,874.0,0.85,0.95,AR
-Grant,361.0,0.89,0.01,AR
-Greene,480.0,0.96,-1.41,AR
-Hempstead,282.0,0.82,1.69,AR
-Hot Spring,378.0,0.92,-0.45,AR
-Howard,206.0,0.97,-1.68,AR
-Independence,301.0,0.88,0.33,AR
-Izard,135.0,0.97,-1.67,AR
-Jackson,125.0,0.89,0.16,AR
-Jefferson,843.0,0.81,1.81,AR
-Johnson,316.0,0.91,-0.43,AR
-Lafayette,85.0,0.93,-0.76,AR
-Lawrence,239.0,0.89,0.18,AR
-Lee,76.0,0.8,2.06,AR
-Lincoln,113.0,0.95,-1.15,AR
-Little River,127.0,0.85,1,AR
-Logan,347.0,0.92,-0.54,AR
-Lonoke,1026.0,0.91,-0.25,AR
-Madison,215.0,0.88,0.36,AR
-Marion,119.0,0.92,-0.65,AR
-Miller,500.0,0.87,0.47,AR
-Mississippi,574.0,0.87,0.65,AR
-Monroe,100.0,0.9,-0.11,AR
-Montgomery,87.0,0.93,-0.8,AR
-Nevada,99.0,0.93,-0.76,AR
-Newton,59.0,0.8,2.19,AR
-Ouachita,274.0,0.91,-0.3,AR
-Perry,133.0,0.91,-0.32,AR
-Phillips,280.0,0.86,0.77,AR
-Pike,172.0,0.87,0.51,AR
-Poinsett,302.0,0.82,1.65,AR
-Polk,209.0,0.9,-0.2,AR
-Pope,741.0,0.91,-0.41,AR
-Prairie,95.0,0.88,0.24,AR
-Pulaski,3774.0,0.8,2.03,AR
-Randolph,174.0,0.93,-0.8,AR
-Saline,1230.0,0.93,-0.8,AR
-Scott,185.0,0.86,0.67,AR
-Searcy,74.0,0.97,-1.73,AR
-Sebastian,1479.0,0.88,0.38,AR
-Sevier,219.0,0.92,-0.61,AR
-Sharp,132.0,0.98,-1.83,AR
-St. Francis,264.0,0.81,1.88,AR
-Stone,118.0,0.95,-1.2,AR
-Union,582.0,0.88,0.27,AR
-Van Buren,183.0,0.93,-0.87,AR
-Washington,3083.0,0.87,0.48,AR
-White,947.0,0.86,0.72,AR
-Woodruff,69.0,0.9,-0.08,AR
-Yell,292.0,0.87,0.49,AR
-Alameda,17496.0,0.87,-0.4,CA
-Alpine,,,0,CA
-Amador,356.0,0.88,-0.56,CA
-Butte,2441.0,0.85,-0.19,CA
-Calaveras,478.0,0.9,-0.68,CA
-Colusa,366.0,0.89,-0.64,CA
-Contra Costa,14286.0,0.88,-0.5,CA
-Del Norte,368.0,0.81,0.14,CA
-El Dorado,2172.0,0.89,-0.64,CA
-Fresno,15186.0,0.81,0.09,CA
-Glenn,448.0,0.82,0.08,CA
-Humboldt,1329.0,0.84,-0.12,CA
-Imperial,2989.0,0.85,-0.26,CA
-Inyo,873.0,0.4,3,CA
-Kern,14016.0,0.86,-0.31,CA
-Kings,2230.0,0.8,0.19,CA
-Lake,743.0,0.78,0.41,CA
-Lassen,314.0,0.86,-0.35,CA
-Los Angeles,122987.0,0.82,0.09,CA
-Madera,2215.0,0.83,-0.06,CA
-Marin,2539.0,0.87,-0.43,CA
-Mariposa,113.0,0.86,-0.31,CA
-Mendocino,1045.0,0.84,-0.1,CA
-Merced,4506.0,0.88,-0.56,CA
-Modoc,106.0,0.86,-0.31,CA
-Mono,292.0,0.36,3,CA
-Monterey,5427.0,0.85,-0.2,CA
-Napa,1686.0,0.87,-0.41,CA
-Nevada,1663.0,0.5,3.03,CA
-Orange,41787.0,0.89,-0.62,CA
-Placer,5848.0,0.9,-0.74,CA
-Plumas,166.0,0.81,0.17,CA
-Riverside,33664.0,0.89,-0.59,CA
-Sacramento,19055.0,0.81,0.14,CA
-San Benito,851.0,0.9,-0.72,CA
-San Bernardino,32250.0,0.83,-0.08,CA
-San Diego,41064.0,0.81,0.13,CA
-San Francisco,5478.0,0.71,1.04,CA
-San Joaquin,11881.0,0.82,0.07,CA
-San Luis Obispo,2946.0,0.92,-0.84,CA
-San Mateo,7400.0,0.88,-0.49,CA
-Santa Barbara,5395.0,0.87,-0.46,CA
-Santa Clara,21652.0,0.85,-0.25,CA
-Santa Cruz,3199.0,0.82,0.08,CA
-Shasta,2075.0,0.87,-0.41,CA
-Sierra,26.0,1.0,-1.63,CA
-Siskiyou,433.0,0.8,0.26,CA
-Solano,5106.0,0.81,0.11,CA
-Sonoma,5609.0,0.81,0.15,CA
-Stanislaus,8450.0,0.84,-0.13,CA
-Sutter,1737.0,0.83,-0.06,CA
-Tehama,760.0,0.88,-0.49,CA
-Trinity,156.0,0.74,0.76,CA
-Tulare,7601.0,0.86,-0.34,CA
-Tuolumne,573.0,0.86,-0.3,CA
-Ventura,11121.0,0.86,-0.33,CA
-Yolo,2428.0,0.87,-0.41,CA
-Yuba,989.0,0.75,0.7,CA
-Adams,5851.0,0.75,1.03,CO
-Alamosa,158.0,0.77,0.79,CO
-Arapahoe,8480.0,0.81,0.35,CO
-Archuleta,76.0,0.84,-0.03,CO
-Baca,34.0,0.88,-0.49,CO
-Bent,184.0,0.7,1.61,CO
-Boulder,4372.0,0.88,-0.44,CO
-Broomfield,,,0,CO
-Chaffee,167.0,0.81,0.3,CO
-Cheyenne,27.0,0.89,NR,CO
-Clear Creek,58.0,0.81,0.34,CO
-Conejos,111.0,0.89,-0.61,CO
-Costilla,26.0,0.92,-0.97,CO
-Crowley,29.0,0.83,0.14,CO
-Custer,23.0,0.87,-0.35,CO
-Delta,375.0,0.88,-0.47,CO
-Denver,5633.0,0.67,2.03,CO
-Dolores,11.0,0.82,0.25,CO
-Douglas,4568.0,0.9,-0.75,CO
-Eagle,496.0,0.71,1.54,CO
-El Paso,9427.0,0.76,0.89,CO
-Elbert,260.0,0.86,-0.25,CO
-Fremont,363.0,0.79,0.64,CO
-Garfield,794.0,0.85,-0.13,CO
-Gilpin,23.0,0.87,-0.35,CO
-Grand,125.0,0.9,-0.75,CO
-Gunnison,123.0,0.95,-1.3,CO
-Hinsdale,12.0,0.75,NR,CO
-Huerfano,51.0,0.86,-0.27,CO
-Jackson,13.0,1.0,-1.86,CO
-Jefferson,6378.0,0.83,0.06,CO
-Kiowa,21.0,0.95,-1.31,CO
-Kit Carson,114.0,0.82,0.18,CO
-La Plata,466.0,0.83,0.08,CO
-Lake,75.0,0.55,3,CO
-Larimer,3416.0,0.79,0.55,CO
-Las Animas,153.0,0.86,-0.19,CO
-Lincoln,41.0,0.78,0.69,CO
-Logan,214.0,0.87,-0.4,CO
-Mesa,1733.0,0.76,0.93,CO
-Mineral,4.0,1.0,NR,CO
-Moffat,118.0,0.81,0.31,CO
-Montezuma,269.0,0.74,1.12,CO
-Montrose,493.0,0.81,0.35,CO
-Morgan,410.0,0.84,-0.02,CO
-Otero,213.0,0.91,-0.77,CO
-Ouray,30.0,0.93,-1.09,CO
-Park,96.0,0.88,-0.41,CO
-Phillips,69.0,0.93,-1.02,CO
-Pitkin,139.0,0.93,-1.03,CO
-Prowers,140.0,0.83,0.13,CO
-Pueblo,1714.0,0.81,0.34,CO
-Rio Blanco,80.0,0.98,-1.57,CO
-Rio Grande,166.0,0.85,-0.11,CO
-Routt,232.0,0.94,-1.21,CO
-Saguache,81.0,0.8,0.43,CO
-San Juan,4.0,0.5,NR,CO
-San Miguel,92.0,0.97,-1.48,CO
-Sedgwick,93.0,0.62,2.51,CO
-Summit,221.0,0.95,-1.28,CO
-Teller,234.0,0.76,0.87,CO
-Washington,66.0,0.92,-0.98,CO
-Weld,2772.0,0.82,0.22,CO
-Yuma,100.0,0.86,-0.23,CO
-Fairfield,10902.0,0.89,-0.19,CT
-Hartford,10762.0,0.86,0.82,CT
-Litchfield,1854.0,0.9,-0.45,CT
-Middlesex,3980.0,0.95,-1.53,CT
-New Haven,9277.0,0.83,1.37,CT
-New London,2979.0,0.89,-0.08,CT
-Tolland,1640.0,0.92,-0.93,CT
-Windham,1117.0,0.85,1,CT
-Kent,1920.0,0.9,-1.08,DE
-New Castle,5852.0,0.88,0.89,DE
-Sussex,2297.0,0.89,0.19,DE
-Alachua,2129.0,0.84,-0.37,FL
-Baker,329.0,0.81,-0.02,FL
-Bay,1765.0,0.79,0.28,FL
-Bradford,226.0,0.81,0.1,FL
-Brevard,5556.0,0.86,-0.61,FL
-Broward,19649.0,0.81,0,FL
-Calhoun,156.0,0.81,-0.02,FL
-Charlotte,1158.0,0.9,-1.04,FL
-Citrus,1125.0,0.8,0.21,FL
-Clay,3022.0,0.88,-0.89,FL
-Collier,3382.0,0.89,-0.91,FL
-Columbia,731.0,0.71,1.34,FL
-DeSoto,310.0,0.65,2.06,FL
-Dixie,114.0,0.89,-1.03,FL
-Duval,8580.0,0.8,0.19,FL
-Escambia,2789.0,0.8,0.18,FL
-Flagler,1005.0,0.81,0.02,FL
-Franklin,62.0,0.79,0.28,FL
-Gadsden,312.0,0.53,3.6,FL
-Gilchrist,167.0,0.93,-1.52,FL
-Glades,52.0,0.85,-0.42,FL
-Gulf,157.0,0.85,-0.43,FL
-Hamilton,95.0,0.68,1.61,FL
-Hardee,345.0,0.73,1.07,FL
-Hendry,488.0,0.86,-0.57,FL
-Hernando,1649.0,0.87,-0.66,FL
-Highlands,907.0,0.73,1.06,FL
-Hillsborough,14744.0,0.83,-0.25,FL
-Holmes,255.0,0.7,1.44,FL
-Indian River,1230.0,0.88,-0.8,FL
-Jackson,480.0,0.73,1.08,FL
-Jefferson,43.0,0.56,3,FL
-Lafayette,85.0,0.88,-0.87,FL
-Lake,3103.0,0.78,0.42,FL
-Lee,6431.0,0.79,0.28,FL
-Leon,2388.0,0.9,-1.1,FL
-Levy,311.0,0.79,0.23,FL
-Liberty,75.0,0.91,-1.18,FL
-Madison,149.0,0.81,0.09,FL
-Manatee,3137.0,0.82,-0.1,FL
-Marion,3184.0,0.77,0.49,FL
-Martin,1607.0,0.84,-0.33,FL
-Miami-Dade,27039.0,0.81,0.06,FL
-Monroe,600.0,0.8,0.16,FL
-Nassau,959.0,0.91,-1.23,FL
-Okaloosa,2144.0,0.87,-0.69,FL
-Okeechobee,454.0,0.72,1.16,FL
-Orange,14864.0,0.84,-0.4,FL
-Osceola,4476.0,0.87,-0.67,FL
-Palm Beach,14498.0,0.86,-0.62,FL
-Pasco,5201.0,0.82,-0.07,FL
-Pinellas,7609.0,0.83,-0.23,FL
-Polk,6945.0,0.78,0.41,FL
-Putnam,705.0,0.72,1.16,FL
-Santa Rosa,2118.0,0.87,-0.66,FL
-Sarasota,3288.0,0.86,-0.57,FL
-Seminole,5269.0,0.89,-0.94,FL
-St. Johns,2855.0,0.9,-1.14,FL
-St. Lucie,3013.0,0.91,-1.28,FL
-Sumter,496.0,0.85,-0.53,FL
-Suwannee,367.0,0.93,-1.46,FL
-Taylor,165.0,0.7,1.38,FL
-Union,158.0,0.81,0.03,FL
-Volusia,4693.0,0.77,0.53,FL
-Wakulla,345.0,0.88,-0.78,FL
-Walton,573.0,0.83,-0.18,FL
-Washington,257.0,0.78,0.44,FL
-Appling,231.0,0.83,0.57,GA
-Atkinson,108.0,0.87,-0.2,GA
-Bacon,137.0,0.85,0.22,GA
-Baker,20.0,0.9,-0.72,GA
-Baldwin,295.0,0.89,-0.51,GA
-Banks,230.0,0.9,-0.79,GA
-Barrow,832.0,0.84,0.29,GA
-Bartow,1286.0,0.85,0.18,GA
-Ben Hill,222.0,0.79,1.17,GA
-Berrien,200.0,0.82,0.69,GA
-Bibb,1602.0,0.78,1.37,GA
-Bleckley,177.0,0.91,-0.89,GA
-Brantley,251.0,0.82,0.61,GA
-Brooks,136.0,0.69,2.96,GA
-Bryan,646.0,0.85,0.11,GA
-Bulloch,720.0,0.83,0.6,GA
-Burke,255.0,0.92,-1.1,GA
-Butts,282.0,0.84,0.27,GA
-Calhoun,46.0,0.89,-0.56,GA
-Camden,566.0,0.92,-1.05,GA
-Candler,124.0,0.92,-1.06,GA
-Carroll,1432.0,0.85,0.15,GA
-Catoosa,804.0,0.86,0.04,GA
-Charlton,106.0,0.73,2.34,GA
-Chatham,2228.0,0.85,0.23,GA
-Chattahoochee,95.0,0.86,-0.07,GA
-Chattooga,341.0,0.86,-0.05,GA
-Cherokee,3108.0,0.87,-0.15,GA
-Clarke,689.0,0.81,0.82,GA
-Clay,,,0,GA
-Clayton,3643.0,0.71,2.57,GA
-Clinch,84.0,0.87,-0.17,GA
-Cobb,9401.0,0.84,0.34,GA
-Coffee,497.0,0.82,0.68,GA
-Colquitt,650.0,0.83,0.58,GA
-Columbia,1835.0,0.9,-0.74,GA
-Cook,235.0,0.86,-0.08,GA
-Coweta,1701.0,0.86,0.02,GA
-Crawford,117.0,0.79,1.13,GA
-Crisp,303.0,0.86,0.02,GA
-Dade,144.0,0.87,-0.15,GA
-Dawson,239.0,0.97,-1.89,GA
-Decatur,389.0,0.87,-0.26,GA
-DeKalb,7161.0,0.77,1.66,GA
-Dodge,232.0,0.8,1.09,GA
-Dooly,114.0,0.75,1.85,GA
-Dougherty,982.0,0.84,0.37,GA
-Douglas,2047.0,0.87,-0.25,GA
-Early,177.0,0.9,-0.79,GA
-Echols,55.0,0.96,-1.84,GA
-Effingham,869.0,0.88,-0.33,GA
-Elbert,204.0,0.83,0.54,GA
-Emanuel,270.0,0.79,1.17,GA
-Evans,83.0,0.75,1.98,GA
-Fannin,162.0,0.9,-0.74,GA
-Fayette,1716.0,0.89,-0.62,GA
-Floyd,1087.0,0.92,-1.08,GA
-Forsyth,3155.0,0.94,-1.5,GA
-Franklin,279.0,0.89,-0.58,GA
-Fulton,9606.0,0.87,-0.24,GA
-Gilmer,264.0,0.92,-1.01,GA
-Glascock,48.0,0.83,0.46,GA
-Glynn,791.0,0.91,-0.94,GA
-Gordon,704.0,0.94,-1.43,GA
-Grady,297.0,0.84,0.43,GA
-Greene,122.0,0.81,0.84,GA
-Gwinnett,13463.0,0.83,0.56,GA
-Habersham,461.0,0.91,-0.95,GA
-Hall,2298.0,0.86,-0.06,GA
-Hancock,83.0,0.95,-1.63,GA
-Haralson,385.0,0.94,-1.47,GA
-Harris,415.0,0.93,-1.16,GA
-Hart,198.0,0.96,-1.86,GA
-Heard,155.0,0.94,-1.34,GA
-Henry,3539.0,0.88,-0.3,GA
-Houston,1942.0,0.88,-0.42,GA
-Irwin,117.0,0.89,-0.52,GA
-Jackson,766.0,0.94,-1.42,GA
-Jasper,175.0,0.77,1.65,GA
-Jeff Davis,241.0,0.87,-0.21,GA
-Jefferson,176.0,0.91,-0.88,GA
-Jenkins,95.0,0.73,2.34,GA
-Johnson,81.0,0.88,-0.3,GA
-Jones,403.0,0.85,0.1,GA
-Lamar,182.0,0.88,-0.35,GA
-Lanier,79.0,0.8,1.09,GA
-Laurens,603.0,0.85,0.24,GA
-Lee,447.0,0.86,-0.04,GA
-Liberty,669.0,0.83,0.52,GA
-Lincoln,90.0,0.82,0.65,GA
-Long,212.0,0.84,0.26,GA
-Lowndes,1230.0,0.84,0.34,GA
-Lumpkin,213.0,0.9,-0.66,GA
-Macon,124.0,0.87,-0.21,GA
-Madison,274.0,0.9,-0.68,GA
-Marion,120.0,0.89,-0.57,GA
-McDuffie,276.0,0.76,1.8,GA
-McIntosh,107.0,0.76,1.8,GA
-Meriwether,179.0,0.87,-0.12,GA
-Miller,90.0,0.78,1.44,GA
-Mitchell,233.0,0.9,-0.74,GA
-Monroe,334.0,0.87,-0.16,GA
-Montgomery,75.0,0.91,-0.83,GA
-Morgan,208.0,0.92,-1.04,GA
-Murray,523.0,0.85,0.08,GA
-Muscogee,2137.0,0.89,-0.49,GA
-Newton,1341.0,0.84,0.33,GA
-Oconee,572.0,0.96,-1.77,GA
-Oglethorpe,145.0,0.86,0.07,GA
-Paulding,2191.0,0.85,0.17,GA
-Peach,257.0,0.83,0.47,GA
-Pickens,296.0,0.92,-1.05,GA
-Pierce,285.0,0.89,-0.5,GA
-Pike,225.0,0.87,-0.21,GA
-Polk,553.0,0.82,0.64,GA
-Pulaski,97.0,0.86,0.06,GA
-Putnam,182.0,0.91,-0.83,GA
-Quitman,15.0,0.8,1.04,GA
-Rabun,146.0,0.92,-1.03,GA
-Randolph,93.0,0.85,0.17,GA
-Richmond,2182.0,0.79,1.26,GA
-Rockdale,1280.0,0.85,0.22,GA
-Schley,90.0,0.88,-0.33,GA
-Screven,159.0,0.73,2.28,GA
-Seminole,111.0,0.96,-1.84,GA
-Spalding,647.0,0.82,0.76,GA
-Stephens,247.0,0.85,0.23,GA
-Stewart,30.0,0.97,-1.89,GA
-Sumter,298.0,0.81,0.83,GA
-Talbot,40.0,0.75,1.92,GA
-Taliaferro,,,0,GA
-Tattnall,234.0,0.8,0.98,GA
-Taylor,110.0,0.75,2,GA
-Telfair,127.0,0.85,0.16,GA
-Terrell,107.0,0.92,-1,GA
-Thomas,602.0,0.84,0.36,GA
-Tift,485.0,0.85,0.25,GA
-Toombs,385.0,0.86,-0.01,GA
-Towns,92.0,0.92,-1.14,GA
-Treutlen,69.0,0.78,1.35,GA
-Troup,888.0,0.79,1.25,GA
-Turner,106.0,0.81,0.84,GA
-Twiggs,60.0,0.9,-0.72,GA
-Union,173.0,0.99,-2.27,GA
-Upson,326.0,0.87,-0.26,GA
-Walker,792.0,0.88,-0.34,GA
-Walton,1122.0,0.85,0.14,GA
-Ware,375.0,0.88,-0.41,GA
-Warren,32.0,0.88,-0.28,GA
-Washington,232.0,0.88,-0.35,GA
-Wayne,357.0,0.87,-0.21,GA
-Webster,25.0,0.88,-0.36,GA
-Wheeler,70.0,0.87,-0.21,GA
-White,260.0,0.95,-1.6,GA
-Whitfield,1637.0,0.84,0.37,GA
-Wilcox,97.0,0.9,-0.66,GA
-Wilkes,96.0,0.82,0.64,GA
-Wilkinson,105.0,0.93,-1.3,GA
-Worth,235.0,0.82,0.67,GA
-Hawaii,1905.0,0.79,0.93,HI
-Honolulu,8535.0,0.84,-0.32,HI
-Kalawao,,,NR,HI
-Kauai,670.0,0.88,-1.27,HI
-Maui,1633.0,0.8,0.66,HI
-Ada,6274.0,0.77,0.56,ID
-Adams,,,0,ID
-Bannock,1094.0,0.88,-0.7,ID
-Bear Lake,80.0,0.88,-0.63,ID
-Benewah,100.0,0.77,0.6,ID
-Bingham,766.0,0.86,-0.47,ID
-Blaine,264.0,0.91,-1.03,ID
-Boise,,,0,ID
-Bonner,420.0,0.82,0.04,ID
-Bonneville,1752.0,0.76,0.64,ID
-Boundary,107.0,0.93,-1.2,ID
-Butte,,,0,ID
-Camas,,,NR,ID
-Canyon,2920.0,0.78,0.46,ID
-Caribou,,,0,ID
-Cassia,364.0,0.88,-0.69,ID
-Clark,,,NR,ID
-Clearwater,171.0,0.48,3,ID
-Custer,,,0,ID
-Elmore,434.0,0.63,2.16,ID
-Franklin,236.0,0.89,-0.79,ID
-Fremont,137.0,0.93,-1.2,ID
-Gem,220.0,0.81,0.1,ID
-Gooding,240.0,0.79,0.38,ID
-Idaho,139.0,0.82,0.01,ID
-Jefferson,466.0,0.87,-0.59,ID
-Jerome,290.0,0.8,0.23,ID
-Kootenai,1803.0,0.77,0.53,ID
-Latah,373.0,0.83,-0.17,ID
-Lemhi,,,0,ID
-Lewis,,,0,ID
-Lincoln,,,0,ID
-Madison,555.0,0.9,-0.89,ID
-Minidoka,311.0,0.73,1.01,ID
-Nez Perce,446.0,0.85,-0.35,ID
-Oneida,91.0,0.78,0.5,ID
-Owyhee,142.0,0.89,-0.84,ID
-Payette,326.0,0.81,0.07,ID
-Power,128.0,0.83,-0.17,ID
-Shoshone,137.0,0.83,-0.1,ID
-Teton,117.0,0.93,-1.2,ID
-Twin Falls,1058.0,0.78,0.42,ID
-Valley,102.0,0.83,-0.11,ID
-Washington,149.0,0.86,-0.48,ID
-Adams,694.0,0.9,-0.45,IL
-Alexander,,0.79,1.81,IL
-Bond,146.0,0.88,-0.1,IL
-Boone,813.0,0.85,0.55,IL
-Brown,,0.82,1.26,IL
-Bureau,328.0,0.85,0.56,IL
-Calhoun,,0.9,-0.37,IL
-Carroll,171.0,0.88,-0.06,IL
-Cass,138.0,0.92,-0.81,IL
-Champaign,1632.0,0.88,-0.08,IL
-Christian,424.0,0.91,-0.55,IL
-Clark,229.0,0.86,0.33,IL
-Clay,173.0,0.82,1.28,IL
-Clinton,316.0,0.9,-0.4,IL
-Coles,504.0,0.9,-0.52,IL
-Cook,54814.0,0.92,-0.75,IL
-Crawford,218.0,0.88,0.01,IL
-Cumberland,122.0,0.89,-0.28,IL
-De Witt,189.0,0.89,-0.3,IL
-DeKalb,1290.0,0.91,-0.61,IL
-Douglas,257.0,0.91,-0.69,IL
-DuPage,12244.0,0.95,-1.36,IL
-Edgar,232.0,0.84,0.81,IL
-Edwards,75.0,0.81,1.36,IL
-Effingham,417.0,0.94,-1.18,IL
-Fayette,190.0,0.86,0.31,IL
-Ford,236.0,0.83,1.09,IL
-Franklin,469.0,0.85,0.59,IL
-Fulton,321.0,0.92,-0.77,IL
-Gallatin,,0.96,-1.61,IL
-Greene,,0.9,-0.53,IL
-Grundy,1036.0,0.94,-1.18,IL
-Hamilton,88.0,0.98,-2.02,IL
-Hancock,197.0,0.9,-0.4,IL
-Hardin,,0.89,-0.21,IL
-Henderson,65.0,0.85,0.68,IL
-Henry,625.0,0.89,-0.15,IL
-Iroquois,324.0,0.89,-0.25,IL
-Jackson,515.0,0.86,0.37,IL
-Jasper,103.0,0.96,-1.69,IL
-Jefferson,387.0,0.85,0.66,IL
-Jersey,226.0,0.86,0.35,IL
-Jo Daviess,,0.96,-1.65,IL
-Johnson,143.0,0.93,-1.01,IL
-Kane,7415.0,0.87,0.1,IL
-Kankakee,1295.0,0.9,-0.48,IL
-Kendall,1936.0,0.95,-1.45,IL
-Knox,569.0,0.89,-0.15,IL
-Lake,10843.0,0.91,-0.65,IL
-LaSalle,1165.0,0.88,-0.08,IL
-Lawrence,163.0,0.78,2,IL
-Lee,334.0,0.86,0.36,IL
-Livingston,449.0,0.89,-0.23,IL
-Logan,250.0,0.81,1.32,IL
-Macon,1013.0,0.85,0.62,IL
-Macoupin,653.0,0.87,0.2,IL
-Madison,3065.0,0.87,0.23,IL
-Marion,511.0,0.84,0.77,IL
-Marshall,,0.83,1,IL
-Mason,212.0,0.87,0.22,IL
-Massac,170.0,0.75,2.6,IL
-McDonough,254.0,0.87,0.25,IL
-McHenry,5493.0,0.94,-1.27,IL
-McLean,1599.0,0.92,-0.78,IL
-Menard,173.0,0.91,-0.59,IL
-Mercer,207.0,0.94,-1.22,IL
-Monroe,444.0,0.92,-0.92,IL
-Montgomery,301.0,0.84,0.77,IL
-Morgan,337.0,0.8,1.53,IL
-Moultrie,115.0,0.89,-0.15,IL
-Ogle,744.0,0.95,-1.46,IL
-Peoria,1983.0,0.84,0.88,IL
-Perry,184.0,0.92,-0.94,IL
-Piatt,189.0,0.94,-1.25,IL
-Pike,158.0,0.87,0.26,IL
-Pope,,0.84,0.78,IL
-Pulaski,,0.85,0.65,IL
-Putnam,66.0,0.82,1.26,IL
-Randolph,307.0,0.87,0.19,IL
-Richland,184.0,0.91,-0.6,IL
-Rock Island,1584.0,0.93,-0.99,IL
-Saline,306.0,0.82,1.28,IL
-Sangamon,2170.0,0.84,0.77,IL
-Schuyler,90.0,0.92,-0.87,IL
-Scott,,0.93,-1.14,IL
-Shelby,152.0,0.9,-0.48,IL
-St. Clair,3123.0,0.89,-0.24,IL
-Stark,76.0,0.86,0.49,IL
-Stephenson,467.0,0.81,1.52,IL
-Tazewell,1341.0,0.88,0,IL
-Union,208.0,0.92,-0.82,IL
-Vermilion,969.0,0.8,1.66,IL
-Wabash,148.0,0.85,0.7,IL
-Warren,212.0,0.89,-0.15,IL
-Washington,150.0,0.94,-1.33,IL
-Wayne,182.0,0.7,3,IL
-White,147.0,0.91,-0.68,IL
-Whiteside,657.0,0.88,-0.07,IL
-Will,8619.0,0.91,-0.69,IL
-Williamson,722.0,0.87,0.25,IL
-Winnebago,3241.0,0.79,1.75,IL
-Woodford,591.0,0.9,-0.53,IL
-Adams,390.0,0.93,-0.42,IN
-Allen,3763.0,0.92,-0.16,IN
-Bartholomew,911.0,0.89,0.39,IN
-Benton,139.0,0.94,-0.67,IN
-Blackford,124.0,0.97,-1.21,IN
-Boone,790.0,0.95,-0.85,IN
-Brown,151.0,0.98,-1.47,IN
-Carroll,224.0,0.93,-0.38,IN
-Cass,435.0,0.91,0.11,IN
-Clark,1217.0,0.91,-0.08,IN
-Clay,277.0,0.9,0.33,IN
-Clinton,418.0,0.9,0.19,IN
-Crawford,110.0,0.88,0.61,IN
-Daviess,305.0,0.95,-0.78,IN
-Dearborn,682.0,0.94,-0.68,IN
-Decatur,298.0,0.96,-0.97,IN
-DeKalb,588.0,0.91,-0.05,IN
-Delaware,1229.0,0.91,0.07,IN
-Dubois,540.0,0.93,-0.4,IN
-Elkhart,2503.0,0.91,0.06,IN
-Fayette,268.0,0.92,-0.15,IN
-Floyd,908.0,0.94,-0.63,IN
-Fountain,219.0,0.93,-0.44,IN
-Franklin,364.0,0.96,-0.96,IN
-Fulton,183.0,0.93,-0.39,IN
-Gibson,363.0,0.92,-0.26,IN
-Grant,749.0,0.96,-1.01,IN
-Greene,340.0,0.94,-0.64,IN
-Hamilton,5122.0,0.77,3.03,IN
-Hancock,982.0,0.92,-0.12,IN
-Harrison,441.0,0.97,-1.27,IN
-Hendricks,2121.0,0.96,-1.11,IN
-Henry,546.0,0.94,-0.53,IN
-Howard,1209.0,0.75,3.39,IN
-Huntington,388.0,0.92,-0.14,IN
-Jackson,481.0,0.92,-0.26,IN
-Jasper,398.0,0.93,-0.4,IN
-Jay,246.0,0.96,-1.03,IN
-Jefferson,341.0,0.82,2.03,IN
-Jennings,306.0,0.91,0.12,IN
-Johnson,1871.0,0.93,-0.49,IN
-Knox,322.0,0.97,-1.23,IN
-Kosciusko,897.0,0.93,-0.33,IN
-LaGrange,322.0,0.93,-0.31,IN
-Lake,6083.0,0.87,0.76,IN
-LaPorte,1304.0,0.89,0.48,IN
-Lawrence,446.0,0.84,1.44,IN
-Madison,1384.0,0.85,1.31,IN
-Marion,11472.0,0.76,3.21,IN
-Marshall,592.0,0.9,0.29,IN
-Martin,106.0,0.96,-1.09,IN
-Miami,356.0,0.95,-0.82,IN
-Monroe,1018.0,0.91,0.07,IN
-Montgomery,437.0,0.97,-1.21,IN
-Morgan,831.0,0.92,-0.21,IN
-Newton,157.0,0.88,0.67,IN
-Noble,554.0,0.91,-0.02,IN
-Ohio,48.0,0.94,-0.57,IN
-Orange,194.0,0.92,-0.25,IN
-Owen,178.0,0.92,-0.22,IN
-Parke,178.0,0.85,1.21,IN
-Perry,228.0,0.9,0.25,IN
-Pike,137.0,0.93,-0.34,IN
-Porter,2123.0,0.91,0.06,IN
-Posey,299.0,0.93,-0.33,IN
-Pulaski,159.0,0.92,-0.16,IN
-Putnam,409.0,0.91,-0.08,IN
-Randolph,343.0,0.91,0.09,IN
-Ripley,227.0,0.94,-0.58,IN
-Rush,172.0,0.98,-1.4,IN
-Scott,284.0,0.87,0.95,IN
-Shelby,497.0,0.95,-0.91,IN
-Spencer,230.0,0.93,-0.33,IN
-St. Joseph,2845.0,0.85,1.36,IN
-Starke,258.0,0.93,-0.33,IN
-Steuben,242.0,0.86,1,IN
-Sullivan,249.0,0.82,1.85,IN
-Switzerland,108.0,0.95,-0.91,IN
-Tippecanoe,1630.0,0.85,1.36,IN
-Tipton,219.0,0.95,-0.83,IN
-Union,110.0,0.92,-0.16,IN
-Vanderburgh,1658.0,0.81,2.12,IN
-Vermillion,187.0,0.94,-0.64,IN
-Vigo,950.0,0.89,0.5,IN
-Wabash,411.0,0.87,0.84,IN
-Warren,74.0,0.96,-1.03,IN
-Warrick,728.0,0.91,-0.03,IN
-Washington,311.0,0.9,0.29,IN
-Wayne,846.0,0.82,1.94,IN
-Wells,340.0,0.97,-1.21,IN
-White,345.0,0.86,1.18,IN
-Whitley,481.0,0.91,-0.04,IN
-Adair,69.0,0.97,-1.05,IA
-Adams,53.0,0.91,0.44,IA
-Allamakee,193.0,0.94,-0.41,IA
-Appanoose,134.0,0.91,0.33,IA
-Audubon,38.0,0.97,-1.11,IA
-Benton,257.0,0.88,0.95,IA
-Black Hawk,1235.0,0.89,0.71,IA
-Boone,282.0,0.96,-0.82,IA
-Bremer,373.0,0.94,-0.24,IA
-Buchanan,194.0,0.94,-0.42,IA
-Buena Vista,278.0,0.68,5.49,IA
-Butler,125.0,0.94,-0.43,IA
-Calhoun,106.0,1.0,-1.71,IA
-Carroll,234.0,0.95,-0.54,IA
-Cass,244.0,0.86,1.46,IA
-Cedar,230.0,0.91,0.37,IA
-Cerro Gordo,364.0,0.91,0.36,IA
-Cherokee,95.0,0.93,-0.03,IA
-Chickasaw,114.0,0.92,0.09,IA
-Clarke,108.0,0.9,0.61,IA
-Clay,149.0,0.89,0.74,IA
-Clayton,195.0,0.92,0.16,IA
-Clinton,581.0,0.92,0.13,IA
-Crawford,223.0,0.91,0.43,IA
-Dallas,1112.0,0.97,-0.93,IA
-Davis,98.0,0.96,-0.78,IA
-Decatur,73.0,0.99,-1.39,IA
-Delaware,168.0,0.95,-0.62,IA
-Des Moines,406.0,0.81,2.55,IA
-Dickinson,205.0,0.94,-0.26,IA
-Dubuque,1130.0,0.92,0.17,IA
-Emmet,143.0,0.97,-1.07,IA
-Fayette,243.0,0.95,-0.49,IA
-Floyd,165.0,0.93,-0.19,IA
-Franklin,92.0,0.97,-0.96,IA
-Fremont,84.0,1.0,-1.71,IA
-Greene,100.0,0.85,1.7,IA
-Grundy,217.0,0.96,-0.87,IA
-Guthrie,161.0,0.97,-1,IA
-Hamilton,198.0,0.95,-0.56,IA
-Hancock,129.0,0.95,-0.65,IA
-Hardin,210.0,0.94,-0.3,IA
-Harrison,185.0,0.96,-0.85,IA
-Henry,273.0,0.89,0.88,IA
-Howard,130.0,0.95,-0.48,IA
-Humboldt,115.0,0.95,-0.52,IA
-Ida,94.0,0.98,-1.22,IA
-Iowa,183.0,0.96,-0.71,IA
-Jackson,230.0,0.91,0.27,IA
-Jasper,371.0,0.91,0.25,IA
-Jefferson,168.0,0.91,0.32,IA
-Johnson,1209.0,0.9,0.53,IA
-Jones,184.0,0.92,0.02,IA
-Keokuk,80.0,0.91,0.28,IA
-Kossuth,100.0,0.94,-0.34,IA
-Lee,370.0,0.91,0.32,IA
-Linn,2577.0,0.89,0.91,IA
-Louisa,184.0,0.86,1.51,IA
-Lucas,102.0,0.92,0.08,IA
-Lyon,144.0,0.96,-0.76,IA
-Madison,243.0,0.95,-0.58,IA
-Mahaska,235.0,0.91,0.23,IA
-Marion,405.0,0.97,-0.98,IA
-Marshall,451.0,0.91,0.36,IA
-Mills,179.0,0.96,-0.82,IA
-Mitchell,131.0,0.95,-0.66,IA
-Monona,109.0,0.9,0.59,IA
-Monroe,81.0,0.96,-0.86,IA
-Montgomery,118.0,0.93,-0.16,IA
-Muscatine,515.0,0.86,1.47,IA
-O'Brien,184.0,0.84,1.88,IA
-Osceola,58.0,0.9,0.65,IA
-Page,183.0,0.96,-0.84,IA
-Palo Alto,128.0,0.94,-0.29,IA
-Plymouth,301.0,0.97,-1.03,IA
-Pocahontas,76.0,0.89,0.69,IA
-Polk,5052.0,0.9,0.5,IA
-Pottawattamie,1115.0,0.92,0.15,IA
-Poweshiek,202.0,0.93,-0.02,IA
-Ringgold,38.0,0.97,-1.11,IA
-Sac,66.0,0.94,-0.33,IA
-Scott,1983.0,0.88,0.97,IA
-Shelby,173.0,0.97,-0.92,IA
-Sioux,316.0,0.89,0.74,IA
-Story,799.0,0.94,-0.34,IA
-Tama,173.0,0.94,-0.39,IA
-Taylor,78.0,0.96,-0.83,IA
-Union,138.0,0.92,0.11,IA
-Van Buren,39.0,0.92,0.04,IA
-Wapello,378.0,0.9,0.64,IA
-Warren,676.0,0.95,-0.6,IA
-Washington,268.0,0.89,0.75,IA
-Wayne,72.0,0.92,0.19,IA
-Webster,362.0,0.82,2.31,IA
-Winnebago,177.0,0.93,-0.04,IA
-Winneshiek,215.0,0.97,-0.97,IA
-Woodbury,1239.0,0.87,1.21,IA
-Worth,100.0,0.93,-0.11,IA
-Wright,201.0,0.94,-0.24,IA
-Allen,186.0,0.88,0.17,KS
-Anderson,78.0,0.94,-0.65,KS
-Atchison,150.0,0.85,0.62,KS
-Barber,,0.93,-0.54,KS
-Barton,334.0,0.85,0.69,KS
-Bourbon,163.0,0.91,-0.22,KS
-Brown,118.0,0.86,0.57,KS
-Butler,1251.0,0.88,0.25,KS
-Chase,,0.95,-0.8,KS
-Chautauqua,,0.88,0.2,KS
-Cherokee,273.0,0.91,-0.28,KS
-Cheyenne,,0.87,0.34,KS
-Clark,,0.95,-0.8,KS
-Clay,108.0,0.94,-0.77,KS
-Cloud,122.0,0.76,1.99,KS
-Coffey,,0.93,-0.51,KS
-Comanche,,1.0,-1.62,KS
-Cowley,416.0,0.83,1.01,KS
-Crawford,477.0,0.86,0.45,KS
-Decatur,,0.96,-0.97,KS
-Dickinson,278.0,0.92,-0.47,KS
-Doniphan,,0.89,0.11,KS
-Douglas,1192.0,0.84,0.84,KS
-Edwards,,0.85,0.63,KS
-Elk,,0.86,0.55,KS
-Ellis,274.0,0.9,-0.07,KS
-Ellsworth,,0.84,0.78,KS
-Finney,645.0,0.81,1.3,KS
-Ford,566.0,0.91,-0.25,KS
-Franklin,337.0,0.89,0.1,KS
-Geary,388.0,0.87,0.42,KS
-Gove,,0.89,0.11,KS
-Graham,,1.0,-1.62,KS
-Grant,115.0,0.91,-0.3,KS
-Gray,,0.95,-0.88,KS
-Greeley,,0.88,0.28,KS
-Greenwood,,1.0,-1.62,KS
-Hamilton,,0.97,-1.23,KS
-Harper,,0.83,0.95,KS
-Harvey,442.0,0.89,0.04,KS
-Haskell,,0.84,0.83,KS
-Hodgeman,,1.0,-1.62,KS
-Jackson,189.0,0.94,-0.66,KS
-Jefferson,284.0,0.93,-0.56,KS
-Jewell,,0.88,0.17,KS
-Johnson,7024.0,0.9,-0.12,KS
-Kearny,,0.87,0.37,KS
-Kingman,96.0,0.94,-0.68,KS
-Kiowa,102.0,0.5,3,KS
-Labette,304.0,0.91,-0.3,KS
-Lane,,1.0,-1.62,KS
-Leavenworth,1020.0,0.92,-0.36,KS
-Lincoln,,0.92,-0.4,KS
-Linn,126.0,0.93,-0.54,KS
-Logan,,0.94,-0.68,KS
-Lyon,378.0,0.88,0.19,KS
-Marion,,0.81,1.21,KS
-Marshall,,0.94,-0.71,KS
-McPherson,358.0,0.92,-0.34,KS
-Meade,,0.86,0.51,KS
-Miami,851.0,0.93,-0.48,KS
-Mitchell,80.0,0.99,-1.44,KS
-Montgomery,378.0,0.87,0.31,KS
-Morris,,0.93,-0.62,KS
-Morton,160.0,0.8,1.42,KS
-Nemaha,161.0,0.93,-0.57,KS
-Neosho,178.0,0.92,-0.4,KS
-Ness,,0.97,-1.23,KS
-Norton,,0.88,0.28,KS
-Osage,189.0,0.86,0.48,KS
-Osborne,,0.93,-0.6,KS
-Ottawa,,0.9,-0.12,KS
-Pawnee,91.0,0.91,-0.25,KS
-Phillips,,1.0,-1.62,KS
-Pottawatomie,307.0,0.93,-0.5,KS
-Pratt,115.0,0.86,0.49,KS
-Rawlins,,0.96,-1.06,KS
-Reno,716.0,0.87,0.31,KS
-Republic,,0.86,0.45,KS
-Rice,,0.93,-0.56,KS
-Riley,588.0,0.82,1.15,KS
-Rooks,,0.93,-0.48,KS
-Rush,,0.8,1.36,KS
-Russell,62.0,0.84,0.78,KS
-Saline,640.0,0.88,0.16,KS
-Scott,74.0,0.97,-1.21,KS
-Sedgwick,5766.0,0.81,1.22,KS
-Seward,393.0,0.88,0.16,KS
-Shawnee,2165.0,0.86,0.48,KS
-Sheridan,,0.95,-0.86,KS
-Sherman,72.0,0.83,0.92,KS
-Smith,,0.89,0.04,KS
-Stafford,,0.92,-0.42,KS
-Stanton,,1.0,NR,KS
-Stevens,88.0,0.85,0.63,KS
-Sumner,295.0,0.92,-0.39,KS
-Thomas,92.0,0.86,0.51,KS
-Trego,,0.88,0.2,KS
-Wabaunsee,,0.92,-0.43,KS
-Wallace,,0.96,NR,KS
-Washington,,0.9,-0.1,KS
-Wichita,,0.94,NR,KS
-Wilson,131.0,0.84,0.81,KS
-Woodson,,0.93,-0.54,KS
-Wyandotte,2061.0,0.75,2.21,KS
-Adair,186.0,0.97,-0.82,KY
-Allen,225.0,0.92,0.91,KY
-Anderson,267.0,0.99,-1.29,KY
-Ballard,115.0,0.92,0.72,KY
-Barren,408.0,0.95,-0.23,KY
-Bath,152.0,0.91,0.94,KY
-Bell,317.0,0.96,-0.49,KY
-Boone,1437.0,0.96,-0.31,KY
-Bourbon,276.0,0.93,0.44,KY
-Boyd,483.0,0.94,0.3,KY
-Boyle,314.0,0.97,-0.67,KY
-Bracken,126.0,0.94,0.04,KY
-Breathitt,178.0,0.86,2.59,KY
-Breckinridge,258.0,0.94,0.12,KY
-Bullitt,999.0,0.91,0.99,KY
-Butler,172.0,0.93,0.47,KY
-Caldwell,141.0,0.94,0.08,KY
-Calloway,315.0,0.96,-0.48,KY
-Campbell,866.0,0.98,-0.93,KY
-Carlisle,62.0,0.94,0.31,KY
-Carroll,119.0,0.98,-1.12,KY
-Carter,359.0,0.99,-1.46,KY
-Casey,150.0,0.99,-1.23,KY
-Christian,558.0,0.94,0.2,KY
-Clark,383.0,0.97,-0.84,KY
-Clay,201.0,0.84,3.15,KY
-Clinton,130.0,0.98,-0.93,KY
-Crittenden,96.0,0.85,2.75,KY
-Cumberland,65.0,0.98,-1.16,KY
-Daviess,984.0,0.95,-0.1,KY
-Edmonson,134.0,0.94,0.17,KY
-Elliott,81.0,0.98,-0.88,KY
-Estill,180.0,0.97,-0.62,KY
-Fayette,2755.0,0.89,1.65,KY
-Fleming,176.0,0.95,-0.09,KY
-Floyd,367.0,0.96,-0.56,KY
-Franklin,447.0,0.88,2.07,KY
-Fulton,55.0,0.98,-1.08,KY
-Gallatin,113.0,0.96,-0.3,KY
-Garrard,194.0,0.94,0.23,KY
-Grant,353.0,0.89,1.69,KY
-Graves,385.0,0.95,-0.22,KY
-Grayson,291.0,0.85,2.81,KY
-Green,91.0,0.96,-0.31,KY
-Greenup,455.0,0.96,-0.44,KY
-Hancock,123.0,0.95,-0.16,KY
-Hardin,1113.0,0.94,0.1,KY
-Harlan,284.0,0.96,-0.36,KY
-Harrison,219.0,0.94,0.29,KY
-Hart,244.0,0.94,0.22,KY
-Henderson,433.0,0.96,-0.52,KY
-Henry,221.0,0.93,0.41,KY
-Hickman,46.0,0.98,-0.97,KY
-Hopkins,488.0,0.91,1.2,KY
-Jackson,132.0,0.89,1.56,KY
-Jefferson,6204.0,0.88,1.92,KY
-Jessamine,516.0,0.95,0,KY
-Johnson,309.0,0.96,-0.36,KY
-Kenton,1499.0,0.92,0.78,KY
-Knott,163.0,0.98,-0.89,KY
-Knox,325.0,0.95,-0.24,KY
-Larue,185.0,0.99,-1.3,KY
-Laurel,542.0,0.92,0.76,KY
-Lawrence,142.0,0.92,0.7,KY
-Lee,67.0,0.96,-0.28,KY
-Leslie,121.0,0.99,-1.38,KY
-Letcher,262.0,0.97,-0.82,KY
-Lewis,170.0,0.99,-1.45,KY
-Lincoln,209.0,0.96,-0.48,KY
-Livingston,83.0,0.93,0.54,KY
-Logan,340.0,0.89,1.55,KY
-Lyon,64.0,0.98,-1.16,KY
-Madison,916.0,0.95,-0.25,KY
-Magoffin,148.0,0.94,0.2,KY
-Marion,233.0,0.93,0.56,KY
-Marshall,322.0,0.96,-0.41,KY
-Martin,115.0,0.98,-1.1,KY
-Mason,201.0,0.94,0.17,KY
-McCracken,632.0,0.92,0.89,KY
-McCreary,142.0,0.96,-0.36,KY
-McLean,128.0,0.92,0.72,KY
-Meade,341.0,0.96,-0.39,KY
-Menifee,71.0,0.97,-0.78,KY
-Mercer,245.0,0.95,-0.03,KY
-Metcalfe,108.0,0.94,0.04,KY
-Monroe,138.0,0.99,-1.19,KY
-Montgomery,306.0,0.97,-0.84,KY
-Morgan,129.0,0.93,0.47,KY
-Muhlenberg,377.0,0.9,1.4,KY
-Nelson,517.0,0.96,-0.46,KY
-Nicholas,94.0,0.97,-0.67,KY
-Ohio,244.0,0.94,0.1,KY
-Oldham,901.0,0.98,-0.89,KY
-Owen,135.0,0.95,-0.07,KY
-Owsley,55.0,0.85,2.74,KY
-Pendleton,175.0,0.95,-0.08,KY
-Perry,308.0,0.97,-0.75,KY
-Pike,719.0,0.97,-0.58,KY
-Powell,159.0,0.89,1.77,KY
-Pulaski,691.0,0.96,-0.45,KY
-Robertson,27.0,1.0,-1.63,KY
-Rockcastle,175.0,0.98,-0.94,KY
-Rowan,216.0,0.97,-0.79,KY
-Russell,188.0,0.97,-0.67,KY
-Scott,551.0,0.93,0.55,KY
-Shelby,468.0,0.94,0.23,KY
-Simpson,210.0,0.94,0.23,KY
-Spencer,199.0,0.96,-0.57,KY
-Taylor,304.0,0.96,-0.54,KY
-Todd,114.0,0.99,-1.36,KY
-Trigg,164.0,0.91,0.94,KY
-Trimble,89.0,0.93,0.4,KY
-Union,144.0,0.96,-0.37,KY
-Warren,1231.0,0.96,-0.38,KY
-Washington,118.0,0.97,-0.86,KY
-Wayne,251.0,0.95,-0.19,KY
-Webster,156.0,0.88,1.84,KY
-Whitley,457.0,0.95,-0.11,KY
-Wolfe,84.0,0.96,-0.55,KY
-Woodford,291.0,0.97,-0.7,KY
-Acadia,541.0,0.91,-0.8,LA
-Allen,259.0,0.92,-0.95,LA
-Ascension,1594.0,0.88,-0.51,LA
-Assumption,242.0,0.9,-0.68,LA
-Avoyelles,410.0,0.79,0.4,LA
-Beauregard,396.0,0.95,-1.2,LA
-Bienville,134.0,0.9,-0.67,LA
-Bossier,1433.0,0.83,-0.01,LA
-Caddo,2819.0,0.74,0.97,LA
-Calcasieu,2081.0,0.84,-0.09,LA
-Caldwell,71.0,0.9,-0.72,LA
-Cameron,90.0,0.91,-0.83,LA
-Catahoula,82.0,0.88,-0.48,LA
-Claiborne,112.0,0.9,-0.73,LA
-Concordia,262.0,0.83,-0.01,LA
-De Soto,336.0,0.94,-1.11,LA
-East Baton Rouge,4454.0,0.71,1.27,LA
-East Carroll,,0.98,-1.53,LA
-East Feliciana,139.0,0.86,-0.33,LA
-Evangeline,394.0,0.81,0.28,LA
-Franklin,208.0,0.76,0.75,LA
-Grant,225.0,0.84,-0.09,LA
-Iberia,915.0,0.81,0.19,LA
-Iberville,290.0,0.86,-0.32,LA
-Jackson,135.0,0.81,0.26,LA
-Jefferson,3168.0,0.72,1.18,LA
-Jefferson Davis,361.0,0.93,-0.97,LA
-La Salle,129.0,0.96,-1.35,LA
-Lafayette,2121.0,0.77,0.66,LA
-Lafourche,834.0,0.94,-1.13,LA
-Lincoln,408.0,0.96,-1.3,LA
-Livingston,1690.0,0.87,-0.36,LA
-Madison,99.0,0.4,3,LA
-Morehouse,273.0,0.69,1.45,LA
-Natchitoches,526.0,0.8,0.38,LA
-Orleans,3717.0,0.73,1.08,LA
-Ouachita,1948.0,0.83,-0.01,LA
-Plaquemines,295.0,0.91,-0.79,LA
-Pointe Coupee,215.0,0.7,1.39,LA
-Rapides,1534.0,0.78,0.58,LA
-Red River,69.0,0.84,-0.1,LA
-Richland,284.0,0.78,0.5,LA
-Sabine,284.0,0.93,-1.05,LA
-St. Bernard,409.0,0.91,-0.82,LA
-St. Charles,717.0,0.82,0.16,LA
-St. Helena,92.0,0.74,0.96,LA
-St. James,276.0,0.85,-0.2,LA
-St. John the Baptist,352.0,0.81,0.26,LA
-St. Landry,942.0,0.69,1.46,LA
-St. Martin,535.0,0.84,-0.06,LA
-St. Mary,609.0,0.88,-0.52,LA
-St. Tammany,2686.0,0.83,0.04,LA
-Tangipahoa,1407.0,0.71,1.31,LA
-Tensas,,0.84,-0.09,LA
-Terrebonne,1148.0,0.82,0.08,LA
-Union,207.0,0.65,1.91,LA
-Vermilion,571.0,0.94,-1.08,LA
-Vernon,491.0,0.91,-0.79,LA
-Washington,503.0,0.82,0.17,LA
-Webster,448.0,0.77,0.68,LA
-West Baton Rouge,269.0,0.74,0.92,LA
-West Carroll,120.0,0.93,-1.05,LA
-West Feliciana,143.0,0.91,-0.8,LA
-Winn,175.0,0.85,-0.2,LA
-Androscoggin,1039.0,0.8,2.1,ME
-Aroostook,786.0,0.89,-1.07,ME
-Cumberland,3182.0,0.9,-1.09,ME
-Franklin,373.0,0.9,-1.29,ME
-Hancock,433.0,0.84,0.91,ME
-Kennebec,1079.0,0.86,-0.02,ME
-Knox,363.0,0.85,0.65,ME
-Lincoln,216.0,0.83,1.25,ME
-Oxford,621.0,0.84,0.72,ME
-Penobscot,1541.0,0.89,-0.85,ME
-Piscataquis,126.0,0.9,-1.15,ME
-Sagadahoc,420.0,0.85,0.42,ME
-Somerset,554.0,0.85,0.56,ME
-Waldo,306.0,0.86,0.05,ME
-Washington,235.0,0.88,-0.59,ME
-York,1710.0,0.88,-0.6,ME
-Allegany,604.0,0.89,0.08,MD
-Anne Arundel,5745.0,0.89,0.12,MD
-Baltimore,8039.0,0.89,0.04,MD
-Baltimore City,5283.0,0.71,3.16,MD
-Calvert,1283.0,0.95,-0.93,MD
-Caroline,396.0,0.82,1.18,MD
-Carroll,2044.0,0.98,-1.43,MD
-Cecil,1173.0,0.91,-0.23,MD
-Charles,2053.0,0.95,-0.95,MD
-Dorchester,291.0,0.83,1.04,MD
-Frederick,3084.0,0.92,-0.56,MD
-Garrett,289.0,0.92,-0.55,MD
-Harford,2749.0,0.89,0.05,MD
-Howard,4081.0,0.92,-0.53,MD
-Kent,147.0,0.9,-0.22,MD
-Montgomery,11431.0,0.9,-0.05,MD
-Prince George's,8951.0,0.83,1.12,MD
-Queen Anne's,560.0,0.98,-1.43,MD
-Somerset,185.0,0.86,0.56,MD
-St. Mary's,1252.0,0.94,-0.81,MD
-Talbot,357.0,0.87,0.36,MD
-Washington,1644.0,0.92,-0.52,MD
-Wicomico,1061.0,0.84,0.93,MD
-Worcester,536.0,0.92,-0.44,MD
-Barnstable,2068.0,0.92,-0.58,MA
-Berkshire,1329.0,0.88,0.12,MA
-Bristol,6149.0,0.88,0.01,MA
-Dukes,194.0,0.92,-0.58,MA
-Essex,8723.0,0.89,-0.15,MA
-Franklin,684.0,0.82,0.98,MA
-Hampden,5283.0,0.85,0.51,MA
-Hampshire,1467.0,0.94,-0.91,MA
-Middlesex,16384.0,0.94,-0.88,MA
-Nantucket,118.0,0.86,0.45,MA
-Norfolk,7648.0,0.93,-0.84,MA
-Plymouth,6348.0,0.91,-0.47,MA
-Suffolk,5782.0,0.71,2.84,MA
-Worcester,9332.0,0.91,-0.5,MA
-Alcona,58.0,0.91,-1.07,MI
-Alger,71.0,0.9,-0.85,MI
-Allegan,1363.0,0.87,-0.23,MI
-Alpena,319.0,0.87,-0.28,MI
-Antrim,239.0,0.9,-0.82,MI
-Arenac,165.0,0.92,-1.09,MI
-Baraga,96.0,0.88,-0.39,MI
-Barry,526.0,0.86,-0.19,MI
-Bay,1101.0,0.85,0.01,MI
-Benzie,146.0,0.79,1.01,MI
-Berrien,2212.0,0.71,2.43,MI
-Branch,482.0,0.82,0.57,MI
-Calhoun,1335.0,0.86,-0.18,MI
-Cass,464.0,0.87,-0.24,MI
-Charlevoix,296.0,0.84,0.14,MI
-Cheboygan,238.0,0.85,0.06,MI
-Chippewa,366.0,0.81,0.76,MI
-Clare,313.0,0.92,-1.18,MI
-Clinton,799.0,0.94,-1.46,MI
-Crawford,123.0,0.93,-1.44,MI
-Delta,356.0,0.81,0.71,MI
-Dickinson,305.0,0.86,-0.17,MI
-Eaton,1585.0,0.78,1.17,MI
-Emmet,377.0,0.95,-1.65,MI
-Genesee,5169.0,0.81,0.76,MI
-Gladwin,212.0,0.86,-0.11,MI
-Gogebic,109.0,0.94,-1.61,MI
-Grand Traverse,922.0,0.85,0,MI
-Gratiot,483.0,0.87,-0.26,MI
-Hillsdale,478.0,0.81,0.67,MI
-Houghton,416.0,0.87,-0.35,MI
-Huron,345.0,0.9,-0.75,MI
-Ingham,3211.0,0.79,1.03,MI
-Ionia,723.0,0.88,-0.4,MI
-Iosco,280.0,0.84,0.17,MI
-Iron,98.0,0.87,-0.26,MI
-Isabella,470.0,0.83,0.39,MI
-Jackson,1602.0,0.83,0.4,MI
-Kalamazoo,2411.0,0.81,0.68,MI
-Kalkaska,157.0,0.78,1.2,MI
-Kent,7327.0,0.84,0.25,MI
-Keweenaw,,,0,MI
-Lake,27.0,0.81,0.65,MI
-Lapeer,1014.0,0.91,-0.94,MI
-Leelanau,170.0,0.84,0.3,MI
-Lenawee,1104.0,0.89,-0.73,MI
-Livingston,2376.0,0.9,-0.91,MI
-Luce,40.0,0.9,-0.83,MI
-Mackinac,85.0,0.92,-1.14,MI
-Macomb,9913.0,0.86,-0.15,MI
-Manistee,490.0,0.56,5.17,MI
-Marquette,583.0,0.85,0.06,MI
-Mason,349.0,0.86,-0.18,MI
-Mecosta,480.0,0.8,0.88,MI
-Menominee,263.0,0.87,-0.25,MI
-Midland,969.0,0.89,-0.63,MI
-Missaukee,139.0,0.81,0.81,MI
-Monroe,1592.0,0.88,-0.48,MI
-Montcalm,813.0,0.88,-0.49,MI
-Montmorency,50.0,0.76,1.61,MI
-Muskegon,1976.0,0.81,0.8,MI
-Newaygo,504.0,0.84,0.26,MI
-Oakland,14553.0,0.9,-0.78,MI
-Oceana,198.0,0.93,-1.34,MI
-Ogemaw,169.0,0.76,1.55,MI
-Ontonagon,48.0,0.92,-1.12,MI
-Osceola,270.0,0.89,-0.57,MI
-Oscoda,67.0,0.78,1.33,MI
-Otsego,261.0,0.82,0.63,MI
-Ottawa,3215.0,0.92,-1.12,MI
-Presque Isle,128.0,0.87,-0.26,MI
-Roscommon,227.0,0.82,0.5,MI
-Saginaw,2113.0,0.84,0.25,MI
-Sanilac,498.0,0.88,-0.51,MI
-Schoolcraft,89.0,0.9,-0.81,MI
-Shiawassee,882.0,0.87,-0.26,MI
-St. Clair,2260.0,0.82,0.5,MI
-St. Joseph,693.0,0.89,-0.64,MI
-Tuscola,691.0,0.84,0.25,MI
-Van Buren,1126.0,0.83,0.34,MI
-Washtenaw,3526.0,0.88,-0.55,MI
-Wayne,19703.0,0.83,0.33,MI
-Wexford,367.0,0.79,1.08,MI
-Aitkin,154.0,0.92,-0.65,MN
-Anoka,4444.0,0.8,0.75,MN
-Becker,349.0,0.86,0,MN
-Beltrami,609.0,0.66,2.48,MN
-Benton,452.0,0.9,-0.47,MN
-Big Stone,76.0,0.93,-0.88,MN
-Blue Earth,799.0,0.86,0.02,MN
-Brown,283.0,0.86,0.09,MN
-Carlton,478.0,0.89,-0.35,MN
-Carver,1271.0,0.92,-0.73,MN
-Cass,323.0,0.72,1.78,MN
-Chippewa,245.0,0.66,2.49,MN
-Chisago,637.0,0.83,0.36,MN
-Clay,755.0,0.8,0.82,MN
-Clearwater,99.0,0.82,0.55,MN
-Cook,42.0,0.9,-0.52,MN
-Cottonwood,156.0,0.9,-0.43,MN
-Crow Wing,737.0,0.81,0.6,MN
-Dakota,5830.0,0.85,0.15,MN
-Dodge,243.0,0.95,-1.14,MN
-Douglas,431.0,0.84,0.34,MN
-Faribault,161.0,0.81,0.6,MN
-Fillmore,198.0,0.93,-0.89,MN
-Freeborn,290.0,0.82,0.52,MN
-Goodhue,588.0,0.87,-0.12,MN
-Grant,67.0,0.96,-1.14,MN
-Hennepin,13395.0,0.78,1.05,MN
-Houston,431.0,0.66,2.51,MN
-Hubbard,186.0,0.76,1.29,MN
-Isanti,447.0,0.84,0.26,MN
-Itasca,540.0,0.88,-0.21,MN
-Jackson,128.0,0.98,-1.41,MN
-Kanabec,179.0,0.92,-0.73,MN
-Kandiyohi,450.0,0.71,1.9,MN
-Kittson,52.0,0.9,-0.51,MN
-Koochiching,151.0,0.88,-0.22,MN
-Lac qui Parle,73.0,0.96,-1.19,MN
-Lake,127.0,0.91,-0.63,MN
-Lake of the Woods,34.0,0.88,-0.24,MN
-Le Sueur,315.0,0.86,0.07,MN
-Lincoln,42.0,0.86,0.07,MN
-Lyon,358.0,0.86,0.03,MN
-Mahnomen,95.0,0.51,3,MN
-Marshall,89.0,0.97,-1.28,MN
-Martin,197.0,0.9,-0.44,MN
-McLeod,401.0,0.88,-0.25,MN
-Meeker,274.0,0.93,-0.79,MN
-Mille Lacs,490.0,0.78,1.02,MN
-Morrison,426.0,0.9,-0.48,MN
-Mower,442.0,0.76,1.24,MN
-Murray,82.0,0.98,-1.39,MN
-Nicollet,161.0,0.84,0.22,MN
-Nobles,323.0,0.75,1.4,MN
-Norman,75.0,0.93,-0.87,MN
-Olmsted,1737.0,0.85,0.17,MN
-Otter Tail,688.0,0.82,0.47,MN
-Pennington,218.0,0.91,-0.62,MN
-Pine,269.0,0.83,0.41,MN
-Pipestone,110.0,0.86,-0.01,MN
-Polk,383.0,0.89,-0.34,MN
-Pope,76.0,0.91,-0.56,MN
-Ramsey,6597.0,0.77,1.13,MN
-Red Lake,51.0,0.94,-0.97,MN
-Redwood,182.0,0.93,-0.81,MN
-Renville,126.0,0.91,-0.62,MN
-Rice,729.0,0.79,0.84,MN
-Rock,132.0,0.94,-0.95,MN
-Roseau,189.0,0.9,-0.46,MN
-Scott,1917.0,0.86,-0.01,MN
-Sherburne,1117.0,0.89,-0.39,MN
-Sibley,165.0,0.87,-0.05,MN
-St. Louis,1975.0,0.79,0.85,MN
-Stearns,1992.0,0.86,0.03,MN
-Steele,485.0,0.89,-0.37,MN
-Stevens,129.0,1.0,-1.7,MN
-Swift,127.0,0.96,-1.21,MN
-Todd,229.0,0.91,-0.62,MN
-Traverse,37.0,0.95,-1.03,MN
-Wabasha,268.0,0.9,-0.41,MN
-Wadena,230.0,0.84,0.29,MN
-Waseca,287.0,0.87,-0.1,MN
-Washington,3449.0,0.9,-0.46,MN
-Watonwan,136.0,0.85,0.12,MN
-Wilkin,87.0,0.89,-0.28,MN
-Winona,438.0,0.87,-0.03,MN
-Wright,1998.0,0.9,-0.43,MN
-Yellow Medicine,97.0,0.94,-0.93,MN
-Adams,219.0,0.8,0.6,MS
-Alcorn,398.0,0.88,-1.07,MS
-Amite,,,0,MS
-Attala,240.0,0.83,0.07,MS
-Benton,115.0,0.78,1.14,MS
-Bolivar,422.0,0.82,0.13,MS
-Calhoun,184.0,0.88,-1,MS
-Carroll,80.0,0.83,0.07,MS
-Chickasaw,203.0,0.84,-0.3,MS
-Choctaw,97.0,0.73,2.21,MS
-Claiborne,94.0,0.88,-1,MS
-Clarke,201.0,0.83,0.04,MS
-Clay,198.0,0.88,-1,MS
-Coahoma,304.0,0.74,1.94,MS
-Copiah,295.0,0.79,0.8,MS
-Covington,204.0,0.8,0.6,MS
-DeSoto,2457.0,0.89,-1.32,MS
-Forrest,763.0,0.8,0.7,MS
-Franklin,102.0,0.83,0.07,MS
-George,307.0,0.89,-1.32,MS
-Greene,169.0,0.88,-1,MS
-Grenada,262.0,0.83,0.07,MS
-Hancock,442.0,0.83,0,MS
-Harrison,2089.0,0.85,-0.52,MS
-Hinds,2786.0,0.74,1.81,MS
-Holmes,253.0,0.76,1.46,MS
-Humphreys,119.0,0.83,0.07,MS
-Issaquena,,,NR,MS
-Itawamba,247.0,0.84,-0.25,MS
-Jackson,1755.0,0.87,-0.99,MS
-Jasper,197.0,0.83,-0.08,MS
-Jefferson,94.0,0.88,-1,MS
-Jefferson Davis,105.0,0.83,0.07,MS
-Jones,804.0,0.85,-0.5,MS
-Kemper,88.0,0.93,-2.07,MS
-Lafayette,496.0,0.87,-0.89,MS
-Lamar,721.0,0.92,-1.88,MS
-Lauderdale,819.0,0.82,0.23,MS
-Lawrence,156.0,0.83,0.07,MS
-Leake,168.0,0.78,1.14,MS
-Lee,1153.0,0.84,-0.25,MS
-Leflore,345.0,0.75,1.67,MS
-Lincoln,504.0,0.81,0.33,MS
-Lowndes,814.0,0.88,-1.03,MS
-Madison,1148.0,0.85,-0.38,MS
-Marion,259.0,0.82,0.14,MS
-Marshall,297.0,0.81,0.41,MS
-Monroe,403.0,0.88,-1.02,MS
-Montgomery,95.0,0.84,-0.25,MS
-Neshoba,401.0,0.8,0.52,MS
-Newton,292.0,0.84,-0.26,MS
-Noxubee,144.0,0.73,2.21,MS
-Oktibbeha,243.0,0.9,-1.54,MS
-Panola,343.0,0.85,-0.52,MS
-Pearl River,646.0,0.85,-0.51,MS
-Perry,143.0,0.77,1.35,MS
-Pike,512.0,0.8,0.53,MS
-Pontotoc,385.0,0.82,0.25,MS
-Prentiss,256.0,0.88,-1,MS
-Quitman,86.0,0.83,0.07,MS
-Rankin,1636.0,0.89,-1.37,MS
-Scott,332.0,0.84,-0.25,MS
-Sharkey,63.0,0.83,0.07,MS
-Simpson,254.0,0.81,0.39,MS
-Smith,182.0,0.88,-1,MS
-Stone,169.0,0.88,-1,MS
-Sunflower,257.0,0.77,1.25,MS
-Tallahatchie,140.0,0.9,-1.43,MS
-Tate,334.0,0.82,0.27,MS
-Tippah,291.0,0.83,-0.02,MS
-Tishomingo,264.0,0.84,-0.25,MS
-Tunica,139.0,0.88,-1,MS
-Union,353.0,0.83,0,MS
-Walthall,144.0,0.78,1.14,MS
-Warren,623.0,0.72,2.32,MS
-Washington,536.0,0.77,1.22,MS
-Wayne,236.0,0.79,0.82,MS
-Webster,127.0,0.88,-1,MS
-Wilkinson,79.0,0.78,1.14,MS
-Winston,192.0,0.83,0.07,MS
-Yalobusha,114.0,0.87,-0.83,MS
-Yazoo,266.0,0.75,1.73,MS
-Adair,240.0,0.91,0.36,MO
-Andrew,215.0,0.95,-0.36,MO
-Atchison,47.0,0.98,-0.96,MO
-Audrain,212.0,0.87,1.26,MO
-Barry,492.0,0.94,-0.13,MO
-Barton,146.0,0.87,1.22,MO
-Bates,166.0,0.93,0.06,MO
-Benton,208.0,0.95,-0.43,MO
-Bollinger,144.0,0.99,-1.11,MO
-Boone,1608.0,0.91,0.39,MO
-Buchanan,858.0,0.89,0.83,MO
-Butler,497.0,0.93,0.02,MO
-Caldwell,86.0,0.97,-0.69,MO
-Callaway,391.0,0.9,0.71,MO
-Camden,399.0,0.94,-0.13,MO
-Cape Girardeau,711.0,0.9,0.56,MO
-Carroll,126.0,1.0,-1.39,MO
-Carter,92.0,0.95,-0.3,MO
-Cass,1341.0,0.91,0.49,MO
-Cedar,160.0,0.89,0.87,MO
-Chariton,88.0,0.92,0.2,MO
-Christian,1079.0,0.95,-0.44,MO
-Clark,66.0,0.97,-0.78,MO
-Clay,2995.0,0.96,-0.6,MO
-Clinton,311.0,0.93,0.03,MO
-Cole,1039.0,0.8,2.68,MO
-Cooper,184.0,0.94,-0.19,MO
-Crawford,213.0,0.92,0.12,MO
-Dade,83.0,0.95,-0.42,MO
-Dallas,117.0,0.95,-0.36,MO
-Daviess,89.0,0.96,-0.49,MO
-DeKalb,53.0,0.94,-0.26,MO
-Dent,134.0,0.96,-0.64,MO
-Douglas,88.0,0.92,0.2,MO
-Dunklin,344.0,0.91,0.36,MO
-Franklin,1159.0,0.88,0.94,MO
-Gasconade,218.0,0.95,-0.47,MO
-Gentry,72.0,1.0,-1.39,MO
-Greene,2685.0,0.91,0.47,MO
-Grundy,100.0,0.93,0.01,MO
-Harrison,68.0,0.97,-0.8,MO
-Henry,171.0,0.9,0.6,MO
-Hickory,97.0,0.98,-0.98,MO
-Holt,36.0,0.97,-0.83,MO
-Howard,100.0,0.89,0.81,MO
-Howell,334.0,0.95,-0.43,MO
-Iron,123.0,1.0,-1.39,MO
-Jackson,7212.0,0.89,0.89,MO
-Jasper,1408.0,0.89,0.89,MO
-Jefferson,2695.0,0.92,0.16,MO
-Johnson,504.0,0.95,-0.4,MO
-Knox,53.0,0.96,-0.63,MO
-Laclede,411.0,0.96,-0.61,MO
-Lafayette,399.0,0.94,-0.23,MO
-Lawrence,414.0,0.91,0.5,MO
-Lewis,106.0,0.96,-0.63,MO
-Lincoln,699.0,0.95,-0.3,MO
-Linn,166.0,0.93,-0.06,MO
-Livingston,154.0,0.98,-1,MO
-Macon,171.0,0.88,0.95,MO
-Madison,164.0,0.93,0.08,MO
-Maries,91.0,0.91,0.37,MO
-Marion,363.0,0.96,-0.51,MO
-McDonald,267.0,0.92,0.26,MO
-Mercer,47.0,0.98,-0.96,MO
-Miller,375.0,0.89,0.85,MO
-Mississippi,121.0,0.98,-0.89,MO
-Moniteau,169.0,0.95,-0.32,MO
-Monroe,106.0,0.95,-0.44,MO
-Montgomery,112.0,0.91,0.4,MO
-Morgan,123.0,0.97,-0.74,MO
-New Madrid,184.0,0.97,-0.85,MO
-Newton,666.0,0.9,0.54,MO
-Nodaway,222.0,0.98,-0.94,MO
-Oregon,137.0,0.95,-0.37,MO
-Osage,168.0,0.98,-0.91,MO
-Ozark,96.0,0.96,-0.55,MO
-Pemiscot,248.0,0.95,-0.42,MO
-Perry,181.0,0.81,2.49,MO
-Pettis,472.0,0.96,-0.54,MO
-Phelps,489.0,0.92,0.25,MO
-Pike,163.0,0.9,0.58,MO
-Platte,1203.0,0.94,-0.24,MO
-Polk,409.0,0.92,0.13,MO
-Pulaski,597.0,0.93,-0.05,MO
-Putnam,49.0,0.92,0.25,MO
-Ralls,56.0,0.98,-1.03,MO
-Randolph,273.0,0.88,1.03,MO
-Ray,243.0,0.95,-0.32,MO
-Reynolds,67.0,0.93,0.11,MO
-Ripley,143.0,0.9,0.71,MO
-Saline,229.0,0.9,0.71,MO
-Schuyler,45.0,0.98,-0.94,MO
-Scotland,43.0,0.98,-0.92,MO
-Scott,442.0,0.94,-0.12,MO
-Shannon,135.0,0.91,0.39,MO
-Shelby,73.0,0.89,0.81,MO
-St. Charles,4520.0,0.93,0.05,MO
-St. Clair,91.0,0.96,-0.51,MO
-St. Francois,683.0,0.94,-0.16,MO
-St. Louis,10657.0,0.91,0.47,MO
-St. Louis City,2921.0,0.56,7.44,MO
-Ste. Genevieve,157.0,0.94,-0.24,MO
-Stoddard,331.0,0.96,-0.54,MO
-Stone,278.0,0.95,-0.38,MO
-Sullivan,87.0,0.97,-0.7,MO
-Taney,544.0,0.95,-0.47,MO
-Texas,281.0,0.92,0.25,MO
-Vernon,224.0,0.9,0.67,MO
-Warren,350.0,0.91,0.39,MO
-Washington,268.0,0.94,-0.27,MO
-Wayne,112.0,0.91,0.4,MO
-Webster,465.0,0.91,0.51,MO
-Worth,25.0,0.96,-0.59,MO
-Wright,228.0,0.98,-0.95,MO
-Beaverhead,100.0,0.95,-0.82,MT
-Big Horn,212.0,0.7,2.13,MT
-Blaine,,0.83,0.65,MT
-Broadwater,,0.83,0.61,MT
-Carbon,,0.98,-1.2,MT
-Carter,,1.0,NR,MT
-Cascade,878.0,0.84,0.48,MT
-Chouteau,,0.97,-1.06,MT
-Custer,137.0,0.84,0.5,MT
-Daniels,,1.0,-1.42,MT
-Dawson,85.0,0.89,-0.15,MT
-Deer Lodge,79.0,0.8,1.01,MT
-Fallon,,0.95,-0.87,MT
-Fergus,115.0,0.87,0.16,MT
-Flathead,1080.0,0.87,0.16,MT
-Gallatin,858.0,0.87,0.2,MT
-Garfield,,1.0,-1.42,MT
-Glacier,184.0,0.68,2.36,MT
-Golden Valley,,0.89,NR,MT
-Granite,,0.96,-0.98,MT
-Hill,234.0,0.72,1.96,MT
-Jefferson,,0.8,0.92,MT
-Judith Basin,,1.0,NR,MT
-Lake,322.0,0.89,-0.15,MT
-Lewis and Clark,771.0,0.86,0.27,MT
-Liberty,,0.92,NR,MT
-Lincoln,203.0,0.91,-0.3,MT
-Madison,,0.94,-0.74,MT
-McCone,,0.96,-0.98,MT
-Meagher,,0.95,-0.79,MT
-Mineral,,0.86,0.29,MT
-Missoula,1013.0,0.86,0.23,MT
-Musselshell,,0.91,-0.29,MT
-Park,145.0,0.93,-0.6,MT
-Petroleum,,1.0,NR,MT
-Phillips,,0.94,-0.67,MT
-Pondera,,0.91,-0.35,MT
-Powder River,,0.9,NR,MT
-Powell,,0.94,-0.67,MT
-Prairie,,0.71,2,MT
-Ravalli,443.0,0.92,-0.45,MT
-Richland,136.0,0.9,-0.28,MT
-Roosevelt,173.0,0.73,1.84,MT
-Rosebud,,0.74,1.7,MT
-Sanders,,0.92,-0.51,MT
-Sheridan,,1.0,-1.42,MT
-Silver Bow,341.0,0.82,0.69,MT
-Stillwater,,0.84,0.53,MT
-Sweet Grass,,0.95,-0.88,MT
-Teton,,0.99,-1.28,MT
-Toole,,0.89,-0.12,MT
-Treasure,,0.9,NR,MT
-Valley,,0.87,0.15,MT
-Wheatland,,0.95,-0.82,MT
-Wibaux,,0.94,NR,MT
-Yellowstone,1585.0,0.85,0.41,MT
-Adams,372.0,0.91,0.31,NE
-Antelope,77.0,0.96,-0.45,NE
-Arthur,,,NR,NE
-Banner,,,NR,NE
-Blaine,,,NR,NE
-Boone,85.0,0.99,-0.89,NE
-Box Butte,134.0,0.89,0.67,NE
-Boyd,20.0,1.0,-1.07,NE
-Brown,42.0,0.98,-0.76,NE
-Buffalo,573.0,0.94,-0.16,NE
-Burt,105.0,0.92,0.11,NE
-Butler,90.0,0.92,0.12,NE
-Cass,293.0,0.92,0.23,NE
-Cedar,91.0,0.95,-0.23,NE
-Chase,52.0,0.94,-0.14,NE
-Cherry,60.0,0.97,-0.57,NE
-Cheyenne,125.0,0.97,-0.62,NE
-Clay,85.0,0.93,0.02,NE
-Colfax,164.0,0.88,0.78,NE
-Cuming,121.0,0.98,-0.82,NE
-Custer,135.0,0.95,-0.3,NE
-Dakota,312.0,0.89,0.6,NE
-Dawes,170.0,0.52,3,NE
-Dawson,361.0,0.93,-0.02,NE
-Deuel,36.0,0.92,0.2,NE
-Dixon,52.0,0.96,-0.45,NE
-Dodge,454.0,0.89,0.7,NE
-Douglas,5998.0,0.86,1.06,NE
-Dundy,23.0,0.87,NR,NE
-Fillmore,74.0,0.81,1.84,NE
-Franklin,25.0,0.84,1.4,NE
-Frontier,39.0,0.97,-0.68,NE
-Furnas,78.0,0.95,-0.24,NE
-Gage,241.0,0.92,0.17,NE
-Garden,18.0,1.0,-1.07,NE
-Garfield,31.0,0.97,-0.61,NE
-Gosper,18.0,0.83,1.55,NE
-Grant,10.0,1.0,NR,NE
-Greeley,29.0,0.97,-0.61,NE
-Hall,856.0,0.9,0.47,NE
-Hamilton,125.0,0.98,-0.72,NE
-Harlan,20.0,1.0,-1.07,NE
-Hayes,,,NR,NE
-Hitchcock,11.0,1.0,-1.07,NE
-Holt,100.0,0.96,-0.46,NE
-Hooker,16.0,1.0,NR,NE
-Howard,75.0,1.0,-1.07,NE
-Jefferson,107.0,0.93,-0.06,NE
-Johnson,65.0,0.86,1.1,NE
-Kearney,108.0,0.96,-0.5,NE
-Keith,86.0,0.92,0.17,NE
-Keya Paha,,,NR,NE
-Kimball,40.0,0.98,-0.76,NE
-Knox,110.0,0.94,-0.21,NE
-Lancaster,2953.0,0.85,1.3,NE
-Lincoln,408.0,0.9,0.44,NE
-Logan,16.0,1.0,NR,NE
-Loup,,,NR,NE
-Madison,428.0,0.92,0.16,NE
-McPherson,,,NR,NE
-Merrick,73.0,0.89,0.67,NE
-Morrill,65.0,0.94,-0.07,NE
-Nance,71.0,0.99,-0.89,NE
-Nemaha,79.0,0.92,0.14,NE
-Nuckolls,49.0,0.92,0.23,NE
-Otoe,201.0,0.92,0.11,NE
-Pawnee,41.0,0.9,0.46,NE
-Perkins,28.0,1.0,-1.07,NE
-Phelps,130.0,0.93,-0.01,NE
-Pierce,101.0,0.98,-0.74,NE
-Platte,397.0,0.87,0.92,NE
-Polk,90.0,0.95,-0.25,NE
-Red Willow,123.0,0.98,-0.81,NE
-Richardson,87.0,0.89,0.67,NE
-Rock,14.0,1.0,-1.07,NE
-Saline,188.0,0.95,-0.23,NE
-Sarpy,2307.0,0.91,0.25,NE
-Saunders,190.0,0.94,-0.19,NE
-Scotts Bluff,410.0,0.9,0.41,NE
-Seward,216.0,0.95,-0.31,NE
-Sheridan,47.0,0.94,-0.1,NE
-Sherman,20.0,0.95,-0.3,NE
-Sioux,,,NR,NE
-Stanton,37.0,1.0,-1.07,NE
-Thayer,62.0,0.95,-0.28,NE
-Thomas,10.0,1.0,NR,NE
-Thurston,133.0,0.85,1.28,NE
-Valley,53.0,0.98,-0.73,NE
-Washington,269.0,0.95,-0.32,NE
-Wayne,102.0,0.92,0.15,NE
-Webster,43.0,0.97,-0.67,NE
-Wheeler,,,NR,NE
-York,158.0,0.95,-0.34,NE
-Carson City,2136.0,0.71,1.62,NV
-Churchill,273.0,0.73,1.33,NV
-Clark,24197.0,0.83,0.12,NV
-Douglas,497.0,0.88,-0.4,NV
-Elko,721.0,0.88,-0.52,NV
-Esmeralda,,,NR,NV
-Eureka,18.0,1.0,NR,NV
-Humboldt,238.0,0.89,-0.64,NV
-Lander,65.0,0.92,-0.99,NV
-Lincoln,79.0,0.86,-0.23,NV
-Lyon,591.0,0.84,0.08,NV
-Mineral,32.0,0.84,-0.02,NV
-Nye,435.0,0.79,0.6,NV
-Pershing,42.0,1.0,-1.92,NV
-Storey,32.0,0.91,-0.78,NV
-Washoe,4681.0,0.84,0.02,NV
-White Pine,133.0,0.7,1.74,NV
-Belknap,692.0,0.88,0.42,NH
-Carroll,413.0,0.94,-1.12,NH
-Cheshire,578.0,0.89,0.06,NH
-Coos,314.0,0.92,-0.75,NH
-Grafton,863.0,0.95,-1.36,NH
-Hillsborough,4801.0,0.88,0.47,NH
-Merrimack,1298.0,0.88,0.47,NH
-Rockingham,3456.0,0.93,-0.93,NH
-Strafford,1073.0,0.86,1.15,NH
-Sullivan,387.0,0.84,1.59,NH
-Atlantic,3422.0,0.9,0.16,NJ
-Bergen,10446.0,0.95,-1.11,NJ
-Burlington,5549.0,0.93,-0.68,NJ
-Camden,6118.0,0.88,0.8,NJ
-Cape May,998.0,0.88,0.77,NJ
-Cumberland,1863.0,0.81,2.44,NJ
-Essex,8614.0,0.87,0.96,NJ
-Gloucester,3808.0,0.93,-0.68,NJ
-Hudson,5800.0,0.85,1.39,NJ
-Hunterdon,1791.0,0.96,-1.48,NJ
-Mercer,4669.0,0.9,0.26,NJ
-Middlesex,9470.0,0.9,0.06,NJ
-Monmouth,8081.0,0.94,-0.84,NJ
-Morris,6385.0,0.95,-1.05,NJ
-Ocean,5625.0,0.91,-0.05,NJ
-Passaic,5997.0,0.9,0.28,NJ
-Salem,851.0,0.87,0.87,NJ
-Somerset,4395.0,0.94,-0.93,NJ
-Sussex,1890.0,0.95,-1.07,NJ
-Union,6901.0,0.88,0.59,NJ
-Warren,1406.0,0.93,-0.7,NJ
-Bernalillo,7396.0,0.68,1.25,NM
-Catron,,0.85,-1.17,NM
-Chaves,872.0,0.67,1.39,NM
-Cibola,337.0,0.68,1.2,NM
-Colfax,,0.81,-0.56,NM
-Curry,640.0,0.78,-0.15,NM
-De Baca,,0.88,-1.56,NM
-Dona Ana,2949.0,0.83,-0.8,NM
-Eddy,798.0,0.75,0.19,NM
-Grant,302.0,0.86,-1.23,NM
-Guadalupe,,0.87,-1.38,NM
-Harding,,,NR,NM
-Hidalgo,,0.86,-1.31,NM
-Lea,1057.0,0.86,-1.21,NM
-Lincoln,238.0,0.82,-0.78,NM
-Los Alamos,297.0,0.87,-1.35,NM
-Luna,371.0,0.68,1.21,NM
-McKinley,1261.0,0.66,1.46,NM
-Mora,,0.73,0.51,NM
-Otero,626.0,0.75,0.18,NM
-Quay,132.0,0.7,0.89,NM
-Rio Arriba,385.0,0.73,0.56,NM
-Roosevelt,259.0,0.81,-0.58,NM
-San Juan,2024.0,0.67,1.41,NM
-San Miguel,284.0,0.73,0.49,NM
-Sandoval,1525.0,0.77,-0.07,NM
-Santa Fe,1192.0,0.68,1.2,NM
-Sierra,92.0,0.85,-1.17,NM
-Socorro,186.0,0.69,1.09,NM
-Taos,300.0,0.73,0.53,NM
-Torrance,279.0,0.79,-0.3,NM
-Union,,0.79,-0.33,NM
-Valencia,978.0,0.74,0.4,NM
-Albany,3014.0,0.84,0.09,NY
-Allegany,502.0,0.88,-0.57,NY
-Bronx,14750.0,0.68,3.32,NY
-Broome,2205.0,0.83,0.37,NY
-Cattaraugus,1041.0,0.85,-0.02,NY
-Cayuga,762.0,0.83,0.35,NY
-Chautauqua,1521.0,0.83,0.27,NY
-Chemung,904.0,0.76,1.74,NY
-Chenango,584.0,0.85,-0.07,NY
-Clinton,866.0,0.87,-0.42,NY
-Columbia,583.0,0.83,0.39,NY
-Cortland,519.0,0.88,-0.57,NY
-Delaware,460.0,0.87,-0.48,NY
-Dutchess,3404.0,0.86,-0.15,NY
-Erie,9873.0,0.84,0.16,NY
-Essex,292.0,0.91,-1.19,NY
-Franklin,574.0,0.86,-0.22,NY
-Fulton,629.0,0.78,1.31,NY
-Genesee,671.0,0.91,-1.24,NY
-Greene,455.0,0.87,-0.41,NY
-Hamilton,26.0,0.96,-2.15,NY
-Herkimer,735.0,0.85,-0.03,NY
-Jefferson,1235.0,0.86,-0.16,NY
-Kings,21688.0,0.74,1.99,NY
-Lewis,300.0,0.92,-1.3,NY
-Livingston,653.0,0.89,-0.84,NY
-Madison,790.0,0.86,-0.15,NY
-Monroe,8449.0,0.83,0.36,NY
-Montgomery,609.0,0.76,1.69,NY
-Nassau,16554.0,0.91,-1.12,NY
-New York,16235.0,0.75,1.98,NY
-Niagara,2431.0,0.85,0.01,NY
-Oneida,2685.0,0.84,0.22,NY
-Onondaga,5617.0,0.84,0.15,NY
-Ontario,1264.0,0.9,-0.95,NY
-Orange,4981.0,0.87,-0.4,NY
-Orleans,468.0,0.89,-0.85,NY
-Oswego,1586.0,0.84,0.16,NY
-Otsego,587.0,0.86,-0.28,NY
-Putnam,1253.0,0.93,-1.55,NY
-Queens,19467.0,0.78,1.34,NY
-Rensselaer,1636.0,0.86,-0.31,NY
-Richmond,4707.0,0.8,0.99,NY
-Rockland,3248.0,0.85,0.07,NY
-Saratoga,2742.0,0.91,-1.15,NY
-Schenectady,1764.0,0.78,1.35,NY
-Schoharie,339.0,0.83,0.38,NY
-Schuyler,126.0,0.9,-0.92,NY
-Seneca,351.0,0.83,0.43,NY
-St. Lawrence,1037.0,0.85,0.02,NY
-Steuben,1236.0,0.86,-0.31,NY
-Suffolk,20346.0,0.9,-0.89,NY
-Sullivan,742.0,0.78,1.23,NY
-Tioga,612.0,0.87,-0.39,NY
-Tompkins,892.0,0.83,0.41,NY
-Ulster,1842.0,0.86,-0.25,NY
-Warren,753.0,0.88,-0.68,NY
-Washington,690.0,0.8,1.02,NY
-Wayne,1164.0,0.87,-0.44,NY
-Westchester,11163.0,0.9,-0.89,NY
-Wyoming,339.0,0.94,-1.7,NY
-Yates,214.0,0.79,1.22,NY
-Alamance,1945.0,0.81,0.91,NC
-Alexander,403.0,0.85,0.19,NC
-Alleghany,100.0,0.92,-1.13,NC
-Anson,282.0,0.84,0.46,NC
-Ashe,220.0,0.87,-0.13,NC
-Avery,166.0,0.94,-1.51,NC
-Beaufort,585.0,0.83,0.61,NC
-Bertie,201.0,0.84,0.38,NC
-Bladen,390.0,0.9,-0.65,NC
-Brunswick,1104.0,0.84,0.34,NC
-Buncombe,2312.0,0.88,-0.37,NC
-Burke,1112.0,0.89,-0.46,NC
-Cabarrus,3034.0,0.89,-0.52,NC
-Caldwell,1044.0,0.89,-0.46,NC
-Camden,145.0,0.83,0.51,NC
-Carteret,717.0,0.85,0.17,NC
-Caswell,210.0,0.84,0.34,NC
-Catawba,1946.0,0.92,-1.05,NC
-Chatham,703.0,0.86,0.04,NC
-Cherokee,303.0,0.92,-1.2,NC
-Chowan,157.0,0.89,-0.59,NC
-Clay,102.0,0.86,-0.04,NC
-Cleveland,1213.0,0.88,-0.36,NC
-Columbus,676.0,0.84,0.39,NC
-Craven,1069.0,0.86,-0.02,NC
-Cumberland,4073.0,0.82,0.78,NC
-Currituck,315.0,0.87,-0.12,NC
-Dare,372.0,0.91,-1.01,NC
-Davidson,2017.0,0.87,-0.19,NC
-Davie,498.0,0.87,-0.23,NC
-Duplin,723.0,0.81,0.91,NC
-Durham,2878.0,0.82,0.88,NC
-Edgecombe,490.0,0.77,1.68,NC
-Forsyth,4572.0,0.84,0.32,NC
-Franklin,663.0,0.86,0.02,NC
-Gaston,2567.0,0.86,0.09,NC
-Gates,129.0,0.93,-1.32,NC
-Graham,103.0,0.85,0.13,NC
-Granville,657.0,0.81,0.91,NC
-Greene,253.0,0.95,-1.68,NC
-Guilford,6055.0,0.89,-0.63,NC
-Halifax,558.0,0.75,2.02,NC
-Harnett,1549.0,0.86,-0.02,NC
-Haywood,586.0,0.85,0.15,NC
-Henderson,1064.0,0.91,-1.01,NC
-Hertford,235.0,0.86,0.11,NC
-Hoke,624.0,0.82,0.84,NC
-Hyde,33.0,0.91,-0.92,NC
-Iredell,2337.0,0.89,-0.61,NC
-Jackson,314.0,0.92,-1.13,NC
-Johnston,2668.0,0.92,-1.09,NC
-Jones,92.0,0.98,-2.17,NC
-Lee,793.0,0.89,-0.55,NC
-Lenoir,636.0,0.85,0.28,NC
-Lincoln,998.0,0.9,-0.73,NC
-Macon,330.0,0.91,-0.97,NC
-Madison,209.0,0.87,-0.1,NC
-Martin,259.0,0.7,3.16,NC
-McDowell,514.0,0.85,0.17,NC
-Mecklenburg,11064.0,0.85,0.19,NC
-Mitchell,166.0,0.85,0.23,NC
-Montgomery,309.0,0.9,-0.67,NC
-Moore,1112.0,0.89,-0.63,NC
-Nash,1298.0,0.83,0.63,NC
-New Hanover,2238.0,0.86,0.02,NC
-Northampton,145.0,0.63,3,NC
-Onslow,1866.0,0.89,-0.54,NC
-Orange,1541.0,0.88,-0.44,NC
-Pamlico,119.0,0.87,-0.25,NC
-Pasquotank,440.0,0.83,0.65,NC
-Pender,723.0,0.9,-0.65,NC
-Perquimans,129.0,0.9,-0.73,NC
-Person,347.0,0.87,-0.23,NC
-Pitt,1826.0,0.85,0.27,NC
-Polk,187.0,0.92,-1.13,NC
-Randolph,1709.0,0.9,-0.77,NC
-Richmond,559.0,0.81,0.97,NC
-Robeson,1840.0,0.86,0,NC
-Rockingham,1051.0,0.86,0.08,NC
-Rowan,1610.0,0.85,0.3,NC
-Rutherford,703.0,0.84,0.38,NC
-Sampson,933.0,0.83,0.5,NC
-Scotland,473.0,0.87,-0.19,NC
-Stanly,595.0,0.89,-0.5,NC
-Stokes,528.0,0.83,0.53,NC
-Surry,914.0,0.91,-1,NC
-Swain,145.0,0.79,1.3,NC
-Transylvania,300.0,0.86,0.08,NC
-Tyrrell,47.0,0.89,-0.63,NC
-Union,3445.0,0.93,-1.24,NC
-Vance,536.0,0.82,0.76,NC
-Wake,12209.0,0.89,-0.57,NC
-Warren,181.0,0.71,2.82,NC
-Washington,131.0,0.73,2.59,NC
-Watauga,366.0,0.9,-0.67,NC
-Wayne,1520.0,0.83,0.69,NC
-Wilkes,828.0,0.88,-0.34,NC
-Wilson,994.0,0.79,1.45,NC
-Yadkin,452.0,0.88,-0.29,NC
-Yancey,200.0,0.92,-1.13,NC
-Adams,,,0,ND
-Barnes,91.0,0.88,-0.9,ND
-Benson,,,0,ND
-Billings,,,NR,ND
-Bottineau,,,0,ND
-Bowman,,,0,ND
-Burke,,,0,ND
-Burleigh,898.0,0.88,-0.83,ND
-Cass,1613.0,0.86,-0.37,ND
-Cavalier,,,0,ND
-Dickey,,,0,ND
-Divide,,,0,ND
-Dunn,,,0,ND
-Eddy,,,0,ND
-Emmons,,,0,ND
-Foster,,,0,ND
-Golden Valley,,,0,ND
-Grand Forks,692.0,0.86,-0.3,ND
-Grant,,,0,ND
-Griggs,,,0,ND
-Hettinger,,,0,ND
-Kidder,,,0,ND
-LaMoure,,,0,ND
-Logan,,,0,ND
-McHenry,,,0,ND
-McIntosh,,,0,ND
-McKenzie,114.0,0.82,0.56,ND
-McLean,,,0,ND
-Mercer,,,0,ND
-Morton,363.0,0.82,0.47,ND
-Mountrail,,,0,ND
-Nelson,,,0,ND
-Oliver,,,NR,ND
-Pembina,,,0,ND
-Pierce,,,0,ND
-Ramsey,126.0,0.88,-0.74,ND
-Ransom,,,0,ND
-Renville,,,0,ND
-Richland,173.0,0.8,0.96,ND
-Rolette,328.0,0.74,2.5,ND
-Sargent,,,0,ND
-Sheridan,,,NR,ND
-Sioux,,,0,ND
-Slope,,,NR,ND
-Stark,304.0,0.87,-0.58,ND
-Steele,,,0,ND
-Stutsman,207.0,0.86,-0.5,ND
-Towner,,,0,ND
-Traill,,,0,ND
-Walsh,,,0,ND
-Ward,622.0,0.88,-0.97,ND
-Wells,,,0,ND
-Williams,343.0,0.81,0.7,ND
-Adams,360.0,0.92,0.04,OH
-Allen,1241.0,0.85,2.27,OH
-Ashland,505.0,0.94,-0.52,OH
-Ashtabula,1082.0,0.88,1.34,OH
-Athens,538.0,0.92,0.16,OH
-Auglaize,562.0,0.97,-1.42,OH
-Belmont,685.0,0.89,0.88,OH
-Brown,578.0,0.94,-0.38,OH
-Butler,4200.0,0.9,0.58,OH
-Carroll,240.0,0.91,0.34,OH
-Champaign,525.0,0.91,0.34,OH
-Clark,1616.0,0.88,1.47,OH
-Clermont,2083.0,0.94,-0.4,OH
-Clinton,591.0,0.88,1.23,OH
-Columbiana,1043.0,0.93,-0.32,OH
-Coshocton,393.0,0.93,-0.32,OH
-Crawford,484.0,0.94,-0.57,OH
-Cuyahoga,11452.0,0.86,1.83,OH
-Darke,658.0,0.97,-1.32,OH
-Defiance,497.0,0.97,-1.29,OH
-Delaware,2122.0,0.96,-1.2,OH
-Erie,869.0,0.94,-0.51,OH
-Fairfield,1912.0,0.94,-0.63,OH
-Fayette,337.0,0.91,0.29,OH
-Franklin,11938.0,0.89,1.16,OH
-Fulton,618.0,0.93,-0.21,OH
-Gallia,339.0,0.86,2.08,OH
-Geauga,906.0,0.96,-1.16,OH
-Greene,1661.0,0.92,-0.02,OH
-Guernsey,382.0,0.87,1.75,OH
-Hamilton,7496.0,0.87,1.72,OH
-Hancock,861.0,0.93,-0.31,OH
-Hardin,341.0,0.94,-0.55,OH
-Harrison,155.0,0.88,1.21,OH
-Henry,377.0,0.95,-0.72,OH
-Highland,551.0,0.92,0.16,OH
-Hocking,307.0,0.95,-0.85,OH
-Holmes,264.0,0.94,-0.49,OH
-Huron,737.0,0.96,-1.05,OH
-Jackson,400.0,0.94,-0.58,OH
-Jefferson,662.0,0.93,-0.12,OH
-Knox,615.0,0.93,-0.25,OH
-Lake,2453.0,0.92,0.24,OH
-Lawrence,681.0,0.95,-0.95,OH
-Licking,1981.0,0.92,0.1,OH
-Logan,542.0,0.96,-1.27,OH
-Lorain,3244.0,0.9,0.85,OH
-Lucas,3591.0,0.84,2.46,OH
-Madison,451.0,0.95,-0.92,OH
-Mahoning,2284.0,0.9,0.66,OH
-Marion,634.0,0.9,0.8,OH
-Medina,2353.0,0.95,-0.66,OH
-Meigs,259.0,0.88,1.2,OH
-Mercer,655.0,0.96,-1.13,OH
-Miami,1199.0,0.95,-0.81,OH
-Monroe,190.0,0.92,0.08,OH
-Montgomery,4989.0,0.88,1.37,OH
-Morgan,156.0,0.87,1.78,OH
-Morrow,394.0,0.93,-0.32,OH
-Muskingum,1035.0,0.94,-0.36,OH
-Noble,133.0,0.96,-1.19,OH
-Ottawa,454.0,0.96,-1.13,OH
-Paulding,231.0,0.97,-1.41,OH
-Perry,430.0,0.91,0.36,OH
-Pickaway,739.0,0.93,-0.15,OH
-Pike,367.0,0.89,1,OH
-Portage,1654.0,0.92,-0.01,OH
-Preble,512.0,0.93,-0.31,OH
-Putnam,479.0,0.97,-1.57,OH
-Richland,1246.0,0.9,0.73,OH
-Ross,853.0,0.9,0.85,OH
-Sandusky,666.0,0.96,-1.19,OH
-Scioto,816.0,0.95,-0.92,OH
-Seneca,499.0,0.94,-0.38,OH
-Shelby,641.0,0.92,0.14,OH
-Stark,4370.0,0.92,0.19,OH
-Summit,5416.0,0.9,0.74,OH
-Trumbull,2220.0,0.91,0.43,OH
-Tuscarawas,1211.0,0.86,2.08,OH
-Union,601.0,0.95,-0.86,OH
-Van Wert,271.0,0.94,-0.53,OH
-Vinton,159.0,0.89,1.12,OH
-Warren,2736.0,0.97,-1.31,OH
-Washington,697.0,0.92,0.07,OH
-Wayne,1211.0,0.95,-0.8,OH
-Williams,487.0,0.94,-0.58,OH
-Wood,1341.0,0.96,-1.25,OH
-Wyandot,261.0,0.95,-0.93,OH
-Adair,287.0,0.83,0.28,OK
-Alfalfa,,,0,OK
-Atoka,165.0,0.8,0.86,OK
-Beaver,,,0,OK
-Beckham,272.0,0.86,-0.52,OK
-Blaine,,,0,OK
-Bryan,494.0,0.84,-0.03,OK
-Caddo,512.0,0.85,-0.23,OK
-Canadian,1786.0,0.93,-1.99,OK
-Carter,656.0,0.85,-0.32,OK
-Cherokee,507.0,0.86,-0.51,OK
-Choctaw,190.0,0.8,0.9,OK
-Cimarron,,,0,OK
-Cleveland,3086.0,0.86,-0.36,OK
-Coal,,,0,OK
-Comanche,1601.0,0.77,1.58,OK
-Cotton,,,0,OK
-Craig,248.0,0.82,0.42,OK
-Creek,886.0,0.86,-0.45,OK
-Custer,367.0,0.92,-1.69,OK
-Delaware,415.0,0.9,-1.22,OK
-Dewey,,,0,OK
-Ellis,,,0,OK
-Garfield,746.0,0.84,0.08,OK
-Garvin,392.0,0.84,-0.05,OK
-Grady,647.0,0.85,-0.25,OK
-Grant,,,0,OK
-Greer,,,0,OK
-Harmon,,,0,OK
-Harper,,,0,OK
-Haskell,155.0,0.89,-1.08,OK
-Hughes,151.0,0.87,-0.61,OK
-Jackson,321.0,0.77,1.67,OK
-Jefferson,,,0,OK
-Johnston,135.0,0.78,1.42,OK
-Kay,554.0,0.85,-0.28,OK
-Kingfisher,292.0,0.88,-0.8,OK
-Kiowa,,,0,OK
-Latimer,126.0,0.85,-0.26,OK
-Le Flore,663.0,0.83,0.26,OK
-Lincoln,393.0,0.93,-1.99,OK
-Logan,343.0,0.75,2.05,OK
-Love,135.0,0.85,-0.26,OK
-Major,,,0,OK
-Marshall,213.0,0.83,0.17,OK
-Mayes,566.0,0.81,0.72,OK
-McClain,513.0,0.89,-1,OK
-McCurtain,512.0,0.88,-0.93,OK
-McIntosh,216.0,0.84,0.05,OK
-Murray,201.0,0.82,0.42,OK
-Muskogee,1049.0,0.83,0.31,OK
-Noble,148.0,0.9,-1.23,OK
-Nowata,161.0,0.86,-0.43,OK
-Okfuskee,151.0,0.84,-0.09,OK
-Oklahoma,9962.0,0.77,1.51,OK
-Okmulgee,463.0,0.82,0.36,OK
-Osage,229.0,0.88,-0.87,OK
-Ottawa,425.0,0.81,0.69,OK
-Pawnee,177.0,0.89,-1.13,OK
-Payne,730.0,0.85,-0.21,OK
-Pittsburg,582.0,0.8,0.98,OK
-Pontotoc,448.0,0.86,-0.52,OK
-Pottawatomie,902.0,0.8,0.98,OK
-Pushmataha,141.0,0.89,-1.03,OK
-Roger Mills,,,0,OK
-Rogers,1099.0,0.86,-0.42,OK
-Seminole,371.0,0.82,0.54,OK
-Sequoyah,577.0,0.81,0.6,OK
-Stephens,605.0,0.84,0.03,OK
-Texas,373.0,0.7,3.03,OK
-Tillman,,,0,OK
-Tulsa,8112.0,0.84,0.11,OK
-Wagoner,482.0,0.88,-0.84,OK
-Washington,812.0,0.74,2.26,OK
-Washita,,,0,OK
-Woods,83.0,0.84,-0.04,OK
-Woodward,247.0,0.87,-0.65,OK
-Baker,342.0,0.74,0.53,OR
-Benton,750.0,0.85,-1.03,OR
-Clackamas,5245.0,0.82,-0.69,OR
-Clatsop,413.0,0.69,1.32,OR
-Columbia,658.0,0.81,-0.51,OR
-Coos,953.0,0.57,2.93,OR
-Crook,244.0,0.72,0.8,OR
-Curry,192.0,0.7,1.06,OR
-Deschutes,2114.0,0.79,-0.24,OR
-Douglas,1228.0,0.66,1.67,OR
-Gilliam,34.0,0.88,-1.53,OR
-Grant,60.0,0.85,-1.06,OR
-Harney,96.0,0.84,-0.97,OR
-Hood River,320.0,0.83,-0.83,OR
-Jackson,2169.0,0.77,0.09,OR
-Jefferson,236.0,0.74,0.5,OR
-Josephine,883.0,0.7,1.17,OR
-Klamath,746.0,0.73,0.6,OR
-Lake,84.0,0.79,-0.13,OR
-Lane,3779.0,0.73,0.7,OR
-Lincoln,427.0,0.78,-0.01,OR
-Linn,2173.0,0.75,0.41,OR
-Malheur,391.0,0.83,-0.75,OR
-Marion,4660.0,0.76,0.3,OR
-Morrow,223.0,0.79,-0.25,OR
-Multnomah,6724.0,0.75,0.38,OR
-Polk,509.0,0.8,-0.28,OR
-Sherman,26.0,0.73,0.66,OR
-Tillamook,242.0,0.81,-0.48,OR
-Umatilla,1054.0,0.76,0.24,OR
-Union,273.0,0.86,-1.16,OR
-Wallowa,73.0,0.92,-2.04,OR
-Wasco,311.0,0.74,0.49,OR
-Washington,6539.0,0.85,-1.1,OR
-Wheeler,195.0,0.26,NR,OR
-Yamhill,1373.0,0.83,-0.78,OR
-Adams,1045.0,0.91,-0.36,PA
-Allegheny,11380.0,0.91,-0.24,PA
-Armstrong,657.0,0.89,0.26,PA
-Beaver,3750.0,0.7,5,PA
-Bedford,583.0,0.92,-0.46,PA
-Berks,5169.0,0.87,0.82,PA
-Blair,1420.0,0.9,-0.14,PA
-Bradford,646.0,0.91,-0.31,PA
-Bucks,7093.0,0.94,-0.91,PA
-Butler,2201.0,0.94,-1.02,PA
-Cambria,1362.0,0.93,-0.84,PA
-Cameron,49.0,0.9,0.03,PA
-Carbon,642.0,0.9,-0.03,PA
-Centre,1133.0,0.92,-0.42,PA
-Chester,6512.0,0.91,-0.25,PA
-Clarion,462.0,0.91,-0.3,PA
-Clearfield,724.0,0.9,-0.03,PA
-Clinton,356.0,0.93,-0.83,PA
-Columbia,779.0,0.88,0.4,PA
-Crawford,822.0,0.92,-0.6,PA
-Cumberland,2258.0,0.93,-0.75,PA
-Dauphin,3845.0,0.8,2.56,PA
-Delaware,5633.0,0.89,0.26,PA
-Elk,270.0,0.89,0.26,PA
-Erie,2869.0,0.87,0.65,PA
-Fayette,1287.0,0.85,1.32,PA
-Forest,40.0,0.9,-0.02,PA
-Franklin,1790.0,0.88,0.38,PA
-Fulton,170.0,0.91,-0.17,PA
-Greene,379.0,0.91,-0.27,PA
-Huntingdon,474.0,0.86,0.9,PA
-Indiana,672.0,0.93,-0.84,PA
-Jefferson,438.0,0.93,-0.8,PA
-Juniata,221.0,0.95,-1.15,PA
-Lackawanna,2030.0,0.88,0.47,PA
-Lancaster,5197.0,0.91,-0.3,PA
-Lawrence,926.0,0.94,-0.89,PA
-Lebanon,1366.0,0.85,1.2,PA
-Lehigh,3960.0,0.87,0.63,PA
-Luzerne,3244.0,0.86,1.02,PA
-Lycoming,1110.0,0.9,-0.04,PA
-McKean,475.0,0.9,-0.05,PA
-Mercer,1110.0,0.93,-0.71,PA
-Mifflin,382.0,0.9,0.1,PA
-Monroe,2056.0,0.93,-0.68,PA
-Montgomery,9665.0,0.87,0.78,PA
-Montour,160.0,0.96,-1.57,PA
-Northampton,3693.0,0.89,0.24,PA
-Northumberland,839.0,0.88,0.52,PA
-Perry,467.0,0.92,-0.59,PA
-Philadelphia,12514.0,0.79,2.6,PA
-Pike,926.0,0.89,0.29,PA
-Potter,194.0,0.87,0.82,PA
-Schuylkill,1183.0,0.91,-0.21,PA
-Snyder,340.0,0.9,0.05,PA
-Somerset,713.0,0.92,-0.45,PA
-Sullivan,50.0,0.92,-0.52,PA
-Susquehanna,470.0,0.91,-0.39,PA
-Tioga,391.0,0.87,0.8,PA
-Union,317.0,0.95,-1.17,PA
-Venango,472.0,0.92,-0.61,PA
-Warren,390.0,0.92,-0.4,PA
-Washington,2077.0,0.93,-0.73,PA
-Wayne,348.0,0.95,-1.15,PA
-Westmoreland,3774.0,0.94,-1.08,PA
-Wyoming,290.0,0.9,-0.11,PA
-York,4622.0,0.9,0.05,PA
-Bristol,456.0,0.93,-0.6,RI
-Kent,1437.0,0.92,-0.38,RI
-Newport,649.0,0.91,-0.14,RI
-Providence,5877.0,0.82,1.75,RI
-Washington,1160.0,0.93,-0.64,RI
-Abbeville,227.0,0.88,-0.69,SC
-Aiken,1582.0,0.9,-1.2,SC
-Allendale,91.0,0.84,0.23,SC
-Anderson,2369.0,0.88,-0.7,SC
-Bamberg,169.0,0.82,0.51,SC
-Barnwell,253.0,0.86,-0.36,SC
-Beaufort,1422.0,0.84,0.11,SC
-Berkeley,2173.0,0.83,0.24,SC
-Calhoun,101.0,0.9,-1.23,SC
-Charleston,3188.0,0.85,-0.04,SC
-Cherokee,640.0,0.84,0.11,SC
-Chester,359.0,0.86,-0.28,SC
-Chesterfield,387.0,0.9,-1.25,SC
-Clarendon,364.0,0.81,0.72,SC
-Colleton,364.0,0.87,-0.44,SC
-Darlington,824.0,0.9,-1.19,SC
-Dillon,386.0,0.88,-0.84,SC
-Dorchester,2031.0,0.86,-0.41,SC
-Edgefield,336.0,0.89,-0.98,SC
-Fairfield,188.0,0.91,-1.42,SC
-Florence,1592.0,0.85,-0.19,SC
-Georgetown,689.0,0.9,-1.27,SC
-Greenville,5464.0,0.87,-0.6,SC
-Greenwood,875.0,0.84,0.22,SC
-Hampton,232.0,0.86,-0.37,SC
-Horry,3209.0,0.8,0.96,SC
-Jasper,200.0,0.75,2.23,SC
-Kershaw,767.0,0.85,-0.04,SC
-Lancaster,900.0,0.83,0.34,SC
-Laurens,674.0,0.81,0.79,SC
-Lee,163.0,0.85,-0.02,SC
-Lexington,3705.0,0.86,-0.24,SC
-Marion,354.0,0.86,-0.23,SC
-Marlboro,291.0,0.84,0.23,SC
-McCormick,47.0,0.81,0.82,SC
-Newberry,424.0,0.84,0.13,SC
-Oconee,725.0,0.86,-0.21,SC
-Orangeburg,959.0,0.82,0.55,SC
-Pickens,1261.0,0.84,0.13,SC
-Richland,6224.0,0.7,3.34,SC
-Saluda,154.0,0.73,2.48,SC
-Spartanburg,3432.0,0.88,-0.73,SC
-Sumter,1185.0,0.84,0.07,SC
-Union,308.0,0.76,1.98,SC
-Williamsburg,313.0,0.86,-0.24,SC
-York,3389.0,0.89,-1.03,SC
-Aurora,34.0,0.97,-0.89,SD
-Beadle,188.0,0.79,0.95,SD
-Bennett,44.0,0.84,0.41,SD
-Bon Homme,86.0,0.93,-0.48,SD
-Brookings,289.0,0.88,0.03,SD
-Brown,416.0,0.85,0.31,SD
-Brule,63.0,0.87,0.09,SD
-Buffalo,,,0,SD
-Butte,103.0,0.91,-0.31,SD
-Campbell,,,0,SD
-Charles Mix,91.0,0.81,0.69,SD
-Clark,35.0,0.94,-0.61,SD
-Clay,79.0,0.89,-0.04,SD
-Codington,348.0,0.89,-0.03,SD
-Corson,49.0,0.49,3,SD
-Custer,57.0,0.91,-0.3,SD
-Davison,213.0,0.92,-0.38,SD
-Day,69.0,0.9,-0.16,SD
-Deuel,35.0,0.91,-0.32,SD
-Dewey,75.0,0.88,0.02,SD
-Douglas,27.0,1.0,-1.18,SD
-Edmunds,23.0,1.0,-1.18,SD
-Fall River,90.0,0.81,0.71,SD
-Faulk,18.0,0.83,0.49,SD
-Grant,92.0,0.92,-0.42,SD
-Gregory,43.0,0.77,1.15,SD
-Haakon,25.0,1.0,-1.18,SD
-Hamlin,78.0,0.95,-0.67,SD
-Hand,27.0,0.93,-0.44,SD
-Hanson,50.0,0.96,-0.78,SD
-Harding,22.0,0.95,NR,SD
-Hughes,191.0,0.88,0.03,SD
-Hutchinson,79.0,0.92,-0.42,SD
-Hyde,20.0,0.9,-0.18,SD
-Jackson,25.0,0.88,0.02,SD
-Jerauld,12.0,0.83,NR,SD
-Jones,12.0,0.92,NR,SD
-Kingsbury,78.0,0.94,-0.54,SD
-Lake,188.0,0.78,1.01,SD
-Lawrence,176.0,0.94,-0.61,SD
-Lincoln,420.0,0.91,-0.32,SD
-Lyman,31.0,0.97,-0.86,SD
-Marshall,40.0,0.95,-0.68,SD
-McCook,62.0,0.98,-1.02,SD
-McPherson,10.0,0.7,1.83,SD
-Meade,181.0,0.88,0.04,SD
-Mellette,33.0,0.79,0.95,SD
-Miner,26.0,1.0,-1.18,SD
-Minnehaha,2128.0,0.88,0.07,SD
-Moody,55.0,0.91,-0.27,SD
-Oglala Lakota,,,0,SD
-Pennington,1227.0,0.78,0.99,SD
-Perkins,38.0,0.92,-0.39,SD
-Potter,31.0,0.9,-0.21,SD
-Roberts,86.0,0.83,0.57,SD
-Sanborn,27.0,0.96,-0.81,SD
-Spink,63.0,0.9,-0.23,SD
-Stanley,30.0,0.93,-0.51,SD
-Sully,24.0,0.96,NR,SD
-Todd,117.0,0.56,3,SD
-Tripp,78.0,0.88,-0.02,SD
-Turner,89.0,0.91,-0.28,SD
-Union,182.0,0.95,-0.69,SD
-Walworth,74.0,0.96,-0.77,SD
-Yankton,220.0,0.96,-0.77,SD
-Ziebach,21.0,0.62,2.64,SD
-Anderson,859.0,0.92,0.15,TN
-Bedford,571.0,0.91,0.45,TN
-Benton,166.0,0.96,-0.77,TN
-Bledsoe,124.0,0.85,1.79,TN
-Blount,1330.0,0.94,-0.44,TN
-Bradley,1186.0,0.91,0.45,TN
-Campbell,460.0,0.94,-0.25,TN
-Cannon,137.0,0.93,0,TN
-Carroll,314.0,0.96,-0.95,TN
-Carter,637.0,0.94,-0.22,TN
-Cheatham,506.0,0.9,0.69,TN
-Chester,210.0,0.94,-0.28,TN
-Claiborne,312.0,0.92,0.25,TN
-Clay,62.0,1.0,-1.82,TN
-Cocke,381.0,0.93,-0.19,TN
-Coffee,721.0,0.9,0.63,TN
-Crockett,210.0,0.98,-1.23,TN
-Cumberland,540.0,0.9,0.62,TN
-Davidson,5508.0,0.8,3.13,TN
-Decatur,119.0,0.95,-0.57,TN
-DeKalb,196.0,0.95,-0.68,TN
-Dickson,599.0,0.96,-0.78,TN
-Dyer,487.0,0.96,-0.9,TN
-Fayette,209.0,0.9,0.56,TN
-Fentress,230.0,0.95,-0.63,TN
-Franklin,424.0,0.93,-0.12,TN
-Gibson,654.0,0.94,-0.38,TN
-Giles,346.0,0.91,0.48,TN
-Grainger,254.0,0.94,-0.45,TN
-Greene,784.0,0.94,-0.42,TN
-Grundy,191.0,0.94,-0.26,TN
-Hamblen,645.0,0.94,-0.36,TN
-Hamilton,3023.0,0.85,2.02,TN
-Hancock,77.0,0.88,1.09,TN
-Hardeman,259.0,0.88,1.06,TN
-Hardin,249.0,0.91,0.48,TN
-Hawkins,611.0,0.97,-1.09,TN
-Haywood,231.0,0.89,0.98,TN
-Henderson,346.0,0.98,-1.39,TN
-Henry,312.0,0.91,0.49,TN
-Hickman,264.0,0.95,-0.5,TN
-Houston,98.0,0.97,-1.06,TN
-Humphreys,230.0,0.91,0.34,TN
-Jackson,116.0,0.86,1.61,TN
-Jefferson,534.0,0.96,-0.8,TN
-Johnson,171.0,0.96,-0.95,TN
-Knox,4366.0,0.9,0.78,TN
-Lake,53.0,0.96,-0.88,TN
-Lauderdale,297.0,0.98,-1.4,TN
-Lawrence,467.0,0.95,-0.49,TN
-Lewis,136.0,0.93,-0.17,TN
-Lincoln,384.0,0.95,-0.46,TN
-Loudon,516.0,0.91,0.3,TN
-Macon,270.0,0.88,1.22,TN
-Madison,993.0,0.87,1.31,TN
-Marion,306.0,0.88,1.27,TN
-Marshall,409.0,0.94,-0.42,TN
-Maury,798.0,0.91,0.46,TN
-McMinn,507.0,0.94,-0.45,TN
-McNairy,297.0,0.95,-0.56,TN
-Meigs,127.0,0.97,-1.04,TN
-Monroe,489.0,0.91,0.32,TN
-Montgomery,2210.0,0.95,-0.59,TN
-Moore,62.0,0.92,0.19,TN
-Morgan,272.0,0.98,-1.37,TN
-Obion,384.0,0.84,2.07,TN
-Overton,237.0,0.86,1.65,TN
-Perry,89.0,0.97,-0.98,TN
-Pickett,63.0,0.97,-1.03,TN
-Polk,176.0,0.91,0.3,TN
-Putnam,866.0,0.92,0.08,TN
-Rhea,366.0,0.87,1.38,TN
-Roane,508.0,0.95,-0.7,TN
-Robertson,815.0,0.97,-1.06,TN
-Rutherford,3543.0,0.95,-0.66,TN
-Scott,292.0,0.96,-0.8,TN
-Sequatchie,162.0,0.86,1.56,TN
-Sevier,1088.0,0.89,0.88,TN
-Shelby,11552.0,0.8,3.07,TN
-Smith,208.0,0.92,0.09,TN
-Stewart,153.0,0.97,-1.17,TN
-Sullivan,1786.0,0.94,-0.44,TN
-Sumner,2099.0,0.95,-0.49,TN
-Tipton,777.0,0.97,-1.15,TN
-Trousdale,96.0,0.98,-1.3,TN
-Unicoi,198.0,0.86,1.7,TN
-Union,209.0,0.87,1.4,TN
-Van Buren,49.0,0.9,0.72,TN
-Warren,499.0,0.94,-0.38,TN
-Washington,1330.0,0.92,0.07,TN
-Wayne,164.0,0.96,-0.91,TN
-Weakley,355.0,0.92,0.21,TN
-White,276.0,0.94,-0.29,TN
-Williamson,2903.0,0.96,-0.73,TN
-Wilson,1572.0,0.96,-0.87,TN
-Anderson,557.0,0.94,-0.22,TX
-Andrews,238.0,0.95,-0.43,TX
-Angelina,1256.0,0.93,0.02,TX
-Aransas,222.0,0.87,0.96,TX
-Archer,161.0,0.99,-1.15,TX
-Armstrong,,1.0,-1.27,TX
-Atascosa,612.0,0.94,-0.22,TX
-Austin,431.0,0.94,-0.26,TX
-Bailey,82.0,0.99,-1.06,TX
-Bandera,176.0,0.94,-0.29,TX
-Bastrop,1130.0,0.92,0.09,TX
-Baylor,,0.95,-0.41,TX
-Bee,346.0,0.88,0.77,TX
-Bell,5607.0,0.78,2.58,TX
-Bexar,23565.0,0.88,0.73,TX
-Blanco,142.0,0.97,-0.72,TX
-Borden,,1.0,NR,TX
-Bosque,174.0,0.96,-0.55,TX
-Bowie,1183.0,0.93,-0.12,TX
-Brazoria,4663.0,0.94,-0.19,TX
-Brazos,1953.0,0.83,1.59,TX
-Brewster,,0.96,-0.63,TX
-Briscoe,,0.92,0.15,TX
-Brooks,107.0,0.85,1.3,TX
-Brown,432.0,0.96,-0.63,TX
-Burleson,190.0,0.92,0.05,TX
-Burnet,510.0,0.93,-0.02,TX
-Caldwell,511.0,0.9,0.41,TX
-Calhoun,316.0,0.92,0.17,TX
-Callahan,150.0,0.96,-0.63,TX
-Cameron,7010.0,0.91,0.24,TX
-Camp,181.0,0.97,-0.7,TX
-Carson,,0.98,-0.85,TX
-Cass,392.0,0.97,-0.67,TX
-Castro,108.0,0.98,-0.94,TX
-Chambers,522.0,0.98,-0.99,TX
-Cherokee,714.0,0.89,0.7,TX
-Childress,96.0,0.9,0.43,TX
-Clay,,0.98,-0.97,TX
-Cochran,,1.0,-1.27,TX
-Coke,,0.92,0.09,TX
-Coleman,96.0,0.89,0.63,TX
-Collin,13698.0,0.97,-0.7,TX
-Collingsworth,,0.98,-0.89,TX
-Colorado,269.0,0.86,1.14,TX
-Comal,2147.0,0.94,-0.15,TX
-Comanche,148.0,0.99,-1.04,TX
-Concho,,1.0,-1.27,TX
-Cooke,409.0,0.96,-0.65,TX
-Coryell,773.0,0.93,-0.1,TX
-Cottle,,1.0,-1.27,TX
-Crane,81.0,0.91,0.32,TX
-Crockett,,0.88,0.75,TX
-Crosby,,0.95,-0.44,TX
-Culberson,,0.98,-0.84,TX
-Dallam,137.0,0.98,-0.97,TX
-Dallas,33856.0,0.84,1.54,TX
-Dawson,166.0,0.96,-0.6,TX
-Deaf Smith,277.0,0.9,0.53,TX
-Delta,,0.94,-0.31,TX
-Denton,11075.0,0.94,-0.31,TX
-DeWitt,188.0,0.93,-0.14,TX
-Dickens,,0.95,-0.36,TX
-Dimmit,147.0,0.83,1.66,TX
-Donley,,0.93,-0.12,TX
-Duval,180.0,0.86,1.13,TX
-Eastland,206.0,0.94,-0.29,TX
-Ector,1868.0,0.81,2.02,TX
-Edwards,,0.96,-0.63,TX
-El Paso,13277.0,0.86,1.18,TX
-Ellis,2719.0,0.92,0.07,TX
-Erath,334.0,0.59,5.76,TX
-Falls,,0.87,0.91,TX
-Fannin,358.0,0.97,-0.7,TX
-Fayette,255.0,0.94,-0.24,TX
-Fisher,,0.98,-0.85,TX
-Floyd,,0.96,-0.5,TX
-Foard,,1.0,-1.27,TX
-Fort Bend,13354.0,0.93,-0.05,TX
-Franklin,110.0,0.99,-1.08,TX
-Freestone,259.0,0.94,-0.24,TX
-Frio,204.0,0.85,1.37,TX
-Gaines,227.0,0.93,0,TX
-Galveston,5899.0,0.92,0.15,TX
-Garza,,0.71,3,TX
-Gillespie,291.0,0.95,-0.39,TX
-Glasscock,,1.0,NR,TX
-Goliad,106.0,0.99,-1.09,TX
-Gonzales,292.0,0.85,1.38,TX
-Gray,260.0,0.95,-0.36,TX
-Grayson,1429.0,0.94,-0.27,TX
-Gregg,1652.0,0.94,-0.21,TX
-Grimes,286.0,0.93,-0.03,TX
-Guadalupe,2005.0,0.94,-0.27,TX
-Hale,530.0,0.89,0.7,TX
-Hall,,1.0,-1.27,TX
-Hamilton,,0.99,-1.06,TX
-Hansford,,0.99,-1.08,TX
-Hardeman,,0.98,-0.94,TX
-Hardin,708.0,0.96,-0.53,TX
-Harris,53667.0,0.87,1.01,TX
-Harrison,900.0,0.94,-0.15,TX
-Hartley,,0.95,-0.36,TX
-Haskell,,0.91,0.26,TX
-Hays,2472.0,0.89,0.55,TX
-Hemphill,64.0,0.84,1.54,TX
-Henderson,706.0,0.96,-0.55,TX
-Hidalgo,15082.0,0.88,0.72,TX
-Hill,458.0,0.96,-0.53,TX
-Hockley,317.0,0.87,0.96,TX
-Hood,572.0,0.95,-0.34,TX
-Hopkins,452.0,0.94,-0.22,TX
-Houston,220.0,0.95,-0.44,TX
-Howard,334.0,0.92,0.14,TX
-Hudspeth,,0.94,-0.24,TX
-Hunt,1030.0,0.9,0.38,TX
-Hutchinson,298.0,0.94,-0.21,TX
-Irion,,1.0,NR,TX
-Jack,111.0,0.98,-0.92,TX
-Jackson,222.0,0.96,-0.63,TX
-Jasper,389.0,0.96,-0.62,TX
-Jeff Davis,,1.0,-1.27,TX
-Jefferson,2683.0,0.86,1.14,TX
-Jim Hogg,69.0,0.85,1.33,TX
-Jim Wells,583.0,0.84,1.42,TX
-Johnson,2346.0,0.93,-0.1,TX
-Jones,,0.96,-0.56,TX
-Karnes,,0.95,-0.39,TX
-Kaufman,1790.0,0.93,-0.1,TX
-Kendall,741.0,0.98,-0.91,TX
-Kenedy,,,NR,TX
-Kent,,0.9,NR,TX
-Kerr,500.0,0.94,-0.24,TX
-Kimble,,0.98,-0.94,TX
-King,,1.0,NR,TX
-Kinney,,0.93,-0.07,TX
-Kleberg,346.0,0.88,0.73,TX
-Knox,,0.98,-0.94,TX
-La Salle,89.0,0.87,1.01,TX
-Lamar,574.0,0.94,-0.21,TX
-Lamb,200.0,0.96,-0.53,TX
-Lampasas,263.0,0.97,-0.74,TX
-Lavaca,251.0,0.97,-0.67,TX
-Lee,223.0,0.95,-0.48,TX
-Leon,218.0,0.98,-0.84,TX
-Liberty,1013.0,0.92,0.17,TX
-Limestone,268.0,0.9,0.41,TX
-Lipscomb,,0.97,-0.7,TX
-Live Oak,132.0,0.93,-0.07,TX
-Llano,103.0,1.0,-1.27,TX
-Loving,,,NR,TX
-Lubbock,3038.0,0.9,0.43,TX
-Lynn,,1.0,-1.27,TX
-Madison,159.0,0.95,-0.48,TX
-Marion,88.0,0.94,-0.19,TX
-Martin,,0.97,-0.67,TX
-Mason,,1.0,-1.27,TX
-Matagorda,482.0,0.92,0.17,TX
-Maverick,1123.0,0.87,0.97,TX
-McCulloch,121.0,0.98,-0.94,TX
-McLennan,3289.0,0.91,0.32,TX
-McMullen,,1.0,NR,TX
-Medina,689.0,0.94,-0.15,TX
-Menard,,0.95,-0.36,TX
-Midland,1670.0,0.88,0.84,TX
-Milam,274.0,0.91,0.22,TX
-Mills,,0.7,3,TX
-Mitchell,96.0,0.97,-0.79,TX
-Montague,205.0,0.96,-0.55,TX
-Montgomery,7136.0,0.92,0.19,TX
-Moore,342.0,0.97,-0.7,TX
-Morris,145.0,0.95,-0.48,TX
-Motley,,1.0,-1.27,TX
-Nacogdoches,722.0,0.89,0.7,TX
-Navarro,639.0,0.95,-0.41,TX
-Newton,151.0,0.92,0.15,TX
-Nolan,195.0,0.93,-0.02,TX
-Nueces,4376.0,0.87,0.92,TX
-Ochiltree,174.0,0.91,0.26,TX
-Oldham,,1.0,-1.27,TX
-Orange,1066.0,0.91,0.29,TX
-Palo Pinto,310.0,0.94,-0.29,TX
-Panola,277.0,0.89,0.56,TX
-Parker,1525.0,0.97,-0.68,TX
-Parmer,140.0,0.97,-0.67,TX
-Pecos,210.0,0.65,3,TX
-Polk,439.0,0.92,0.09,TX
-Potter,2381.0,0.88,0.84,TX
-Presidio,142.0,0.94,-0.21,TX
-Rains,120.0,0.92,0.1,TX
-Randall,682.0,0.97,-0.67,TX
-Reagan,,0.96,-0.55,TX
-Real,,0.71,3,TX
-Red River,,0.97,-0.82,TX
-Reeves,176.0,0.96,-0.5,TX
-Refugio,,0.95,-0.46,TX
-Roberts,,1.0,NR,TX
-Robertson,208.0,0.97,-0.75,TX
-Rockwall,1460.0,0.96,-0.55,TX
-Runnels,140.0,0.97,-0.75,TX
-Rusk,544.0,0.93,-0.14,TX
-Sabine,145.0,0.92,0.07,TX
-San Augustine,,0.94,-0.21,TX
-San Jacinto,225.0,0.91,0.32,TX
-San Patricio,976.0,0.93,-0.03,TX
-San Saba,,0.93,-0.12,TX
-Schleicher,,0.98,-0.87,TX
-Scurry,209.0,0.93,-0.02,TX
-Shackelford,,0.93,-0.02,TX
-Shelby,342.0,0.93,-0.05,TX
-Sherman,,0.96,-0.55,TX
-Smith,2147.0,0.91,0.27,TX
-Somervell,213.0,0.88,0.79,TX
-Starr,1140.0,0.91,0.22,TX
-Stephens,96.0,0.91,0.31,TX
-Sterling,,0.95,NR,TX
-Stonewall,,0.96,-0.53,TX
-Sutton,80.0,0.95,-0.41,TX
-Swisher,115.0,0.88,0.84,TX
-Tarrant,24137.0,0.89,0.55,TX
-Taylor,1449.0,0.86,1.11,TX
-Terrell,,0.9,0.44,TX
-Terry,159.0,0.92,0.07,TX
-Throckmorton,,0.96,-0.5,TX
-Titus,395.0,0.97,-0.74,TX
-Tom Green,1322.0,0.89,0.58,TX
-Travis,9303.0,0.9,0.51,TX
-Trinity,156.0,0.89,0.56,TX
-Tyler,252.0,0.92,0.05,TX
-Upshur,500.0,0.96,-0.58,TX
-Upton,,0.93,-0.12,TX
-Uvalde,436.0,0.78,2.58,TX
-Val Verde,744.0,0.86,1.11,TX
-Van Zandt,763.0,0.93,-0.1,TX
-Victoria,1031.0,0.81,1.91,TX
-Walker,651.0,0.77,2.65,TX
-Waller,656.0,0.95,-0.36,TX
-Ward,154.0,0.95,-0.41,TX
-Washington,356.0,0.91,0.22,TX
-Webb,4769.0,0.91,0.22,TX
-Wharton,593.0,0.96,-0.63,TX
-Wheeler,,0.95,-0.36,TX
-Wichita,1312.0,0.97,-0.68,TX
-Wilbarger,118.0,0.83,1.66,TX
-Willacy,309.0,0.88,0.85,TX
-Williamson,8209.0,0.95,-0.43,TX
-Wilson,678.0,0.96,-0.63,TX
-Winkler,97.0,0.99,-1.11,TX
-Wise,624.0,0.96,-0.58,TX
-Wood,434.0,0.97,-0.7,TX
-Yoakum,162.0,0.99,-1.03,TX
-Young,242.0,0.96,-0.6,TX
-Zapata,251.0,0.9,0.41,TX
-Zavala,179.0,0.9,0.38,TX
-Beaver,,0.85,0.98,UT
-Box Elder,,0.84,1.19,UT
-Cache,,0.92,-0.53,UT
-Carbon,,0.95,-1.05,UT
-Daggett,,,NR,UT
-Davis,,0.95,-1.05,UT
-Duchesne,,0.88,0.37,UT
-Emery,,0.94,-0.85,UT
-Garfield,,0.93,-0.65,UT
-Grand,,0.83,1.39,UT
-Iron,,0.9,-0.03,UT
-Juab,,0.95,-1.15,UT
-Kane,,0.98,-1.56,UT
-Millard,,0.91,-0.24,UT
-Morgan,,0.93,-0.65,UT
-Piute,,0.95,NR,UT
-Rich,,0.95,-1.05,UT
-Salt Lake,,0.82,1.59,UT
-San Juan,,0.92,-0.44,UT
-Sanpete,,0.82,1.54,UT
-Sevier,,0.83,1.39,UT
-Summit,,0.94,-0.8,UT
-Tooele,,0.87,0.58,UT
-Uintah,,0.83,1.39,UT
-Utah,,0.91,-0.18,UT
-Wasatch,,0.92,-0.44,UT
-Washington,,0.89,0.17,UT
-Wayne,,0.95,-1.05,UT
-Weber,,0.84,1.13,UT
-Addison,338.0,0.94,-1.46,VT
-Bennington,271.0,0.82,1.62,VT
-Caledonia,89.0,0.81,1.92,VT
-Chittenden,1676.0,0.9,-0.51,VT
-Essex,,,0,VT
-Franklin,583.0,0.92,-1.05,VT
-Grand Isle,,,0,VT
-Lamoille,251.0,0.88,-0.02,VT
-Orange,220.0,0.89,-0.2,VT
-Orleans,307.0,0.89,-0.27,VT
-Rutland,609.0,0.9,-0.44,VT
-Washington,625.0,0.9,-0.49,VT
-Windham,378.0,0.85,0.8,VT
-Windsor,550.0,0.88,0.11,VT
-Accomack,340.0,0.9,0.22,VA
-Albemarle,1037.0,0.95,-0.83,VA
-Alexandria City,874.0,0.83,1.6,VA
-Alleghany,203.0,0.91,-0.08,VA
-Amelia,154.0,0.94,-0.73,VA
-Amherst,347.0,0.96,-1.04,VA
-Appomattox,185.0,0.95,-0.92,VA
-Arlington,1541.0,0.91,-0.02,VA
-Augusta,809.0,0.91,-0.1,VA
-Bath,56.0,0.91,-0.08,VA
-Bedford,782.0,0.9,0.07,VA
-Bland,56.0,0.98,-1.57,VA
-Botetourt,372.0,0.94,-0.58,VA
-Bristol City,178.0,0.84,1.47,VA
-Brunswick,140.0,0.86,0.91,VA
-Buchanan,237.0,0.9,0.09,VA
-Buckingham,143.0,0.94,-0.77,VA
-Buena Vista City,92.0,0.9,0.11,VA
-Campbell,628.0,0.93,-0.43,VA
-Caroline,314.0,0.87,0.72,VA
-Carroll,306.0,0.91,0.05,VA
-Charles City,54.0,0.93,-0.39,VA
-Charlotte,154.0,0.87,0.78,VA
-Charlottesville City,316.0,0.9,0.24,VA
-Chesapeake City,3164.0,0.93,-0.41,VA
-Chesterfield,4902.0,0.9,0.13,VA
-Clarke,193.0,0.98,-1.5,VA
-Colonial Heights City,223.0,0.96,-1.1,VA
-Covington City,64.0,0.86,1.01,VA
-Craig,46.0,0.89,0.34,VA
-Culpeper,619.0,0.9,0.19,VA
-Cumberland,99.0,0.95,-0.87,VA
-Danville City,438.0,0.77,2.83,VA
-Dickenson,171.0,0.88,0.63,VA
-Dinwiddie,354.0,0.9,0.26,VA
-Emporia City,,,0,VA
-Essex,100.0,0.86,0.99,VA
-Fairfax,14111.0,0.91,-0.14,VA
-Fairfax City,,,0,VA
-Falls Church City,197.0,1.0,-1.84,VA
-Fauquier,900.0,0.96,-1.06,VA
-Floyd,138.0,0.94,-0.58,VA
-Fluvanna,269.0,0.97,-1.4,VA
-Franklin,504.0,0.94,-0.58,VA
-Franklin City,75.0,0.87,0.84,VA
-Frederick,1011.0,0.95,-0.85,VA
-Fredericksburg City,220.0,0.83,1.68,VA
-Galax City,101.0,0.89,0.34,VA
-Giles,207.0,0.9,0.17,VA
-Gloucester,446.0,0.9,0.07,VA
-Goochland,198.0,0.97,-1.21,VA
-Grayson,139.0,0.96,-1.19,VA
-Greene,240.0,0.95,-0.98,VA
-Greensville,173.0,0.84,1.33,VA
-Halifax,379.0,0.91,-0.12,VA
-Hampton City,1511.0,0.92,-0.16,VA
-Hanover,1573.0,0.95,-0.94,VA
-Harrisonburg City,412.0,0.87,0.7,VA
-Henrico,3846.0,0.91,-0.08,VA
-Henry,545.0,0.87,0.74,VA
-Highland,17.0,0.82,1.74,VA
-Hopewell City,324.0,0.85,1.16,VA
-Isle of Wight,416.0,0.94,-0.64,VA
-James City,965.0,0.92,-0.33,VA
-King and Queen,38.0,0.74,3,VA
-King George,324.0,0.94,-0.64,VA
-King William,238.0,0.94,-0.62,VA
-Lancaster,101.0,0.87,0.76,VA
-Lee,235.0,0.77,2.88,VA
-Lexington City,,,0,VA
-Loudoun,5421.0,0.96,-1,VA
-Louisa,328.0,0.92,-0.22,VA
-Lunenburg,117.0,0.88,0.57,VA
-Lynchburg City,580.0,0.86,0.91,VA
-Madison,128.0,0.94,-0.64,VA
-Manassas City,569.0,0.79,2.54,VA
-Manassas Park City,244.0,0.91,0.03,VA
-Martinsville City,158.0,0.87,0.84,VA
-Mathews,107.0,0.92,-0.18,VA
-Mecklenburg,341.0,0.93,-0.41,VA
-Middlesex,84.0,0.85,1.3,VA
-Montgomery,697.0,0.93,-0.43,VA
-Nelson,154.0,0.88,0.51,VA
-New Kent,243.0,0.89,0.38,VA
-Newport News City,1870.0,0.94,-0.58,VA
-Norfolk City,1830.0,0.81,1.97,VA
-Northampton,108.0,0.82,1.93,VA
-Northumberland,113.0,0.96,-1.02,VA
-Norton City,47.0,0.96,-1.04,VA
-Nottoway,171.0,0.87,0.76,VA
-Orange,390.0,0.94,-0.77,VA
-Page,273.0,0.97,-1.25,VA
-Patrick,214.0,0.92,-0.29,VA
-Petersburg City,281.0,0.8,2.16,VA
-Pittsylvania,728.0,0.92,-0.25,VA
-Poquoson City,189.0,0.95,-0.83,VA
-Portsmouth City,1012.0,0.87,0.86,VA
-Powhatan,369.0,0.94,-0.64,VA
-Prince Edward,162.0,0.93,-0.52,VA
-Prince George,469.0,0.92,-0.2,VA
-Prince William,6420.0,0.92,-0.22,VA
-Pulaski,365.0,0.94,-0.62,VA
-Radford City,109.0,0.95,-0.98,VA
-Rappahannock,70.0,0.96,-1.04,VA
-Richmond,109.0,0.95,-0.79,VA
-Richmond City,1378.0,0.77,2.9,VA
-Roanoke,1182.0,0.94,-0.73,VA
-Roanoke City,881.0,0.9,0.22,VA
-Rockbridge,241.0,0.91,-0.04,VA
-Rockingham,939.0,0.95,-0.83,VA
-Russell,375.0,0.92,-0.16,VA
-Salem City,264.0,0.94,-0.75,VA
-Scott,277.0,0.94,-0.73,VA
-Shenandoah,458.0,0.96,-1.13,VA
-Smyth,365.0,0.95,-0.79,VA
-Southampton,186.0,0.89,0.32,VA
-Spotsylvania,1843.0,0.91,0.05,VA
-Stafford,2329.0,0.94,-0.75,VA
-Staunton City,176.0,0.89,0.45,VA
-Suffolk City,1024.0,0.87,0.76,VA
-Surry,67.0,0.88,0.55,VA
-Sussex,88.0,0.9,0.19,VA
-Tazewell,446.0,0.9,0.26,VA
-Virginia Beach City,5219.0,0.92,-0.25,VA
-Warren,459.0,0.94,-0.66,VA
-Washington,569.0,0.94,-0.58,VA
-Waynesboro City,227.0,0.88,0.63,VA
-Westmoreland,180.0,0.94,-0.67,VA
-Williamsburg City,965.0,0.92,-0.33,VA
-Winchester City,297.0,0.93,-0.46,VA
-Wise,420.0,0.96,-1.1,VA
-Wythe,318.0,0.91,-0.1,VA
-York,974.0,0.95,-0.94,VA
-Adams,332.0,0.77,1.34,WA
-Asotin,288.0,0.78,1,WA
-Benton,2803.0,0.77,1.32,WA
-Chelan,971.0,0.81,0.38,WA
-Clallam,711.0,0.81,0.5,WA
-Clark,6269.0,0.84,-0.14,WA
-Columbia,42.0,0.83,-0.07,WA
-Cowlitz,1277.0,0.81,0.45,WA
-Douglas,586.0,0.85,-0.51,WA
-Ferry,56.0,0.79,0.91,WA
-Franklin,1307.0,0.75,1.56,WA
-Garfield,21.0,0.86,-0.56,WA
-Grant,1323.0,0.79,0.87,WA
-Grays Harbor,732.0,0.82,0.3,WA
-Island,589.0,0.88,-1.05,WA
-Jefferson,237.0,0.8,0.58,WA
-King,18323.0,0.84,-0.21,WA
-Kitsap,2759.0,0.82,0.14,WA
-Kittitas,375.0,0.83,-0.1,WA
-Klickitat,200.0,0.85,-0.41,WA
-Lewis,908.0,0.84,-0.19,WA
-Lincoln,142.0,0.95,-2.48,WA
-Mason,595.0,0.75,1.59,WA
-Okanogan,407.0,0.89,-1.27,WA
-Pacific,178.0,0.89,-1.18,WA
-Pend Oreille,149.0,0.91,-1.56,WA
-Pierce,9031.0,0.87,-0.76,WA
-San Juan,104.0,0.89,-1.32,WA
-Skagit,1382.0,0.75,1.71,WA
-Skamania,79.0,0.82,0.15,WA
-Snohomish,9656.0,0.86,-0.56,WA
-Spokane,5388.0,0.85,-0.46,WA
-Stevens,401.0,0.83,0.09,WA
-Thurston,3135.0,0.85,-0.45,WA
-Wahkiakum,32.0,0.84,-0.28,WA
-Walla Walla,686.0,0.77,1.27,WA
-Whatcom,2058.0,0.81,0.38,WA
-Whitman,283.0,0.92,-1.9,WA
-Yakima,3609.0,0.79,0.92,WA
-Barbour,172.0,0.91,-0.15,WV
-Berkeley,1286.0,0.94,-0.88,WV
-Boone,297.0,0.88,0.62,WV
-Braxton,151.0,0.9,0.16,WV
-Brooke,223.0,0.92,-0.31,WV
-Cabell,892.0,0.82,2.17,WV
-Calhoun,63.0,0.94,-0.75,WV
-Clay,131.0,0.89,0.35,WV
-Doddridge,100.0,0.96,-1.34,WV
-Fayette,490.0,0.84,1.56,WV
-Gilmer,68.0,0.96,-1.23,WV
-Grant,123.0,0.95,-1.12,WV
-Greenbrier,399.0,0.9,0.18,WV
-Hampshire,260.0,0.84,1.63,WV
-Hancock,289.0,0.9,0.18,WV
-Hardy,156.0,0.93,-0.57,WV
-Harrison,755.0,0.88,0.69,WV
-Jackson,328.0,0.96,-1.27,WV
-Jefferson,644.0,0.89,0.35,WV
-Kanawha,1914.0,0.83,1.85,WV
-Lewis,182.0,0.88,0.7,WV
-Lincoln,211.0,0.93,-0.55,WV
-Logan,457.0,0.91,0.02,WV
-Marion,565.0,0.93,-0.47,WV
-Marshall,318.0,0.91,-0.13,WV
-Mason,297.0,0.91,-0.14,WV
-McDowell,238.0,0.83,1.89,WV
-Mercer,616.0,0.89,0.31,WV
-Mineral,319.0,0.97,-1.56,WV
-Mingo,231.0,0.94,-0.71,WV
-Monongalia,802.0,0.9,0.23,WV
-Monroe,138.0,0.97,-1.61,WV
-Morgan,189.0,0.94,-0.75,WV
-Nicholas,271.0,0.93,-0.67,WV
-Ohio,355.0,0.97,-1.63,WV
-Pendleton,81.0,0.98,-1.72,WV
-Pleasants,95.0,0.93,-0.49,WV
-Pocahontas,85.0,0.88,0.62,WV
-Preston,305.0,0.83,2.03,WV
-Putnam,761.0,0.93,-0.52,WV
-Raleigh,784.0,0.87,0.93,WV
-Randolph,253.0,0.9,0.14,WV
-Ritchie,94.0,0.85,1.4,WV
-Roane,163.0,0.9,0.13,WV
-Summers,98.0,0.86,1.25,WV
-Taylor,170.0,0.89,0.32,WV
-Tucker,83.0,0.96,-1.44,WV
-Tyler,116.0,0.92,-0.39,WV
-Upshur,256.0,0.91,-0.08,WV
-Wayne,580.0,0.87,0.95,WV
-Webster,91.0,0.95,-0.96,WV
-Wetzel,217.0,0.93,-0.61,WV
-Wirt,76.0,0.88,0.64,WV
-Wood,902.0,0.9,0.28,WV
-Wyoming,311.0,0.89,0.49,WV
-Adams,131.0,0.92,0.02,WI
-Ashland,205.0,0.89,0.61,WI
-Barron,556.0,0.91,0.22,WI
-Bayfield,139.0,0.94,-0.64,WI
-Brown,3243.0,0.9,0.43,WI
-Buffalo,140.0,0.97,-1.37,WI
-Burnett,271.0,0.83,2.18,WI
-Calumet,268.0,0.96,-1.06,WI
-Chippewa,668.0,0.9,0.51,WI
-Clark,361.0,0.96,-1.11,WI
-Columbia,678.0,0.94,-0.53,WI
-Crawford,163.0,0.94,-0.7,WI
-Dane,5509.0,0.91,0.28,WI
-Dodge,632.0,0.9,0.5,WI
-Door,284.0,0.95,-0.76,WI
-Douglas,456.0,0.89,0.67,WI
-Dunn,406.0,0.9,0.39,WI
-Eau Claire,1001.0,0.87,1.08,WI
-Florence,32.0,0.94,-0.52,WI
-Fond du Lac,1140.0,0.89,0.63,WI
-Forest,102.0,0.93,-0.36,WI
-Grant,507.0,0.94,-0.5,WI
-Green,412.0,0.96,-1.05,WI
-Green Lake,256.0,0.92,-0.03,WI
-Iowa,243.0,0.97,-1.37,WI
-Iron,48.0,0.96,-1.04,WI
-Jackson,224.0,0.89,0.61,WI
-Jefferson,815.0,0.91,0.19,WI
-Juneau,280.0,0.9,0.34,WI
-Kenosha,2308.0,0.9,0.55,WI
-Kewaunee,318.0,0.95,-0.75,WI
-La Crosse,1188.0,0.93,-0.25,WI
-Lafayette,240.0,0.95,-0.94,WI
-Langlade,237.0,0.89,0.67,WI
-Lincoln,362.0,0.94,-0.56,WI
-Manitowoc,834.0,0.91,0.23,WI
-Marathon,1463.0,0.94,-0.47,WI
-Marinette,464.0,0.92,-0.03,WI
-Marquette,142.0,0.85,1.81,WI
-Menominee,76.0,0.78,3,WI
-Milwaukee,10073.0,0.77,3.75,WI
-Monroe,531.0,0.95,-0.76,WI
-Oconto,309.0,0.92,0.03,WI
-Oneida,403.0,0.91,0.16,WI
-Outagamie,2583.0,0.91,0.27,WI
-Ozaukee,1150.0,0.96,-1.17,WI
-Pepin,84.0,0.98,-1.49,WI
-Pierce,575.0,0.96,-1,WI
-Polk,525.0,0.94,-0.56,WI
-Portage,669.0,0.91,0.2,WI
-Price,141.0,0.92,-0.13,WI
-Racine,2265.0,0.83,2.31,WI
-Richland,126.0,0.91,0.11,WI
-Rock,2107.0,0.94,-0.55,WI
-Rusk,138.0,0.88,0.83,WI
-Sauk,845.0,0.91,0.23,WI
-Sawyer,147.0,0.88,0.99,WI
-Shawano,409.0,0.91,0.12,WI
-Sheboygan,1553.0,0.94,-0.63,WI
-St. Croix,1060.0,0.93,-0.36,WI
-Taylor,212.0,0.92,-0.19,WI
-Trempealeau,411.0,0.95,-0.8,WI
-Vernon,295.0,0.96,-1.07,WI
-Vilas,109.0,0.97,-1.4,WI
-Walworth,1226.0,0.93,-0.43,WI
-Washburn,174.0,0.91,0.08,WI
-Washington,1670.0,0.93,-0.42,WI
-Waukesha,5122.0,0.94,-0.7,WI
-Waupaca,703.0,0.89,0.7,WI
-Waushara,176.0,0.9,0.34,WI
-Winnebago,1644.0,0.91,0.3,WI
-Wood,910.0,0.92,-0.18,WI
-Albany,237.0,0.81,0.12,WY
-Big Horn,273.0,0.66,1.72,WY
-Campbell,658.0,0.79,0.33,WY
-Carbon,176.0,0.78,0.48,WY
-Converse,198.0,0.87,-0.48,WY
-Crook,80.0,0.98,-1.51,WY
-Fremont,463.0,0.69,1.34,WY
-Goshen,144.0,0.85,-0.29,WY
-Hot Springs,55.0,0.87,-0.47,WY
-Johnson,78.0,0.86,-0.33,WY
-Laramie,1039.0,0.79,0.34,WY
-Lincoln,270.0,0.91,-0.86,WY
-Natrona,934.0,0.79,0.33,WY
-Niobrara,117.0,0.51,3,WY
-Park,309.0,0.85,-0.29,WY
-Platte,108.0,0.84,-0.17,WY
-Sheridan,346.0,0.86,-0.3,WY
-Sublette,119.0,0.92,-0.91,WY
-Sweetwater,592.0,0.8,0.25,WY
-Teton,153.0,0.93,-1.1,WY
-Uinta,320.0,0.85,-0.21,WY
-Washakie,124.0,0.86,-0.37,WY
-Weston,81.0,0.9,-0.76,WY
+Value,"County, State"
+0.9,"Autauga, AL"
+0.86,"Baldwin, AL"
+0.81,"Barbour, AL"
+0.84,"Bibb, AL"
+0.93,"Blount, AL"
+0.7,"Bullock, AL"
+0.82,"Butler, AL"
+0.92,"Calhoun, AL"
+0.86,"Chambers, AL"
+0.95,"Cherokee, AL"
+0.88,"Chilton, AL"
+0.79,"Choctaw, AL"
+0.91,"Clarke, AL"
+0.9,"Clay, AL"
+0.98,"Cleburne, AL"
+0.93,"Coffee, AL"
+0.92,"Colbert, AL"
+0.8,"Conecuh, AL"
+0.83,"Coosa, AL"
+0.95,"Covington, AL"
+0.89,"Crenshaw, AL"
+0.91,"Cullman, AL"
+0.9,"Dale, AL"
+0.86,"Dallas, AL"
+0.93,"DeKalb, AL"
+0.86,"Elmore, AL"
+0.88,"Escambia, AL"
+0.9,"Etowah, AL"
+0.92,"Fayette, AL"
+0.92,"Franklin, AL"
+0.9,"Geneva, AL"
+0.78,"Greene, AL"
+0.91,"Hale, AL"
+0.98,"Henry, AL"
+0.91,"Houston, AL"
+0.9,"Jackson, AL"
+0.89,"Jefferson, AL"
+0.94,"Lamar, AL"
+0.94,"Lauderdale, AL"
+0.88,"Lawrence, AL"
+0.91,"Lee, AL"
+0.92,"Limestone, AL"
+0.91,"Lowndes, AL"
+0.8,"Macon, AL"
+0.93,"Madison, AL"
+0.91,"Marengo, AL"
+0.9,"Marion, AL"
+0.92,"Marshall, AL"
+0.84,"Mobile, AL"
+0.88,"Monroe, AL"
+0.82,"Montgomery, AL"
+0.9,"Morgan, AL"
+0.93,"Perry, AL"
+0.98,"Pickens, AL"
+0.87,"Pike, AL"
+0.92,"Randolph, AL"
+0.88,"Russell, AL"
+0.94,"Shelby, AL"
+0.88,"St. Clair, AL"
+0.77,"Sumter, AL"
+0.93,"Talladega, AL"
+0.9,"Tallapoosa, AL"
+0.89,"Tuscaloosa, AL"
+0.9,"Walker, AL"
+0.93,"Washington, AL"
+0.83,"Wilcox, AL"
+0.93,"Winston, AL"
+0.82,"Aleutians East, AK"
+0.93,"Aleutians West, AK"
+0.8,"Anchorage, AK"
+0.55,"Bethel, AK"
+0.83,"Bristol Bay, AK"
+0.45,"Denali, AK"
+0.65,"Dillingham, AK"
+0.7,"Fairbanks North Star, AK"
+0.87,"Haines, AK"
+0.73,"Hoonah-Angoon, AK"
+0.77,"Juneau, AK"
+0.82,"Kenai Peninsula, AK"
+0.77,"Ketchikan Gateway, AK"
+0.9,"Kodiak Island, AK"
+0.6,"Kusilvak, AK"
+,"Lake and Peninsula, AK"
+0.78,"Matanuska-Susitna, AK"
+0.82,"Nome, AK"
+0.7,"North Slope, AK"
+0.75,"Northwest Arctic, AK"
+0.91,"Petersburg, AK"
+0.71,"Prince of Wales-Hyder, AK"
+0.82,"Sitka, AK"
+1.0,"Skagway, AK"
+0.62,"Southeast Fairbanks, AK"
+0.76,"Valdez-Cordova, AK"
+0.88,"Wrangell, AK"
+0.86,"Yakutat, AK"
+0.56,"Yukon-Koyukuk, AK"
+0.74,"Apache, AZ"
+0.84,"Cochise, AZ"
+0.81,"Coconino, AZ"
+0.82,"Gila, AZ"
+0.84,"Graham, AZ"
+0.92,"Greenlee, AZ"
+0.82,"La Paz, AZ"
+0.81,"Maricopa, AZ"
+0.83,"Mohave, AZ"
+0.81,"Navajo, AZ"
+0.78,"Pima, AZ"
+0.72,"Pinal, AZ"
+0.91,"Santa Cruz, AZ"
+0.85,"Yavapai, AZ"
+0.88,"Yuma, AZ"
+0.82,"Arkansas, AR"
+0.9,"Ashley, AR"
+0.86,"Baxter, AR"
+0.9,"Benton, AR"
+0.93,"Boone, AR"
+0.9,"Bradley, AR"
+0.92,"Calhoun, AR"
+0.82,"Carroll, AR"
+0.87,"Chicot, AR"
+0.84,"Clark, AR"
+0.93,"Clay, AR"
+0.92,"Cleburne, AR"
+0.96,"Cleveland, AR"
+0.91,"Columbia, AR"
+0.86,"Conway, AR"
+0.93,"Craighead, AR"
+0.9,"Crawford, AR"
+0.89,"Crittenden, AR"
+0.92,"Cross, AR"
+0.87,"Dallas, AR"
+0.87,"Desha, AR"
+0.88,"Drew, AR"
+0.93,"Faulkner, AR"
+0.97,"Franklin, AR"
+0.98,"Fulton, AR"
+0.85,"Garland, AR"
+0.89,"Grant, AR"
+0.96,"Greene, AR"
+0.82,"Hempstead, AR"
+0.92,"Hot Spring, AR"
+0.97,"Howard, AR"
+0.88,"Independence, AR"
+0.97,"Izard, AR"
+0.89,"Jackson, AR"
+0.81,"Jefferson, AR"
+0.91,"Johnson, AR"
+0.93,"Lafayette, AR"
+0.89,"Lawrence, AR"
+0.8,"Lee, AR"
+0.95,"Lincoln, AR"
+0.85,"Little River, AR"
+0.92,"Logan, AR"
+0.91,"Lonoke, AR"
+0.88,"Madison, AR"
+0.92,"Marion, AR"
+0.87,"Miller, AR"
+0.87,"Mississippi, AR"
+0.9,"Monroe, AR"
+0.93,"Montgomery, AR"
+0.93,"Nevada, AR"
+0.8,"Newton, AR"
+0.91,"Ouachita, AR"
+0.91,"Perry, AR"
+0.86,"Phillips, AR"
+0.87,"Pike, AR"
+0.82,"Poinsett, AR"
+0.9,"Polk, AR"
+0.91,"Pope, AR"
+0.88,"Prairie, AR"
+0.8,"Pulaski, AR"
+0.93,"Randolph, AR"
+0.93,"Saline, AR"
+0.86,"Scott, AR"
+0.97,"Searcy, AR"
+0.88,"Sebastian, AR"
+0.92,"Sevier, AR"
+0.98,"Sharp, AR"
+0.81,"St. Francis, AR"
+0.95,"Stone, AR"
+0.88,"Union, AR"
+0.93,"Van Buren, AR"
+0.87,"Washington, AR"
+0.86,"White, AR"
+0.9,"Woodruff, AR"
+0.87,"Yell, AR"
+0.87,"Alameda, CA"
+,"Alpine, CA"
+0.88,"Amador, CA"
+0.85,"Butte, CA"
+0.9,"Calaveras, CA"
+0.89,"Colusa, CA"
+0.88,"Contra Costa, CA"
+0.81,"Del Norte, CA"
+0.89,"El Dorado, CA"
+0.81,"Fresno, CA"
+0.82,"Glenn, CA"
+0.84,"Humboldt, CA"
+0.85,"Imperial, CA"
+0.4,"Inyo, CA"
+0.86,"Kern, CA"
+0.8,"Kings, CA"
+0.78,"Lake, CA"
+0.86,"Lassen, CA"
+0.82,"Los Angeles, CA"
+0.83,"Madera, CA"
+0.87,"Marin, CA"
+0.86,"Mariposa, CA"
+0.84,"Mendocino, CA"
+0.88,"Merced, CA"
+0.86,"Modoc, CA"
+0.36,"Mono, CA"
+0.85,"Monterey, CA"
+0.87,"Napa, CA"
+0.5,"Nevada, CA"
+0.89,"Orange, CA"
+0.9,"Placer, CA"
+0.81,"Plumas, CA"
+0.89,"Riverside, CA"
+0.81,"Sacramento, CA"
+0.9,"San Benito, CA"
+0.83,"San Bernardino, CA"
+0.81,"San Diego, CA"
+0.71,"San Francisco, CA"
+0.82,"San Joaquin, CA"
+0.92,"San Luis Obispo, CA"
+0.88,"San Mateo, CA"
+0.87,"Santa Barbara, CA"
+0.85,"Santa Clara, CA"
+0.82,"Santa Cruz, CA"
+0.87,"Shasta, CA"
+1.0,"Sierra, CA"
+0.8,"Siskiyou, CA"
+0.81,"Solano, CA"
+0.81,"Sonoma, CA"
+0.84,"Stanislaus, CA"
+0.83,"Sutter, CA"
+0.88,"Tehama, CA"
+0.74,"Trinity, CA"
+0.86,"Tulare, CA"
+0.86,"Tuolumne, CA"
+0.86,"Ventura, CA"
+0.87,"Yolo, CA"
+0.75,"Yuba, CA"
+0.75,"Adams, CO"
+0.77,"Alamosa, CO"
+0.81,"Arapahoe, CO"
+0.84,"Archuleta, CO"
+0.88,"Baca, CO"
+0.7,"Bent, CO"
+0.88,"Boulder, CO"
+,"Broomfield, CO"
+0.81,"Chaffee, CO"
+0.89,"Cheyenne, CO"
+0.81,"Clear Creek, CO"
+0.89,"Conejos, CO"
+0.92,"Costilla, CO"
+0.83,"Crowley, CO"
+0.87,"Custer, CO"
+0.88,"Delta, CO"
+0.67,"Denver, CO"
+0.82,"Dolores, CO"
+0.9,"Douglas, CO"
+0.71,"Eagle, CO"
+0.76,"El Paso, CO"
+0.86,"Elbert, CO"
+0.79,"Fremont, CO"
+0.85,"Garfield, CO"
+0.87,"Gilpin, CO"
+0.9,"Grand, CO"
+0.95,"Gunnison, CO"
+0.75,"Hinsdale, CO"
+0.86,"Huerfano, CO"
+1.0,"Jackson, CO"
+0.83,"Jefferson, CO"
+0.95,"Kiowa, CO"
+0.82,"Kit Carson, CO"
+0.83,"La Plata, CO"
+0.55,"Lake, CO"
+0.79,"Larimer, CO"
+0.86,"Las Animas, CO"
+0.78,"Lincoln, CO"
+0.87,"Logan, CO"
+0.76,"Mesa, CO"
+1.0,"Mineral, CO"
+0.81,"Moffat, CO"
+0.74,"Montezuma, CO"
+0.81,"Montrose, CO"
+0.84,"Morgan, CO"
+0.91,"Otero, CO"
+0.93,"Ouray, CO"
+0.88,"Park, CO"
+0.93,"Phillips, CO"
+0.93,"Pitkin, CO"
+0.83,"Prowers, CO"
+0.81,"Pueblo, CO"
+0.98,"Rio Blanco, CO"
+0.85,"Rio Grande, CO"
+0.94,"Routt, CO"
+0.8,"Saguache, CO"
+0.5,"San Juan, CO"
+0.97,"San Miguel, CO"
+0.62,"Sedgwick, CO"
+0.95,"Summit, CO"
+0.76,"Teller, CO"
+0.92,"Washington, CO"
+0.82,"Weld, CO"
+0.86,"Yuma, CO"
+0.89,"Fairfield, CT"
+0.86,"Hartford, CT"
+0.9,"Litchfield, CT"
+0.95,"Middlesex, CT"
+0.83,"New Haven, CT"
+0.89,"New London, CT"
+0.92,"Tolland, CT"
+0.85,"Windham, CT"
+0.9,"Kent, DE"
+0.88,"New Castle, DE"
+0.89,"Sussex, DE"
+0.84,"Alachua, FL"
+0.81,"Baker, FL"
+0.79,"Bay, FL"
+0.81,"Bradford, FL"
+0.86,"Brevard, FL"
+0.81,"Broward, FL"
+0.81,"Calhoun, FL"
+0.9,"Charlotte, FL"
+0.8,"Citrus, FL"
+0.88,"Clay, FL"
+0.89,"Collier, FL"
+0.71,"Columbia, FL"
+0.65,"DeSoto, FL"
+0.89,"Dixie, FL"
+0.8,"Duval, FL"
+0.8,"Escambia, FL"
+0.81,"Flagler, FL"
+0.79,"Franklin, FL"
+0.53,"Gadsden, FL"
+0.93,"Gilchrist, FL"
+0.85,"Glades, FL"
+0.85,"Gulf, FL"
+0.68,"Hamilton, FL"
+0.73,"Hardee, FL"
+0.86,"Hendry, FL"
+0.87,"Hernando, FL"
+0.73,"Highlands, FL"
+0.83,"Hillsborough, FL"
+0.7,"Holmes, FL"
+0.88,"Indian River, FL"
+0.73,"Jackson, FL"
+0.56,"Jefferson, FL"
+0.88,"Lafayette, FL"
+0.78,"Lake, FL"
+0.79,"Lee, FL"
+0.9,"Leon, FL"
+0.79,"Levy, FL"
+0.91,"Liberty, FL"
+0.81,"Madison, FL"
+0.82,"Manatee, FL"
+0.77,"Marion, FL"
+0.84,"Martin, FL"
+0.81,"Miami-Dade, FL"
+0.8,"Monroe, FL"
+0.91,"Nassau, FL"
+0.87,"Okaloosa, FL"
+0.72,"Okeechobee, FL"
+0.84,"Orange, FL"
+0.87,"Osceola, FL"
+0.86,"Palm Beach, FL"
+0.82,"Pasco, FL"
+0.83,"Pinellas, FL"
+0.78,"Polk, FL"
+0.72,"Putnam, FL"
+0.87,"Santa Rosa, FL"
+0.86,"Sarasota, FL"
+0.89,"Seminole, FL"
+0.9,"St. Johns, FL"
+0.91,"St. Lucie, FL"
+0.85,"Sumter, FL"
+0.93,"Suwannee, FL"
+0.7,"Taylor, FL"
+0.81,"Union, FL"
+0.77,"Volusia, FL"
+0.88,"Wakulla, FL"
+0.83,"Walton, FL"
+0.78,"Washington, FL"
+0.83,"Appling, GA"
+0.87,"Atkinson, GA"
+0.85,"Bacon, GA"
+0.9,"Baker, GA"
+0.89,"Baldwin, GA"
+0.9,"Banks, GA"
+0.84,"Barrow, GA"
+0.85,"Bartow, GA"
+0.79,"Ben Hill, GA"
+0.82,"Berrien, GA"
+0.78,"Bibb, GA"
+0.91,"Bleckley, GA"
+0.82,"Brantley, GA"
+0.69,"Brooks, GA"
+0.85,"Bryan, GA"
+0.83,"Bulloch, GA"
+0.92,"Burke, GA"
+0.84,"Butts, GA"
+0.89,"Calhoun, GA"
+0.92,"Camden, GA"
+0.92,"Candler, GA"
+0.85,"Carroll, GA"
+0.86,"Catoosa, GA"
+0.73,"Charlton, GA"
+0.85,"Chatham, GA"
+0.86,"Chattahoochee, GA"
+0.86,"Chattooga, GA"
+0.87,"Cherokee, GA"
+0.81,"Clarke, GA"
+,"Clay, GA"
+0.71,"Clayton, GA"
+0.87,"Clinch, GA"
+0.84,"Cobb, GA"
+0.82,"Coffee, GA"
+0.83,"Colquitt, GA"
+0.9,"Columbia, GA"
+0.86,"Cook, GA"
+0.86,"Coweta, GA"
+0.79,"Crawford, GA"
+0.86,"Crisp, GA"
+0.87,"Dade, GA"
+0.97,"Dawson, GA"
+0.87,"Decatur, GA"
+0.77,"DeKalb, GA"
+0.8,"Dodge, GA"
+0.75,"Dooly, GA"
+0.84,"Dougherty, GA"
+0.87,"Douglas, GA"
+0.9,"Early, GA"
+0.96,"Echols, GA"
+0.88,"Effingham, GA"
+0.83,"Elbert, GA"
+0.79,"Emanuel, GA"
+0.75,"Evans, GA"
+0.9,"Fannin, GA"
+0.89,"Fayette, GA"
+0.92,"Floyd, GA"
+0.94,"Forsyth, GA"
+0.89,"Franklin, GA"
+0.87,"Fulton, GA"
+0.92,"Gilmer, GA"
+0.83,"Glascock, GA"
+0.91,"Glynn, GA"
+0.94,"Gordon, GA"
+0.84,"Grady, GA"
+0.81,"Greene, GA"
+0.83,"Gwinnett, GA"
+0.91,"Habersham, GA"
+0.86,"Hall, GA"
+0.95,"Hancock, GA"
+0.94,"Haralson, GA"
+0.93,"Harris, GA"
+0.96,"Hart, GA"
+0.94,"Heard, GA"
+0.88,"Henry, GA"
+0.88,"Houston, GA"
+0.89,"Irwin, GA"
+0.94,"Jackson, GA"
+0.77,"Jasper, GA"
+0.87,"Jeff Davis, GA"
+0.91,"Jefferson, GA"
+0.73,"Jenkins, GA"
+0.88,"Johnson, GA"
+0.85,"Jones, GA"
+0.88,"Lamar, GA"
+0.8,"Lanier, GA"
+0.85,"Laurens, GA"
+0.86,"Lee, GA"
+0.83,"Liberty, GA"
+0.82,"Lincoln, GA"
+0.84,"Long, GA"
+0.84,"Lowndes, GA"
+0.9,"Lumpkin, GA"
+0.87,"Macon, GA"
+0.9,"Madison, GA"
+0.89,"Marion, GA"
+0.76,"McDuffie, GA"
+0.76,"McIntosh, GA"
+0.87,"Meriwether, GA"
+0.78,"Miller, GA"
+0.9,"Mitchell, GA"
+0.87,"Monroe, GA"
+0.91,"Montgomery, GA"
+0.92,"Morgan, GA"
+0.85,"Murray, GA"
+0.89,"Muscogee, GA"
+0.84,"Newton, GA"
+0.96,"Oconee, GA"
+0.86,"Oglethorpe, GA"
+0.85,"Paulding, GA"
+0.83,"Peach, GA"
+0.92,"Pickens, GA"
+0.89,"Pierce, GA"
+0.87,"Pike, GA"
+0.82,"Polk, GA"
+0.86,"Pulaski, GA"
+0.91,"Putnam, GA"
+0.8,"Quitman, GA"
+0.92,"Rabun, GA"
+0.85,"Randolph, GA"
+0.79,"Richmond, GA"
+0.85,"Rockdale, GA"
+0.88,"Schley, GA"
+0.73,"Screven, GA"
+0.96,"Seminole, GA"
+0.82,"Spalding, GA"
+0.85,"Stephens, GA"
+0.97,"Stewart, GA"
+0.81,"Sumter, GA"
+0.75,"Talbot, GA"
+,"Taliaferro, GA"
+0.8,"Tattnall, GA"
+0.75,"Taylor, GA"
+0.85,"Telfair, GA"
+0.92,"Terrell, GA"
+0.84,"Thomas, GA"
+0.85,"Tift, GA"
+0.86,"Toombs, GA"
+0.92,"Towns, GA"
+0.78,"Treutlen, GA"
+0.79,"Troup, GA"
+0.81,"Turner, GA"
+0.9,"Twiggs, GA"
+0.99,"Union, GA"
+0.87,"Upson, GA"
+0.88,"Walker, GA"
+0.85,"Walton, GA"
+0.88,"Ware, GA"
+0.88,"Warren, GA"
+0.88,"Washington, GA"
+0.87,"Wayne, GA"
+0.88,"Webster, GA"
+0.87,"Wheeler, GA"
+0.95,"White, GA"
+0.84,"Whitfield, GA"
+0.9,"Wilcox, GA"
+0.82,"Wilkes, GA"
+0.93,"Wilkinson, GA"
+0.82,"Worth, GA"
+0.79,"Hawaii, HI"
+0.84,"Honolulu, HI"
+,"Kalawao, HI"
+0.88,"Kauai, HI"
+0.8,"Maui, HI"
+0.77,"Ada, ID"
+,"Adams, ID"
+0.88,"Bannock, ID"
+0.88,"Bear Lake, ID"
+0.77,"Benewah, ID"
+0.86,"Bingham, ID"
+0.91,"Blaine, ID"
+,"Boise, ID"
+0.82,"Bonner, ID"
+0.76,"Bonneville, ID"
+0.93,"Boundary, ID"
+,"Butte, ID"
+,"Camas, ID"
+0.78,"Canyon, ID"
+,"Caribou, ID"
+0.88,"Cassia, ID"
+,"Clark, ID"
+0.48,"Clearwater, ID"
+,"Custer, ID"
+0.63,"Elmore, ID"
+0.89,"Franklin, ID"
+0.93,"Fremont, ID"
+0.81,"Gem, ID"
+0.79,"Gooding, ID"
+0.82,"Idaho, ID"
+0.87,"Jefferson, ID"
+0.8,"Jerome, ID"
+0.77,"Kootenai, ID"
+0.83,"Latah, ID"
+,"Lemhi, ID"
+,"Lewis, ID"
+,"Lincoln, ID"
+0.9,"Madison, ID"
+0.73,"Minidoka, ID"
+0.85,"Nez Perce, ID"
+0.78,"Oneida, ID"
+0.89,"Owyhee, ID"
+0.81,"Payette, ID"
+0.83,"Power, ID"
+0.83,"Shoshone, ID"
+0.93,"Teton, ID"
+0.78,"Twin Falls, ID"
+0.83,"Valley, ID"
+0.86,"Washington, ID"
+0.9,"Adams, IL"
+0.79,"Alexander, IL"
+0.88,"Bond, IL"
+0.85,"Boone, IL"
+0.82,"Brown, IL"
+0.85,"Bureau, IL"
+0.9,"Calhoun, IL"
+0.88,"Carroll, IL"
+0.92,"Cass, IL"
+0.88,"Champaign, IL"
+0.91,"Christian, IL"
+0.86,"Clark, IL"
+0.82,"Clay, IL"
+0.9,"Clinton, IL"
+0.9,"Coles, IL"
+0.92,"Cook, IL"
+0.88,"Crawford, IL"
+0.89,"Cumberland, IL"
+0.89,"De Witt, IL"
+0.91,"DeKalb, IL"
+0.91,"Douglas, IL"
+0.95,"DuPage, IL"
+0.84,"Edgar, IL"
+0.81,"Edwards, IL"
+0.94,"Effingham, IL"
+0.86,"Fayette, IL"
+0.83,"Ford, IL"
+0.85,"Franklin, IL"
+0.92,"Fulton, IL"
+0.96,"Gallatin, IL"
+0.9,"Greene, IL"
+0.94,"Grundy, IL"
+0.98,"Hamilton, IL"
+0.9,"Hancock, IL"
+0.89,"Hardin, IL"
+0.85,"Henderson, IL"
+0.89,"Henry, IL"
+0.89,"Iroquois, IL"
+0.86,"Jackson, IL"
+0.96,"Jasper, IL"
+0.85,"Jefferson, IL"
+0.86,"Jersey, IL"
+0.96,"Jo Daviess, IL"
+0.93,"Johnson, IL"
+0.87,"Kane, IL"
+0.9,"Kankakee, IL"
+0.95,"Kendall, IL"
+0.89,"Knox, IL"
+0.91,"Lake, IL"
+0.88,"LaSalle, IL"
+0.78,"Lawrence, IL"
+0.86,"Lee, IL"
+0.89,"Livingston, IL"
+0.81,"Logan, IL"
+0.85,"Macon, IL"
+0.87,"Macoupin, IL"
+0.87,"Madison, IL"
+0.84,"Marion, IL"
+0.83,"Marshall, IL"
+0.87,"Mason, IL"
+0.75,"Massac, IL"
+0.87,"McDonough, IL"
+0.94,"McHenry, IL"
+0.92,"McLean, IL"
+0.91,"Menard, IL"
+0.94,"Mercer, IL"
+0.92,"Monroe, IL"
+0.84,"Montgomery, IL"
+0.8,"Morgan, IL"
+0.89,"Moultrie, IL"
+0.95,"Ogle, IL"
+0.84,"Peoria, IL"
+0.92,"Perry, IL"
+0.94,"Piatt, IL"
+0.87,"Pike, IL"
+0.84,"Pope, IL"
+0.85,"Pulaski, IL"
+0.82,"Putnam, IL"
+0.87,"Randolph, IL"
+0.91,"Richland, IL"
+0.93,"Rock Island, IL"
+0.82,"Saline, IL"
+0.84,"Sangamon, IL"
+0.92,"Schuyler, IL"
+0.93,"Scott, IL"
+0.9,"Shelby, IL"
+0.89,"St. Clair, IL"
+0.86,"Stark, IL"
+0.81,"Stephenson, IL"
+0.88,"Tazewell, IL"
+0.92,"Union, IL"
+0.8,"Vermilion, IL"
+0.85,"Wabash, IL"
+0.89,"Warren, IL"
+0.94,"Washington, IL"
+0.7,"Wayne, IL"
+0.91,"White, IL"
+0.88,"Whiteside, IL"
+0.91,"Will, IL"
+0.87,"Williamson, IL"
+0.79,"Winnebago, IL"
+0.9,"Woodford, IL"
+0.93,"Adams, IN"
+0.92,"Allen, IN"
+0.89,"Bartholomew, IN"
+0.94,"Benton, IN"
+0.97,"Blackford, IN"
+0.95,"Boone, IN"
+0.98,"Brown, IN"
+0.93,"Carroll, IN"
+0.91,"Cass, IN"
+0.91,"Clark, IN"
+0.9,"Clay, IN"
+0.9,"Clinton, IN"
+0.88,"Crawford, IN"
+0.95,"Daviess, IN"
+0.94,"Dearborn, IN"
+0.96,"Decatur, IN"
+0.91,"DeKalb, IN"
+0.91,"Delaware, IN"
+0.93,"Dubois, IN"
+0.91,"Elkhart, IN"
+0.92,"Fayette, IN"
+0.94,"Floyd, IN"
+0.93,"Fountain, IN"
+0.96,"Franklin, IN"
+0.93,"Fulton, IN"
+0.92,"Gibson, IN"
+0.96,"Grant, IN"
+0.94,"Greene, IN"
+0.77,"Hamilton, IN"
+0.92,"Hancock, IN"
+0.97,"Harrison, IN"
+0.96,"Hendricks, IN"
+0.94,"Henry, IN"
+0.75,"Howard, IN"
+0.92,"Huntington, IN"
+0.92,"Jackson, IN"
+0.93,"Jasper, IN"
+0.96,"Jay, IN"
+0.82,"Jefferson, IN"
+0.91,"Jennings, IN"
+0.93,"Johnson, IN"
+0.97,"Knox, IN"
+0.93,"Kosciusko, IN"
+0.93,"LaGrange, IN"
+0.87,"Lake, IN"
+0.89,"LaPorte, IN"
+0.84,"Lawrence, IN"
+0.85,"Madison, IN"
+0.76,"Marion, IN"
+0.9,"Marshall, IN"
+0.96,"Martin, IN"
+0.95,"Miami, IN"
+0.91,"Monroe, IN"
+0.97,"Montgomery, IN"
+0.92,"Morgan, IN"
+0.88,"Newton, IN"
+0.91,"Noble, IN"
+0.94,"Ohio, IN"
+0.92,"Orange, IN"
+0.92,"Owen, IN"
+0.85,"Parke, IN"
+0.9,"Perry, IN"
+0.93,"Pike, IN"
+0.91,"Porter, IN"
+0.93,"Posey, IN"
+0.92,"Pulaski, IN"
+0.91,"Putnam, IN"
+0.91,"Randolph, IN"
+0.94,"Ripley, IN"
+0.98,"Rush, IN"
+0.87,"Scott, IN"
+0.95,"Shelby, IN"
+0.93,"Spencer, IN"
+0.85,"St. Joseph, IN"
+0.93,"Starke, IN"
+0.86,"Steuben, IN"
+0.82,"Sullivan, IN"
+0.95,"Switzerland, IN"
+0.85,"Tippecanoe, IN"
+0.95,"Tipton, IN"
+0.92,"Union, IN"
+0.81,"Vanderburgh, IN"
+0.94,"Vermillion, IN"
+0.89,"Vigo, IN"
+0.87,"Wabash, IN"
+0.96,"Warren, IN"
+0.91,"Warrick, IN"
+0.9,"Washington, IN"
+0.82,"Wayne, IN"
+0.97,"Wells, IN"
+0.86,"White, IN"
+0.91,"Whitley, IN"
+0.97,"Adair, IA"
+0.91,"Adams, IA"
+0.94,"Allamakee, IA"
+0.91,"Appanoose, IA"
+0.97,"Audubon, IA"
+0.88,"Benton, IA"
+0.89,"Black Hawk, IA"
+0.96,"Boone, IA"
+0.94,"Bremer, IA"
+0.94,"Buchanan, IA"
+0.68,"Buena Vista, IA"
+0.94,"Butler, IA"
+1.0,"Calhoun, IA"
+0.95,"Carroll, IA"
+0.86,"Cass, IA"
+0.91,"Cedar, IA"
+0.91,"Cerro Gordo, IA"
+0.93,"Cherokee, IA"
+0.92,"Chickasaw, IA"
+0.9,"Clarke, IA"
+0.89,"Clay, IA"
+0.92,"Clayton, IA"
+0.92,"Clinton, IA"
+0.91,"Crawford, IA"
+0.97,"Dallas, IA"
+0.96,"Davis, IA"
+0.99,"Decatur, IA"
+0.95,"Delaware, IA"
+0.81,"Des Moines, IA"
+0.94,"Dickinson, IA"
+0.92,"Dubuque, IA"
+0.97,"Emmet, IA"
+0.95,"Fayette, IA"
+0.93,"Floyd, IA"
+0.97,"Franklin, IA"
+1.0,"Fremont, IA"
+0.85,"Greene, IA"
+0.96,"Grundy, IA"
+0.97,"Guthrie, IA"
+0.95,"Hamilton, IA"
+0.95,"Hancock, IA"
+0.94,"Hardin, IA"
+0.96,"Harrison, IA"
+0.89,"Henry, IA"
+0.95,"Howard, IA"
+0.95,"Humboldt, IA"
+0.98,"Ida, IA"
+0.96,"Iowa, IA"
+0.91,"Jackson, IA"
+0.91,"Jasper, IA"
+0.91,"Jefferson, IA"
+0.9,"Johnson, IA"
+0.92,"Jones, IA"
+0.91,"Keokuk, IA"
+0.94,"Kossuth, IA"
+0.91,"Lee, IA"
+0.89,"Linn, IA"
+0.86,"Louisa, IA"
+0.92,"Lucas, IA"
+0.96,"Lyon, IA"
+0.95,"Madison, IA"
+0.91,"Mahaska, IA"
+0.97,"Marion, IA"
+0.91,"Marshall, IA"
+0.96,"Mills, IA"
+0.95,"Mitchell, IA"
+0.9,"Monona, IA"
+0.96,"Monroe, IA"
+0.93,"Montgomery, IA"
+0.86,"Muscatine, IA"
+0.84,"O'Brien, IA"
+0.9,"Osceola, IA"
+0.96,"Page, IA"
+0.94,"Palo Alto, IA"
+0.97,"Plymouth, IA"
+0.89,"Pocahontas, IA"
+0.9,"Polk, IA"
+0.92,"Pottawattamie, IA"
+0.93,"Poweshiek, IA"
+0.97,"Ringgold, IA"
+0.94,"Sac, IA"
+0.88,"Scott, IA"
+0.97,"Shelby, IA"
+0.89,"Sioux, IA"
+0.94,"Story, IA"
+0.94,"Tama, IA"
+0.96,"Taylor, IA"
+0.92,"Union, IA"
+0.92,"Van Buren, IA"
+0.9,"Wapello, IA"
+0.95,"Warren, IA"
+0.89,"Washington, IA"
+0.92,"Wayne, IA"
+0.82,"Webster, IA"
+0.93,"Winnebago, IA"
+0.97,"Winneshiek, IA"
+0.87,"Woodbury, IA"
+0.93,"Worth, IA"
+0.94,"Wright, IA"
+0.88,"Allen, KS"
+0.94,"Anderson, KS"
+0.85,"Atchison, KS"
+0.93,"Barber, KS"
+0.85,"Barton, KS"
+0.91,"Bourbon, KS"
+0.86,"Brown, KS"
+0.88,"Butler, KS"
+0.95,"Chase, KS"
+0.88,"Chautauqua, KS"
+0.91,"Cherokee, KS"
+0.87,"Cheyenne, KS"
+0.95,"Clark, KS"
+0.94,"Clay, KS"
+0.76,"Cloud, KS"
+0.93,"Coffey, KS"
+1.0,"Comanche, KS"
+0.83,"Cowley, KS"
+0.86,"Crawford, KS"
+0.96,"Decatur, KS"
+0.92,"Dickinson, KS"
+0.89,"Doniphan, KS"
+0.84,"Douglas, KS"
+0.85,"Edwards, KS"
+0.86,"Elk, KS"
+0.9,"Ellis, KS"
+0.84,"Ellsworth, KS"
+0.81,"Finney, KS"
+0.91,"Ford, KS"
+0.89,"Franklin, KS"
+0.87,"Geary, KS"
+0.89,"Gove, KS"
+1.0,"Graham, KS"
+0.91,"Grant, KS"
+0.95,"Gray, KS"
+0.88,"Greeley, KS"
+1.0,"Greenwood, KS"
+0.97,"Hamilton, KS"
+0.83,"Harper, KS"
+0.89,"Harvey, KS"
+0.84,"Haskell, KS"
+1.0,"Hodgeman, KS"
+0.94,"Jackson, KS"
+0.93,"Jefferson, KS"
+0.88,"Jewell, KS"
+0.9,"Johnson, KS"
+0.87,"Kearny, KS"
+0.94,"Kingman, KS"
+0.5,"Kiowa, KS"
+0.91,"Labette, KS"
+1.0,"Lane, KS"
+0.92,"Leavenworth, KS"
+0.92,"Lincoln, KS"
+0.93,"Linn, KS"
+0.94,"Logan, KS"
+0.88,"Lyon, KS"
+0.81,"Marion, KS"
+0.94,"Marshall, KS"
+0.92,"McPherson, KS"
+0.86,"Meade, KS"
+0.93,"Miami, KS"
+0.99,"Mitchell, KS"
+0.87,"Montgomery, KS"
+0.93,"Morris, KS"
+0.8,"Morton, KS"
+0.93,"Nemaha, KS"
+0.92,"Neosho, KS"
+0.97,"Ness, KS"
+0.88,"Norton, KS"
+0.86,"Osage, KS"
+0.93,"Osborne, KS"
+0.9,"Ottawa, KS"
+0.91,"Pawnee, KS"
+1.0,"Phillips, KS"
+0.93,"Pottawatomie, KS"
+0.86,"Pratt, KS"
+0.96,"Rawlins, KS"
+0.87,"Reno, KS"
+0.86,"Republic, KS"
+0.93,"Rice, KS"
+0.82,"Riley, KS"
+0.93,"Rooks, KS"
+0.8,"Rush, KS"
+0.84,"Russell, KS"
+0.88,"Saline, KS"
+0.97,"Scott, KS"
+0.81,"Sedgwick, KS"
+0.88,"Seward, KS"
+0.86,"Shawnee, KS"
+0.95,"Sheridan, KS"
+0.83,"Sherman, KS"
+0.89,"Smith, KS"
+0.92,"Stafford, KS"
+1.0,"Stanton, KS"
+0.85,"Stevens, KS"
+0.92,"Sumner, KS"
+0.86,"Thomas, KS"
+0.88,"Trego, KS"
+0.92,"Wabaunsee, KS"
+0.96,"Wallace, KS"
+0.9,"Washington, KS"
+0.94,"Wichita, KS"
+0.84,"Wilson, KS"
+0.93,"Woodson, KS"
+0.75,"Wyandotte, KS"
+0.97,"Adair, KY"
+0.92,"Allen, KY"
+0.99,"Anderson, KY"
+0.92,"Ballard, KY"
+0.95,"Barren, KY"
+0.91,"Bath, KY"
+0.96,"Bell, KY"
+0.96,"Boone, KY"
+0.93,"Bourbon, KY"
+0.94,"Boyd, KY"
+0.97,"Boyle, KY"
+0.94,"Bracken, KY"
+0.86,"Breathitt, KY"
+0.94,"Breckinridge, KY"
+0.91,"Bullitt, KY"
+0.93,"Butler, KY"
+0.94,"Caldwell, KY"
+0.96,"Calloway, KY"
+0.98,"Campbell, KY"
+0.94,"Carlisle, KY"
+0.98,"Carroll, KY"
+0.99,"Carter, KY"
+0.99,"Casey, KY"
+0.94,"Christian, KY"
+0.97,"Clark, KY"
+0.84,"Clay, KY"
+0.98,"Clinton, KY"
+0.85,"Crittenden, KY"
+0.98,"Cumberland, KY"
+0.95,"Daviess, KY"
+0.94,"Edmonson, KY"
+0.98,"Elliott, KY"
+0.97,"Estill, KY"
+0.89,"Fayette, KY"
+0.95,"Fleming, KY"
+0.96,"Floyd, KY"
+0.88,"Franklin, KY"
+0.98,"Fulton, KY"
+0.96,"Gallatin, KY"
+0.94,"Garrard, KY"
+0.89,"Grant, KY"
+0.95,"Graves, KY"
+0.85,"Grayson, KY"
+0.96,"Green, KY"
+0.96,"Greenup, KY"
+0.95,"Hancock, KY"
+0.94,"Hardin, KY"
+0.96,"Harlan, KY"
+0.94,"Harrison, KY"
+0.94,"Hart, KY"
+0.96,"Henderson, KY"
+0.93,"Henry, KY"
+0.98,"Hickman, KY"
+0.91,"Hopkins, KY"
+0.89,"Jackson, KY"
+0.88,"Jefferson, KY"
+0.95,"Jessamine, KY"
+0.96,"Johnson, KY"
+0.92,"Kenton, KY"
+0.98,"Knott, KY"
+0.95,"Knox, KY"
+0.99,"Larue, KY"
+0.92,"Laurel, KY"
+0.92,"Lawrence, KY"
+0.96,"Lee, KY"
+0.99,"Leslie, KY"
+0.97,"Letcher, KY"
+0.99,"Lewis, KY"
+0.96,"Lincoln, KY"
+0.93,"Livingston, KY"
+0.89,"Logan, KY"
+0.98,"Lyon, KY"
+0.95,"Madison, KY"
+0.94,"Magoffin, KY"
+0.93,"Marion, KY"
+0.96,"Marshall, KY"
+0.98,"Martin, KY"
+0.94,"Mason, KY"
+0.92,"McCracken, KY"
+0.96,"McCreary, KY"
+0.92,"McLean, KY"
+0.96,"Meade, KY"
+0.97,"Menifee, KY"
+0.95,"Mercer, KY"
+0.94,"Metcalfe, KY"
+0.99,"Monroe, KY"
+0.97,"Montgomery, KY"
+0.93,"Morgan, KY"
+0.9,"Muhlenberg, KY"
+0.96,"Nelson, KY"
+0.97,"Nicholas, KY"
+0.94,"Ohio, KY"
+0.98,"Oldham, KY"
+0.95,"Owen, KY"
+0.85,"Owsley, KY"
+0.95,"Pendleton, KY"
+0.97,"Perry, KY"
+0.97,"Pike, KY"
+0.89,"Powell, KY"
+0.96,"Pulaski, KY"
+1.0,"Robertson, KY"
+0.98,"Rockcastle, KY"
+0.97,"Rowan, KY"
+0.97,"Russell, KY"
+0.93,"Scott, KY"
+0.94,"Shelby, KY"
+0.94,"Simpson, KY"
+0.96,"Spencer, KY"
+0.96,"Taylor, KY"
+0.99,"Todd, KY"
+0.91,"Trigg, KY"
+0.93,"Trimble, KY"
+0.96,"Union, KY"
+0.96,"Warren, KY"
+0.97,"Washington, KY"
+0.95,"Wayne, KY"
+0.88,"Webster, KY"
+0.95,"Whitley, KY"
+0.96,"Wolfe, KY"
+0.97,"Woodford, KY"
+0.91,"Acadia, LA"
+0.92,"Allen, LA"
+0.88,"Ascension, LA"
+0.9,"Assumption, LA"
+0.79,"Avoyelles, LA"
+0.95,"Beauregard, LA"
+0.9,"Bienville, LA"
+0.83,"Bossier, LA"
+0.74,"Caddo, LA"
+0.84,"Calcasieu, LA"
+0.9,"Caldwell, LA"
+0.91,"Cameron, LA"
+0.88,"Catahoula, LA"
+0.9,"Claiborne, LA"
+0.83,"Concordia, LA"
+0.94,"De Soto, LA"
+0.71,"East Baton Rouge, LA"
+0.98,"East Carroll, LA"
+0.86,"East Feliciana, LA"
+0.81,"Evangeline, LA"
+0.76,"Franklin, LA"
+0.84,"Grant, LA"
+0.81,"Iberia, LA"
+0.86,"Iberville, LA"
+0.81,"Jackson, LA"
+0.72,"Jefferson, LA"
+0.93,"Jefferson Davis, LA"
+0.96,"La Salle, LA"
+0.77,"Lafayette, LA"
+0.94,"Lafourche, LA"
+0.96,"Lincoln, LA"
+0.87,"Livingston, LA"
+0.4,"Madison, LA"
+0.69,"Morehouse, LA"
+0.8,"Natchitoches, LA"
+0.73,"Orleans, LA"
+0.83,"Ouachita, LA"
+0.91,"Plaquemines, LA"
+0.7,"Pointe Coupee, LA"
+0.78,"Rapides, LA"
+0.84,"Red River, LA"
+0.78,"Richland, LA"
+0.93,"Sabine, LA"
+0.91,"St. Bernard, LA"
+0.82,"St. Charles, LA"
+0.74,"St. Helena, LA"
+0.85,"St. James, LA"
+0.81,"St. John the Baptist, LA"
+0.69,"St. Landry, LA"
+0.84,"St. Martin, LA"
+0.88,"St. Mary, LA"
+0.83,"St. Tammany, LA"
+0.71,"Tangipahoa, LA"
+0.84,"Tensas, LA"
+0.82,"Terrebonne, LA"
+0.65,"Union, LA"
+0.94,"Vermilion, LA"
+0.91,"Vernon, LA"
+0.82,"Washington, LA"
+0.77,"Webster, LA"
+0.74,"West Baton Rouge, LA"
+0.93,"West Carroll, LA"
+0.91,"West Feliciana, LA"
+0.85,"Winn, LA"
+0.8,"Androscoggin, ME"
+0.89,"Aroostook, ME"
+0.9,"Cumberland, ME"
+0.9,"Franklin, ME"
+0.84,"Hancock, ME"
+0.86,"Kennebec, ME"
+0.85,"Knox, ME"
+0.83,"Lincoln, ME"
+0.84,"Oxford, ME"
+0.89,"Penobscot, ME"
+0.9,"Piscataquis, ME"
+0.85,"Sagadahoc, ME"
+0.85,"Somerset, ME"
+0.86,"Waldo, ME"
+0.88,"Washington, ME"
+0.88,"York, ME"
+0.89,"Allegany, MD"
+0.89,"Anne Arundel, MD"
+0.89,"Baltimore, MD"
+0.71,"Baltimore City, MD"
+0.95,"Calvert, MD"
+0.82,"Caroline, MD"
+0.98,"Carroll, MD"
+0.91,"Cecil, MD"
+0.95,"Charles, MD"
+0.83,"Dorchester, MD"
+0.92,"Frederick, MD"
+0.92,"Garrett, MD"
+0.89,"Harford, MD"
+0.92,"Howard, MD"
+0.9,"Kent, MD"
+0.9,"Montgomery, MD"
+0.83,"Prince George's, MD"
+0.98,"Queen Anne's, MD"
+0.86,"Somerset, MD"
+0.94,"St. Mary's, MD"
+0.87,"Talbot, MD"
+0.92,"Washington, MD"
+0.84,"Wicomico, MD"
+0.92,"Worcester, MD"
+0.92,"Barnstable, MA"
+0.88,"Berkshire, MA"
+0.88,"Bristol, MA"
+0.92,"Dukes, MA"
+0.89,"Essex, MA"
+0.82,"Franklin, MA"
+0.85,"Hampden, MA"
+0.94,"Hampshire, MA"
+0.94,"Middlesex, MA"
+0.86,"Nantucket, MA"
+0.93,"Norfolk, MA"
+0.91,"Plymouth, MA"
+0.71,"Suffolk, MA"
+0.91,"Worcester, MA"
+0.91,"Alcona, MI"
+0.9,"Alger, MI"
+0.87,"Allegan, MI"
+0.87,"Alpena, MI"
+0.9,"Antrim, MI"
+0.92,"Arenac, MI"
+0.88,"Baraga, MI"
+0.86,"Barry, MI"
+0.85,"Bay, MI"
+0.79,"Benzie, MI"
+0.71,"Berrien, MI"
+0.82,"Branch, MI"
+0.86,"Calhoun, MI"
+0.87,"Cass, MI"
+0.84,"Charlevoix, MI"
+0.85,"Cheboygan, MI"
+0.81,"Chippewa, MI"
+0.92,"Clare, MI"
+0.94,"Clinton, MI"
+0.93,"Crawford, MI"
+0.81,"Delta, MI"
+0.86,"Dickinson, MI"
+0.78,"Eaton, MI"
+0.95,"Emmet, MI"
+0.81,"Genesee, MI"
+0.86,"Gladwin, MI"
+0.94,"Gogebic, MI"
+0.85,"Grand Traverse, MI"
+0.87,"Gratiot, MI"
+0.81,"Hillsdale, MI"
+0.87,"Houghton, MI"
+0.9,"Huron, MI"
+0.79,"Ingham, MI"
+0.88,"Ionia, MI"
+0.84,"Iosco, MI"
+0.87,"Iron, MI"
+0.83,"Isabella, MI"
+0.83,"Jackson, MI"
+0.81,"Kalamazoo, MI"
+0.78,"Kalkaska, MI"
+0.84,"Kent, MI"
+,"Keweenaw, MI"
+0.81,"Lake, MI"
+0.91,"Lapeer, MI"
+0.84,"Leelanau, MI"
+0.89,"Lenawee, MI"
+0.9,"Livingston, MI"
+0.9,"Luce, MI"
+0.92,"Mackinac, MI"
+0.86,"Macomb, MI"
+0.56,"Manistee, MI"
+0.85,"Marquette, MI"
+0.86,"Mason, MI"
+0.8,"Mecosta, MI"
+0.87,"Menominee, MI"
+0.89,"Midland, MI"
+0.81,"Missaukee, MI"
+0.88,"Monroe, MI"
+0.88,"Montcalm, MI"
+0.76,"Montmorency, MI"
+0.81,"Muskegon, MI"
+0.84,"Newaygo, MI"
+0.9,"Oakland, MI"
+0.93,"Oceana, MI"
+0.76,"Ogemaw, MI"
+0.92,"Ontonagon, MI"
+0.89,"Osceola, MI"
+0.78,"Oscoda, MI"
+0.82,"Otsego, MI"
+0.92,"Ottawa, MI"
+0.87,"Presque Isle, MI"
+0.82,"Roscommon, MI"
+0.84,"Saginaw, MI"
+0.88,"Sanilac, MI"
+0.9,"Schoolcraft, MI"
+0.87,"Shiawassee, MI"
+0.82,"St. Clair, MI"
+0.89,"St. Joseph, MI"
+0.84,"Tuscola, MI"
+0.83,"Van Buren, MI"
+0.88,"Washtenaw, MI"
+0.83,"Wayne, MI"
+0.79,"Wexford, MI"
+0.92,"Aitkin, MN"
+0.8,"Anoka, MN"
+0.86,"Becker, MN"
+0.66,"Beltrami, MN"
+0.9,"Benton, MN"
+0.93,"Big Stone, MN"
+0.86,"Blue Earth, MN"
+0.86,"Brown, MN"
+0.89,"Carlton, MN"
+0.92,"Carver, MN"
+0.72,"Cass, MN"
+0.66,"Chippewa, MN"
+0.83,"Chisago, MN"
+0.8,"Clay, MN"
+0.82,"Clearwater, MN"
+0.9,"Cook, MN"
+0.9,"Cottonwood, MN"
+0.81,"Crow Wing, MN"
+0.85,"Dakota, MN"
+0.95,"Dodge, MN"
+0.84,"Douglas, MN"
+0.81,"Faribault, MN"
+0.93,"Fillmore, MN"
+0.82,"Freeborn, MN"
+0.87,"Goodhue, MN"
+0.96,"Grant, MN"
+0.78,"Hennepin, MN"
+0.66,"Houston, MN"
+0.76,"Hubbard, MN"
+0.84,"Isanti, MN"
+0.88,"Itasca, MN"
+0.98,"Jackson, MN"
+0.92,"Kanabec, MN"
+0.71,"Kandiyohi, MN"
+0.9,"Kittson, MN"
+0.88,"Koochiching, MN"
+0.96,"Lac qui Parle, MN"
+0.91,"Lake, MN"
+0.88,"Lake of the Woods, MN"
+0.86,"Le Sueur, MN"
+0.86,"Lincoln, MN"
+0.86,"Lyon, MN"
+0.51,"Mahnomen, MN"
+0.97,"Marshall, MN"
+0.9,"Martin, MN"
+0.88,"McLeod, MN"
+0.93,"Meeker, MN"
+0.78,"Mille Lacs, MN"
+0.9,"Morrison, MN"
+0.76,"Mower, MN"
+0.98,"Murray, MN"
+0.84,"Nicollet, MN"
+0.75,"Nobles, MN"
+0.93,"Norman, MN"
+0.85,"Olmsted, MN"
+0.82,"Otter Tail, MN"
+0.91,"Pennington, MN"
+0.83,"Pine, MN"
+0.86,"Pipestone, MN"
+0.89,"Polk, MN"
+0.91,"Pope, MN"
+0.77,"Ramsey, MN"
+0.94,"Red Lake, MN"
+0.93,"Redwood, MN"
+0.91,"Renville, MN"
+0.79,"Rice, MN"
+0.94,"Rock, MN"
+0.9,"Roseau, MN"
+0.86,"Scott, MN"
+0.89,"Sherburne, MN"
+0.87,"Sibley, MN"
+0.79,"St. Louis, MN"
+0.86,"Stearns, MN"
+0.89,"Steele, MN"
+1.0,"Stevens, MN"
+0.96,"Swift, MN"
+0.91,"Todd, MN"
+0.95,"Traverse, MN"
+0.9,"Wabasha, MN"
+0.84,"Wadena, MN"
+0.87,"Waseca, MN"
+0.9,"Washington, MN"
+0.85,"Watonwan, MN"
+0.89,"Wilkin, MN"
+0.87,"Winona, MN"
+0.9,"Wright, MN"
+0.94,"Yellow Medicine, MN"
+0.8,"Adams, MS"
+0.88,"Alcorn, MS"
+,"Amite, MS"
+0.83,"Attala, MS"
+0.78,"Benton, MS"
+0.82,"Bolivar, MS"
+0.88,"Calhoun, MS"
+0.83,"Carroll, MS"
+0.84,"Chickasaw, MS"
+0.73,"Choctaw, MS"
+0.88,"Claiborne, MS"
+0.83,"Clarke, MS"
+0.88,"Clay, MS"
+0.74,"Coahoma, MS"
+0.79,"Copiah, MS"
+0.8,"Covington, MS"
+0.89,"DeSoto, MS"
+0.8,"Forrest, MS"
+0.83,"Franklin, MS"
+0.89,"George, MS"
+0.88,"Greene, MS"
+0.83,"Grenada, MS"
+0.83,"Hancock, MS"
+0.85,"Harrison, MS"
+0.74,"Hinds, MS"
+0.76,"Holmes, MS"
+0.83,"Humphreys, MS"
+,"Issaquena, MS"
+0.84,"Itawamba, MS"
+0.87,"Jackson, MS"
+0.83,"Jasper, MS"
+0.88,"Jefferson, MS"
+0.83,"Jefferson Davis, MS"
+0.85,"Jones, MS"
+0.93,"Kemper, MS"
+0.87,"Lafayette, MS"
+0.92,"Lamar, MS"
+0.82,"Lauderdale, MS"
+0.83,"Lawrence, MS"
+0.78,"Leake, MS"
+0.84,"Lee, MS"
+0.75,"Leflore, MS"
+0.81,"Lincoln, MS"
+0.88,"Lowndes, MS"
+0.85,"Madison, MS"
+0.82,"Marion, MS"
+0.81,"Marshall, MS"
+0.88,"Monroe, MS"
+0.84,"Montgomery, MS"
+0.8,"Neshoba, MS"
+0.84,"Newton, MS"
+0.73,"Noxubee, MS"
+0.9,"Oktibbeha, MS"
+0.85,"Panola, MS"
+0.85,"Pearl River, MS"
+0.77,"Perry, MS"
+0.8,"Pike, MS"
+0.82,"Pontotoc, MS"
+0.88,"Prentiss, MS"
+0.83,"Quitman, MS"
+0.89,"Rankin, MS"
+0.84,"Scott, MS"
+0.83,"Sharkey, MS"
+0.81,"Simpson, MS"
+0.88,"Smith, MS"
+0.88,"Stone, MS"
+0.77,"Sunflower, MS"
+0.9,"Tallahatchie, MS"
+0.82,"Tate, MS"
+0.83,"Tippah, MS"
+0.84,"Tishomingo, MS"
+0.88,"Tunica, MS"
+0.83,"Union, MS"
+0.78,"Walthall, MS"
+0.72,"Warren, MS"
+0.77,"Washington, MS"
+0.79,"Wayne, MS"
+0.88,"Webster, MS"
+0.78,"Wilkinson, MS"
+0.83,"Winston, MS"
+0.87,"Yalobusha, MS"
+0.75,"Yazoo, MS"
+0.91,"Adair, MO"
+0.95,"Andrew, MO"
+0.98,"Atchison, MO"
+0.87,"Audrain, MO"
+0.94,"Barry, MO"
+0.87,"Barton, MO"
+0.93,"Bates, MO"
+0.95,"Benton, MO"
+0.99,"Bollinger, MO"
+0.91,"Boone, MO"
+0.89,"Buchanan, MO"
+0.93,"Butler, MO"
+0.97,"Caldwell, MO"
+0.9,"Callaway, MO"
+0.94,"Camden, MO"
+0.9,"Cape Girardeau, MO"
+1.0,"Carroll, MO"
+0.95,"Carter, MO"
+0.91,"Cass, MO"
+0.89,"Cedar, MO"
+0.92,"Chariton, MO"
+0.95,"Christian, MO"
+0.97,"Clark, MO"
+0.96,"Clay, MO"
+0.93,"Clinton, MO"
+0.8,"Cole, MO"
+0.94,"Cooper, MO"
+0.92,"Crawford, MO"
+0.95,"Dade, MO"
+0.95,"Dallas, MO"
+0.96,"Daviess, MO"
+0.94,"DeKalb, MO"
+0.96,"Dent, MO"
+0.92,"Douglas, MO"
+0.91,"Dunklin, MO"
+0.88,"Franklin, MO"
+0.95,"Gasconade, MO"
+1.0,"Gentry, MO"
+0.91,"Greene, MO"
+0.93,"Grundy, MO"
+0.97,"Harrison, MO"
+0.9,"Henry, MO"
+0.98,"Hickory, MO"
+0.97,"Holt, MO"
+0.89,"Howard, MO"
+0.95,"Howell, MO"
+1.0,"Iron, MO"
+0.89,"Jackson, MO"
+0.89,"Jasper, MO"
+0.92,"Jefferson, MO"
+0.95,"Johnson, MO"
+0.96,"Knox, MO"
+0.96,"Laclede, MO"
+0.94,"Lafayette, MO"
+0.91,"Lawrence, MO"
+0.96,"Lewis, MO"
+0.95,"Lincoln, MO"
+0.93,"Linn, MO"
+0.98,"Livingston, MO"
+0.88,"Macon, MO"
+0.93,"Madison, MO"
+0.91,"Maries, MO"
+0.96,"Marion, MO"
+0.92,"McDonald, MO"
+0.98,"Mercer, MO"
+0.89,"Miller, MO"
+0.98,"Mississippi, MO"
+0.95,"Moniteau, MO"
+0.95,"Monroe, MO"
+0.91,"Montgomery, MO"
+0.97,"Morgan, MO"
+0.97,"New Madrid, MO"
+0.9,"Newton, MO"
+0.98,"Nodaway, MO"
+0.95,"Oregon, MO"
+0.98,"Osage, MO"
+0.96,"Ozark, MO"
+0.95,"Pemiscot, MO"
+0.81,"Perry, MO"
+0.96,"Pettis, MO"
+0.92,"Phelps, MO"
+0.9,"Pike, MO"
+0.94,"Platte, MO"
+0.92,"Polk, MO"
+0.93,"Pulaski, MO"
+0.92,"Putnam, MO"
+0.98,"Ralls, MO"
+0.88,"Randolph, MO"
+0.95,"Ray, MO"
+0.93,"Reynolds, MO"
+0.9,"Ripley, MO"
+0.9,"Saline, MO"
+0.98,"Schuyler, MO"
+0.98,"Scotland, MO"
+0.94,"Scott, MO"
+0.91,"Shannon, MO"
+0.89,"Shelby, MO"
+0.93,"St. Charles, MO"
+0.96,"St. Clair, MO"
+0.94,"St. Francois, MO"
+0.91,"St. Louis, MO"
+0.56,"St. Louis City, MO"
+0.94,"Ste. Genevieve, MO"
+0.96,"Stoddard, MO"
+0.95,"Stone, MO"
+0.97,"Sullivan, MO"
+0.95,"Taney, MO"
+0.92,"Texas, MO"
+0.9,"Vernon, MO"
+0.91,"Warren, MO"
+0.94,"Washington, MO"
+0.91,"Wayne, MO"
+0.91,"Webster, MO"
+0.96,"Worth, MO"
+0.98,"Wright, MO"
+0.95,"Beaverhead, MT"
+0.7,"Big Horn, MT"
+0.83,"Blaine, MT"
+0.83,"Broadwater, MT"
+0.98,"Carbon, MT"
+1.0,"Carter, MT"
+0.84,"Cascade, MT"
+0.97,"Chouteau, MT"
+0.84,"Custer, MT"
+1.0,"Daniels, MT"
+0.89,"Dawson, MT"
+0.8,"Deer Lodge, MT"
+0.95,"Fallon, MT"
+0.87,"Fergus, MT"
+0.87,"Flathead, MT"
+0.87,"Gallatin, MT"
+1.0,"Garfield, MT"
+0.68,"Glacier, MT"
+0.89,"Golden Valley, MT"
+0.96,"Granite, MT"
+0.72,"Hill, MT"
+0.8,"Jefferson, MT"
+1.0,"Judith Basin, MT"
+0.89,"Lake, MT"
+0.86,"Lewis and Clark, MT"
+0.92,"Liberty, MT"
+0.91,"Lincoln, MT"
+0.94,"Madison, MT"
+0.96,"McCone, MT"
+0.95,"Meagher, MT"
+0.86,"Mineral, MT"
+0.86,"Missoula, MT"
+0.91,"Musselshell, MT"
+0.93,"Park, MT"
+1.0,"Petroleum, MT"
+0.94,"Phillips, MT"
+0.91,"Pondera, MT"
+0.9,"Powder River, MT"
+0.94,"Powell, MT"
+0.71,"Prairie, MT"
+0.92,"Ravalli, MT"
+0.9,"Richland, MT"
+0.73,"Roosevelt, MT"
+0.74,"Rosebud, MT"
+0.92,"Sanders, MT"
+1.0,"Sheridan, MT"
+0.82,"Silver Bow, MT"
+0.84,"Stillwater, MT"
+0.95,"Sweet Grass, MT"
+0.99,"Teton, MT"
+0.89,"Toole, MT"
+0.9,"Treasure, MT"
+0.87,"Valley, MT"
+0.95,"Wheatland, MT"
+0.94,"Wibaux, MT"
+0.85,"Yellowstone, MT"
+0.91,"Adams, NE"
+0.96,"Antelope, NE"
+,"Arthur, NE"
+,"Banner, NE"
+,"Blaine, NE"
+0.99,"Boone, NE"
+0.89,"Box Butte, NE"
+1.0,"Boyd, NE"
+0.98,"Brown, NE"
+0.94,"Buffalo, NE"
+0.92,"Burt, NE"
+0.92,"Butler, NE"
+0.92,"Cass, NE"
+0.95,"Cedar, NE"
+0.94,"Chase, NE"
+0.97,"Cherry, NE"
+0.97,"Cheyenne, NE"
+0.93,"Clay, NE"
+0.88,"Colfax, NE"
+0.98,"Cuming, NE"
+0.95,"Custer, NE"
+0.89,"Dakota, NE"
+0.52,"Dawes, NE"
+0.93,"Dawson, NE"
+0.92,"Deuel, NE"
+0.96,"Dixon, NE"
+0.89,"Dodge, NE"
+0.86,"Douglas, NE"
+0.87,"Dundy, NE"
+0.81,"Fillmore, NE"
+0.84,"Franklin, NE"
+0.97,"Frontier, NE"
+0.95,"Furnas, NE"
+0.92,"Gage, NE"
+1.0,"Garden, NE"
+0.97,"Garfield, NE"
+0.83,"Gosper, NE"
+1.0,"Grant, NE"
+0.97,"Greeley, NE"
+0.9,"Hall, NE"
+0.98,"Hamilton, NE"
+1.0,"Harlan, NE"
+,"Hayes, NE"
+1.0,"Hitchcock, NE"
+0.96,"Holt, NE"
+1.0,"Hooker, NE"
+1.0,"Howard, NE"
+0.93,"Jefferson, NE"
+0.86,"Johnson, NE"
+0.96,"Kearney, NE"
+0.92,"Keith, NE"
+,"Keya Paha, NE"
+0.98,"Kimball, NE"
+0.94,"Knox, NE"
+0.85,"Lancaster, NE"
+0.9,"Lincoln, NE"
+1.0,"Logan, NE"
+,"Loup, NE"
+0.92,"Madison, NE"
+,"McPherson, NE"
+0.89,"Merrick, NE"
+0.94,"Morrill, NE"
+0.99,"Nance, NE"
+0.92,"Nemaha, NE"
+0.92,"Nuckolls, NE"
+0.92,"Otoe, NE"
+0.9,"Pawnee, NE"
+1.0,"Perkins, NE"
+0.93,"Phelps, NE"
+0.98,"Pierce, NE"
+0.87,"Platte, NE"
+0.95,"Polk, NE"
+0.98,"Red Willow, NE"
+0.89,"Richardson, NE"
+1.0,"Rock, NE"
+0.95,"Saline, NE"
+0.91,"Sarpy, NE"
+0.94,"Saunders, NE"
+0.9,"Scotts Bluff, NE"
+0.95,"Seward, NE"
+0.94,"Sheridan, NE"
+0.95,"Sherman, NE"
+,"Sioux, NE"
+1.0,"Stanton, NE"
+0.95,"Thayer, NE"
+1.0,"Thomas, NE"
+0.85,"Thurston, NE"
+0.98,"Valley, NE"
+0.95,"Washington, NE"
+0.92,"Wayne, NE"
+0.97,"Webster, NE"
+,"Wheeler, NE"
+0.95,"York, NE"
+0.71,"Carson City, NV"
+0.73,"Churchill, NV"
+0.83,"Clark, NV"
+0.88,"Douglas, NV"
+0.88,"Elko, NV"
+,"Esmeralda, NV"
+1.0,"Eureka, NV"
+0.89,"Humboldt, NV"
+0.92,"Lander, NV"
+0.86,"Lincoln, NV"
+0.84,"Lyon, NV"
+0.84,"Mineral, NV"
+0.79,"Nye, NV"
+1.0,"Pershing, NV"
+0.91,"Storey, NV"
+0.84,"Washoe, NV"
+0.7,"White Pine, NV"
+0.88,"Belknap, NH"
+0.94,"Carroll, NH"
+0.89,"Cheshire, NH"
+0.92,"Coos, NH"
+0.95,"Grafton, NH"
+0.88,"Hillsborough, NH"
+0.88,"Merrimack, NH"
+0.93,"Rockingham, NH"
+0.86,"Strafford, NH"
+0.84,"Sullivan, NH"
+0.9,"Atlantic, NJ"
+0.95,"Bergen, NJ"
+0.93,"Burlington, NJ"
+0.88,"Camden, NJ"
+0.88,"Cape May, NJ"
+0.81,"Cumberland, NJ"
+0.87,"Essex, NJ"
+0.93,"Gloucester, NJ"
+0.85,"Hudson, NJ"
+0.96,"Hunterdon, NJ"
+0.9,"Mercer, NJ"
+0.9,"Middlesex, NJ"
+0.94,"Monmouth, NJ"
+0.95,"Morris, NJ"
+0.91,"Ocean, NJ"
+0.9,"Passaic, NJ"
+0.87,"Salem, NJ"
+0.94,"Somerset, NJ"
+0.95,"Sussex, NJ"
+0.88,"Union, NJ"
+0.93,"Warren, NJ"
+0.68,"Bernalillo, NM"
+0.85,"Catron, NM"
+0.67,"Chaves, NM"
+0.68,"Cibola, NM"
+0.81,"Colfax, NM"
+0.78,"Curry, NM"
+0.88,"De Baca, NM"
+0.83,"Dona Ana, NM"
+0.75,"Eddy, NM"
+0.86,"Grant, NM"
+0.87,"Guadalupe, NM"
+,"Harding, NM"
+0.86,"Hidalgo, NM"
+0.86,"Lea, NM"
+0.82,"Lincoln, NM"
+0.87,"Los Alamos, NM"
+0.68,"Luna, NM"
+0.66,"McKinley, NM"
+0.73,"Mora, NM"
+0.75,"Otero, NM"
+0.7,"Quay, NM"
+0.73,"Rio Arriba, NM"
+0.81,"Roosevelt, NM"
+0.67,"San Juan, NM"
+0.73,"San Miguel, NM"
+0.77,"Sandoval, NM"
+0.68,"Santa Fe, NM"
+0.85,"Sierra, NM"
+0.69,"Socorro, NM"
+0.73,"Taos, NM"
+0.79,"Torrance, NM"
+0.79,"Union, NM"
+0.74,"Valencia, NM"
+0.84,"Albany, NY"
+0.88,"Allegany, NY"
+0.68,"Bronx, NY"
+0.83,"Broome, NY"
+0.85,"Cattaraugus, NY"
+0.83,"Cayuga, NY"
+0.83,"Chautauqua, NY"
+0.76,"Chemung, NY"
+0.85,"Chenango, NY"
+0.87,"Clinton, NY"
+0.83,"Columbia, NY"
+0.88,"Cortland, NY"
+0.87,"Delaware, NY"
+0.86,"Dutchess, NY"
+0.84,"Erie, NY"
+0.91,"Essex, NY"
+0.86,"Franklin, NY"
+0.78,"Fulton, NY"
+0.91,"Genesee, NY"
+0.87,"Greene, NY"
+0.96,"Hamilton, NY"
+0.85,"Herkimer, NY"
+0.86,"Jefferson, NY"
+0.74,"Kings, NY"
+0.92,"Lewis, NY"
+0.89,"Livingston, NY"
+0.86,"Madison, NY"
+0.83,"Monroe, NY"
+0.76,"Montgomery, NY"
+0.91,"Nassau, NY"
+0.75,"New York, NY"
+0.85,"Niagara, NY"
+0.84,"Oneida, NY"
+0.84,"Onondaga, NY"
+0.9,"Ontario, NY"
+0.87,"Orange, NY"
+0.89,"Orleans, NY"
+0.84,"Oswego, NY"
+0.86,"Otsego, NY"
+0.93,"Putnam, NY"
+0.78,"Queens, NY"
+0.86,"Rensselaer, NY"
+0.8,"Richmond, NY"
+0.85,"Rockland, NY"
+0.91,"Saratoga, NY"
+0.78,"Schenectady, NY"
+0.83,"Schoharie, NY"
+0.9,"Schuyler, NY"
+0.83,"Seneca, NY"
+0.85,"St. Lawrence, NY"
+0.86,"Steuben, NY"
+0.9,"Suffolk, NY"
+0.78,"Sullivan, NY"
+0.87,"Tioga, NY"
+0.83,"Tompkins, NY"
+0.86,"Ulster, NY"
+0.88,"Warren, NY"
+0.8,"Washington, NY"
+0.87,"Wayne, NY"
+0.9,"Westchester, NY"
+0.94,"Wyoming, NY"
+0.79,"Yates, NY"
+0.81,"Alamance, NC"
+0.85,"Alexander, NC"
+0.92,"Alleghany, NC"
+0.84,"Anson, NC"
+0.87,"Ashe, NC"
+0.94,"Avery, NC"
+0.83,"Beaufort, NC"
+0.84,"Bertie, NC"
+0.9,"Bladen, NC"
+0.84,"Brunswick, NC"
+0.88,"Buncombe, NC"
+0.89,"Burke, NC"
+0.89,"Cabarrus, NC"
+0.89,"Caldwell, NC"
+0.83,"Camden, NC"
+0.85,"Carteret, NC"
+0.84,"Caswell, NC"
+0.92,"Catawba, NC"
+0.86,"Chatham, NC"
+0.92,"Cherokee, NC"
+0.89,"Chowan, NC"
+0.86,"Clay, NC"
+0.88,"Cleveland, NC"
+0.84,"Columbus, NC"
+0.86,"Craven, NC"
+0.82,"Cumberland, NC"
+0.87,"Currituck, NC"
+0.91,"Dare, NC"
+0.87,"Davidson, NC"
+0.87,"Davie, NC"
+0.81,"Duplin, NC"
+0.82,"Durham, NC"
+0.77,"Edgecombe, NC"
+0.84,"Forsyth, NC"
+0.86,"Franklin, NC"
+0.86,"Gaston, NC"
+0.93,"Gates, NC"
+0.85,"Graham, NC"
+0.81,"Granville, NC"
+0.95,"Greene, NC"
+0.89,"Guilford, NC"
+0.75,"Halifax, NC"
+0.86,"Harnett, NC"
+0.85,"Haywood, NC"
+0.91,"Henderson, NC"
+0.86,"Hertford, NC"
+0.82,"Hoke, NC"
+0.91,"Hyde, NC"
+0.89,"Iredell, NC"
+0.92,"Jackson, NC"
+0.92,"Johnston, NC"
+0.98,"Jones, NC"
+0.89,"Lee, NC"
+0.85,"Lenoir, NC"
+0.9,"Lincoln, NC"
+0.91,"Macon, NC"
+0.87,"Madison, NC"
+0.7,"Martin, NC"
+0.85,"McDowell, NC"
+0.85,"Mecklenburg, NC"
+0.85,"Mitchell, NC"
+0.9,"Montgomery, NC"
+0.89,"Moore, NC"
+0.83,"Nash, NC"
+0.86,"New Hanover, NC"
+0.63,"Northampton, NC"
+0.89,"Onslow, NC"
+0.88,"Orange, NC"
+0.87,"Pamlico, NC"
+0.83,"Pasquotank, NC"
+0.9,"Pender, NC"
+0.9,"Perquimans, NC"
+0.87,"Person, NC"
+0.85,"Pitt, NC"
+0.92,"Polk, NC"
+0.9,"Randolph, NC"
+0.81,"Richmond, NC"
+0.86,"Robeson, NC"
+0.86,"Rockingham, NC"
+0.85,"Rowan, NC"
+0.84,"Rutherford, NC"
+0.83,"Sampson, NC"
+0.87,"Scotland, NC"
+0.89,"Stanly, NC"
+0.83,"Stokes, NC"
+0.91,"Surry, NC"
+0.79,"Swain, NC"
+0.86,"Transylvania, NC"
+0.89,"Tyrrell, NC"
+0.93,"Union, NC"
+0.82,"Vance, NC"
+0.89,"Wake, NC"
+0.71,"Warren, NC"
+0.73,"Washington, NC"
+0.9,"Watauga, NC"
+0.83,"Wayne, NC"
+0.88,"Wilkes, NC"
+0.79,"Wilson, NC"
+0.88,"Yadkin, NC"
+0.92,"Yancey, NC"
+,"Adams, ND"
+0.88,"Barnes, ND"
+,"Benson, ND"
+,"Billings, ND"
+,"Bottineau, ND"
+,"Bowman, ND"
+,"Burke, ND"
+0.88,"Burleigh, ND"
+0.86,"Cass, ND"
+,"Cavalier, ND"
+,"Dickey, ND"
+,"Divide, ND"
+,"Dunn, ND"
+,"Eddy, ND"
+,"Emmons, ND"
+,"Foster, ND"
+,"Golden Valley, ND"
+0.86,"Grand Forks, ND"
+,"Grant, ND"
+,"Griggs, ND"
+,"Hettinger, ND"
+,"Kidder, ND"
+,"LaMoure, ND"
+,"Logan, ND"
+,"McHenry, ND"
+,"McIntosh, ND"
+0.82,"McKenzie, ND"
+,"McLean, ND"
+,"Mercer, ND"
+0.82,"Morton, ND"
+,"Mountrail, ND"
+,"Nelson, ND"
+,"Oliver, ND"
+,"Pembina, ND"
+,"Pierce, ND"
+0.88,"Ramsey, ND"
+,"Ransom, ND"
+,"Renville, ND"
+0.8,"Richland, ND"
+0.74,"Rolette, ND"
+,"Sargent, ND"
+,"Sheridan, ND"
+,"Sioux, ND"
+,"Slope, ND"
+0.87,"Stark, ND"
+,"Steele, ND"
+0.86,"Stutsman, ND"
+,"Towner, ND"
+,"Traill, ND"
+,"Walsh, ND"
+0.88,"Ward, ND"
+,"Wells, ND"
+0.81,"Williams, ND"
+0.92,"Adams, OH"
+0.85,"Allen, OH"
+0.94,"Ashland, OH"
+0.88,"Ashtabula, OH"
+0.92,"Athens, OH"
+0.97,"Auglaize, OH"
+0.89,"Belmont, OH"
+0.94,"Brown, OH"
+0.9,"Butler, OH"
+0.91,"Carroll, OH"
+0.91,"Champaign, OH"
+0.88,"Clark, OH"
+0.94,"Clermont, OH"
+0.88,"Clinton, OH"
+0.93,"Columbiana, OH"
+0.93,"Coshocton, OH"
+0.94,"Crawford, OH"
+0.86,"Cuyahoga, OH"
+0.97,"Darke, OH"
+0.97,"Defiance, OH"
+0.96,"Delaware, OH"
+0.94,"Erie, OH"
+0.94,"Fairfield, OH"
+0.91,"Fayette, OH"
+0.89,"Franklin, OH"
+0.93,"Fulton, OH"
+0.86,"Gallia, OH"
+0.96,"Geauga, OH"
+0.92,"Greene, OH"
+0.87,"Guernsey, OH"
+0.87,"Hamilton, OH"
+0.93,"Hancock, OH"
+0.94,"Hardin, OH"
+0.88,"Harrison, OH"
+0.95,"Henry, OH"
+0.92,"Highland, OH"
+0.95,"Hocking, OH"
+0.94,"Holmes, OH"
+0.96,"Huron, OH"
+0.94,"Jackson, OH"
+0.93,"Jefferson, OH"
+0.93,"Knox, OH"
+0.92,"Lake, OH"
+0.95,"Lawrence, OH"
+0.92,"Licking, OH"
+0.96,"Logan, OH"
+0.9,"Lorain, OH"
+0.84,"Lucas, OH"
+0.95,"Madison, OH"
+0.9,"Mahoning, OH"
+0.9,"Marion, OH"
+0.95,"Medina, OH"
+0.88,"Meigs, OH"
+0.96,"Mercer, OH"
+0.95,"Miami, OH"
+0.92,"Monroe, OH"
+0.88,"Montgomery, OH"
+0.87,"Morgan, OH"
+0.93,"Morrow, OH"
+0.94,"Muskingum, OH"
+0.96,"Noble, OH"
+0.96,"Ottawa, OH"
+0.97,"Paulding, OH"
+0.91,"Perry, OH"
+0.93,"Pickaway, OH"
+0.89,"Pike, OH"
+0.92,"Portage, OH"
+0.93,"Preble, OH"
+0.97,"Putnam, OH"
+0.9,"Richland, OH"
+0.9,"Ross, OH"
+0.96,"Sandusky, OH"
+0.95,"Scioto, OH"
+0.94,"Seneca, OH"
+0.92,"Shelby, OH"
+0.92,"Stark, OH"
+0.9,"Summit, OH"
+0.91,"Trumbull, OH"
+0.86,"Tuscarawas, OH"
+0.95,"Union, OH"
+0.94,"Van Wert, OH"
+0.89,"Vinton, OH"
+0.97,"Warren, OH"
+0.92,"Washington, OH"
+0.95,"Wayne, OH"
+0.94,"Williams, OH"
+0.96,"Wood, OH"
+0.95,"Wyandot, OH"
+0.83,"Adair, OK"
+,"Alfalfa, OK"
+0.8,"Atoka, OK"
+,"Beaver, OK"
+0.86,"Beckham, OK"
+,"Blaine, OK"
+0.84,"Bryan, OK"
+0.85,"Caddo, OK"
+0.93,"Canadian, OK"
+0.85,"Carter, OK"
+0.86,"Cherokee, OK"
+0.8,"Choctaw, OK"
+,"Cimarron, OK"
+0.86,"Cleveland, OK"
+,"Coal, OK"
+0.77,"Comanche, OK"
+,"Cotton, OK"
+0.82,"Craig, OK"
+0.86,"Creek, OK"
+0.92,"Custer, OK"
+0.9,"Delaware, OK"
+,"Dewey, OK"
+,"Ellis, OK"
+0.84,"Garfield, OK"
+0.84,"Garvin, OK"
+0.85,"Grady, OK"
+,"Grant, OK"
+,"Greer, OK"
+,"Harmon, OK"
+,"Harper, OK"
+0.89,"Haskell, OK"
+0.87,"Hughes, OK"
+0.77,"Jackson, OK"
+,"Jefferson, OK"
+0.78,"Johnston, OK"
+0.85,"Kay, OK"
+0.88,"Kingfisher, OK"
+,"Kiowa, OK"
+0.85,"Latimer, OK"
+0.83,"Le Flore, OK"
+0.93,"Lincoln, OK"
+0.75,"Logan, OK"
+0.85,"Love, OK"
+,"Major, OK"
+0.83,"Marshall, OK"
+0.81,"Mayes, OK"
+0.89,"McClain, OK"
+0.88,"McCurtain, OK"
+0.84,"McIntosh, OK"
+0.82,"Murray, OK"
+0.83,"Muskogee, OK"
+0.9,"Noble, OK"
+0.86,"Nowata, OK"
+0.84,"Okfuskee, OK"
+0.77,"Oklahoma, OK"
+0.82,"Okmulgee, OK"
+0.88,"Osage, OK"
+0.81,"Ottawa, OK"
+0.89,"Pawnee, OK"
+0.85,"Payne, OK"
+0.8,"Pittsburg, OK"
+0.86,"Pontotoc, OK"
+0.8,"Pottawatomie, OK"
+0.89,"Pushmataha, OK"
+,"Roger Mills, OK"
+0.86,"Rogers, OK"
+0.82,"Seminole, OK"
+0.81,"Sequoyah, OK"
+0.84,"Stephens, OK"
+0.7,"Texas, OK"
+,"Tillman, OK"
+0.84,"Tulsa, OK"
+0.88,"Wagoner, OK"
+0.74,"Washington, OK"
+,"Washita, OK"
+0.84,"Woods, OK"
+0.87,"Woodward, OK"
+0.74,"Baker, OR"
+0.85,"Benton, OR"
+0.82,"Clackamas, OR"
+0.69,"Clatsop, OR"
+0.81,"Columbia, OR"
+0.57,"Coos, OR"
+0.72,"Crook, OR"
+0.7,"Curry, OR"
+0.79,"Deschutes, OR"
+0.66,"Douglas, OR"
+0.88,"Gilliam, OR"
+0.85,"Grant, OR"
+0.84,"Harney, OR"
+0.83,"Hood River, OR"
+0.77,"Jackson, OR"
+0.74,"Jefferson, OR"
+0.7,"Josephine, OR"
+0.73,"Klamath, OR"
+0.79,"Lake, OR"
+0.73,"Lane, OR"
+0.78,"Lincoln, OR"
+0.75,"Linn, OR"
+0.83,"Malheur, OR"
+0.76,"Marion, OR"
+0.79,"Morrow, OR"
+0.75,"Multnomah, OR"
+0.8,"Polk, OR"
+0.73,"Sherman, OR"
+0.81,"Tillamook, OR"
+0.76,"Umatilla, OR"
+0.86,"Union, OR"
+0.92,"Wallowa, OR"
+0.74,"Wasco, OR"
+0.85,"Washington, OR"
+0.26,"Wheeler, OR"
+0.83,"Yamhill, OR"
+0.91,"Adams, PA"
+0.91,"Allegheny, PA"
+0.89,"Armstrong, PA"
+0.7,"Beaver, PA"
+0.92,"Bedford, PA"
+0.87,"Berks, PA"
+0.9,"Blair, PA"
+0.91,"Bradford, PA"
+0.94,"Bucks, PA"
+0.94,"Butler, PA"
+0.93,"Cambria, PA"
+0.9,"Cameron, PA"
+0.9,"Carbon, PA"
+0.92,"Centre, PA"
+0.91,"Chester, PA"
+0.91,"Clarion, PA"
+0.9,"Clearfield, PA"
+0.93,"Clinton, PA"
+0.88,"Columbia, PA"
+0.92,"Crawford, PA"
+0.93,"Cumberland, PA"
+0.8,"Dauphin, PA"
+0.89,"Delaware, PA"
+0.89,"Elk, PA"
+0.87,"Erie, PA"
+0.85,"Fayette, PA"
+0.9,"Forest, PA"
+0.88,"Franklin, PA"
+0.91,"Fulton, PA"
+0.91,"Greene, PA"
+0.86,"Huntingdon, PA"
+0.93,"Indiana, PA"
+0.93,"Jefferson, PA"
+0.95,"Juniata, PA"
+0.88,"Lackawanna, PA"
+0.91,"Lancaster, PA"
+0.94,"Lawrence, PA"
+0.85,"Lebanon, PA"
+0.87,"Lehigh, PA"
+0.86,"Luzerne, PA"
+0.9,"Lycoming, PA"
+0.9,"McKean, PA"
+0.93,"Mercer, PA"
+0.9,"Mifflin, PA"
+0.93,"Monroe, PA"
+0.87,"Montgomery, PA"
+0.96,"Montour, PA"
+0.89,"Northampton, PA"
+0.88,"Northumberland, PA"
+0.92,"Perry, PA"
+0.79,"Philadelphia, PA"
+0.89,"Pike, PA"
+0.87,"Potter, PA"
+0.91,"Schuylkill, PA"
+0.9,"Snyder, PA"
+0.92,"Somerset, PA"
+0.92,"Sullivan, PA"
+0.91,"Susquehanna, PA"
+0.87,"Tioga, PA"
+0.95,"Union, PA"
+0.92,"Venango, PA"
+0.92,"Warren, PA"
+0.93,"Washington, PA"
+0.95,"Wayne, PA"
+0.94,"Westmoreland, PA"
+0.9,"Wyoming, PA"
+0.9,"York, PA"
+0.93,"Bristol, RI"
+0.92,"Kent, RI"
+0.91,"Newport, RI"
+0.82,"Providence, RI"
+0.93,"Washington, RI"
+0.88,"Abbeville, SC"
+0.9,"Aiken, SC"
+0.84,"Allendale, SC"
+0.88,"Anderson, SC"
+0.82,"Bamberg, SC"
+0.86,"Barnwell, SC"
+0.84,"Beaufort, SC"
+0.83,"Berkeley, SC"
+0.9,"Calhoun, SC"
+0.85,"Charleston, SC"
+0.84,"Cherokee, SC"
+0.86,"Chester, SC"
+0.9,"Chesterfield, SC"
+0.81,"Clarendon, SC"
+0.87,"Colleton, SC"
+0.9,"Darlington, SC"
+0.88,"Dillon, SC"
+0.86,"Dorchester, SC"
+0.89,"Edgefield, SC"
+0.91,"Fairfield, SC"
+0.85,"Florence, SC"
+0.9,"Georgetown, SC"
+0.87,"Greenville, SC"
+0.84,"Greenwood, SC"
+0.86,"Hampton, SC"
+0.8,"Horry, SC"
+0.75,"Jasper, SC"
+0.85,"Kershaw, SC"
+0.83,"Lancaster, SC"
+0.81,"Laurens, SC"
+0.85,"Lee, SC"
+0.86,"Lexington, SC"
+0.86,"Marion, SC"
+0.84,"Marlboro, SC"
+0.81,"McCormick, SC"
+0.84,"Newberry, SC"
+0.86,"Oconee, SC"
+0.82,"Orangeburg, SC"
+0.84,"Pickens, SC"
+0.7,"Richland, SC"
+0.73,"Saluda, SC"
+0.88,"Spartanburg, SC"
+0.84,"Sumter, SC"
+0.76,"Union, SC"
+0.86,"Williamsburg, SC"
+0.89,"York, SC"
+0.97,"Aurora, SD"
+0.79,"Beadle, SD"
+0.84,"Bennett, SD"
+0.93,"Bon Homme, SD"
+0.88,"Brookings, SD"
+0.85,"Brown, SD"
+0.87,"Brule, SD"
+,"Buffalo, SD"
+0.91,"Butte, SD"
+,"Campbell, SD"
+0.81,"Charles Mix, SD"
+0.94,"Clark, SD"
+0.89,"Clay, SD"
+0.89,"Codington, SD"
+0.49,"Corson, SD"
+0.91,"Custer, SD"
+0.92,"Davison, SD"
+0.9,"Day, SD"
+0.91,"Deuel, SD"
+0.88,"Dewey, SD"
+1.0,"Douglas, SD"
+1.0,"Edmunds, SD"
+0.81,"Fall River, SD"
+0.83,"Faulk, SD"
+0.92,"Grant, SD"
+0.77,"Gregory, SD"
+1.0,"Haakon, SD"
+0.95,"Hamlin, SD"
+0.93,"Hand, SD"
+0.96,"Hanson, SD"
+0.95,"Harding, SD"
+0.88,"Hughes, SD"
+0.92,"Hutchinson, SD"
+0.9,"Hyde, SD"
+0.88,"Jackson, SD"
+0.83,"Jerauld, SD"
+0.92,"Jones, SD"
+0.94,"Kingsbury, SD"
+0.78,"Lake, SD"
+0.94,"Lawrence, SD"
+0.91,"Lincoln, SD"
+0.97,"Lyman, SD"
+0.95,"Marshall, SD"
+0.98,"McCook, SD"
+0.7,"McPherson, SD"
+0.88,"Meade, SD"
+0.79,"Mellette, SD"
+1.0,"Miner, SD"
+0.88,"Minnehaha, SD"
+0.91,"Moody, SD"
+,"Oglala Lakota, SD"
+0.78,"Pennington, SD"
+0.92,"Perkins, SD"
+0.9,"Potter, SD"
+0.83,"Roberts, SD"
+0.96,"Sanborn, SD"
+0.9,"Spink, SD"
+0.93,"Stanley, SD"
+0.96,"Sully, SD"
+0.56,"Todd, SD"
+0.88,"Tripp, SD"
+0.91,"Turner, SD"
+0.95,"Union, SD"
+0.96,"Walworth, SD"
+0.96,"Yankton, SD"
+0.62,"Ziebach, SD"
+0.92,"Anderson, TN"
+0.91,"Bedford, TN"
+0.96,"Benton, TN"
+0.85,"Bledsoe, TN"
+0.94,"Blount, TN"
+0.91,"Bradley, TN"
+0.94,"Campbell, TN"
+0.93,"Cannon, TN"
+0.96,"Carroll, TN"
+0.94,"Carter, TN"
+0.9,"Cheatham, TN"
+0.94,"Chester, TN"
+0.92,"Claiborne, TN"
+1.0,"Clay, TN"
+0.93,"Cocke, TN"
+0.9,"Coffee, TN"
+0.98,"Crockett, TN"
+0.9,"Cumberland, TN"
+0.8,"Davidson, TN"
+0.95,"Decatur, TN"
+0.95,"DeKalb, TN"
+0.96,"Dickson, TN"
+0.96,"Dyer, TN"
+0.9,"Fayette, TN"
+0.95,"Fentress, TN"
+0.93,"Franklin, TN"
+0.94,"Gibson, TN"
+0.91,"Giles, TN"
+0.94,"Grainger, TN"
+0.94,"Greene, TN"
+0.94,"Grundy, TN"
+0.94,"Hamblen, TN"
+0.85,"Hamilton, TN"
+0.88,"Hancock, TN"
+0.88,"Hardeman, TN"
+0.91,"Hardin, TN"
+0.97,"Hawkins, TN"
+0.89,"Haywood, TN"
+0.98,"Henderson, TN"
+0.91,"Henry, TN"
+0.95,"Hickman, TN"
+0.97,"Houston, TN"
+0.91,"Humphreys, TN"
+0.86,"Jackson, TN"
+0.96,"Jefferson, TN"
+0.96,"Johnson, TN"
+0.9,"Knox, TN"
+0.96,"Lake, TN"
+0.98,"Lauderdale, TN"
+0.95,"Lawrence, TN"
+0.93,"Lewis, TN"
+0.95,"Lincoln, TN"
+0.91,"Loudon, TN"
+0.88,"Macon, TN"
+0.87,"Madison, TN"
+0.88,"Marion, TN"
+0.94,"Marshall, TN"
+0.91,"Maury, TN"
+0.94,"McMinn, TN"
+0.95,"McNairy, TN"
+0.97,"Meigs, TN"
+0.91,"Monroe, TN"
+0.95,"Montgomery, TN"
+0.92,"Moore, TN"
+0.98,"Morgan, TN"
+0.84,"Obion, TN"
+0.86,"Overton, TN"
+0.97,"Perry, TN"
+0.97,"Pickett, TN"
+0.91,"Polk, TN"
+0.92,"Putnam, TN"
+0.87,"Rhea, TN"
+0.95,"Roane, TN"
+0.97,"Robertson, TN"
+0.95,"Rutherford, TN"
+0.96,"Scott, TN"
+0.86,"Sequatchie, TN"
+0.89,"Sevier, TN"
+0.8,"Shelby, TN"
+0.92,"Smith, TN"
+0.97,"Stewart, TN"
+0.94,"Sullivan, TN"
+0.95,"Sumner, TN"
+0.97,"Tipton, TN"
+0.98,"Trousdale, TN"
+0.86,"Unicoi, TN"
+0.87,"Union, TN"
+0.9,"Van Buren, TN"
+0.94,"Warren, TN"
+0.92,"Washington, TN"
+0.96,"Wayne, TN"
+0.92,"Weakley, TN"
+0.94,"White, TN"
+0.96,"Williamson, TN"
+0.96,"Wilson, TN"
+0.94,"Anderson, TX"
+0.95,"Andrews, TX"
+0.93,"Angelina, TX"
+0.87,"Aransas, TX"
+0.99,"Archer, TX"
+1.0,"Armstrong, TX"
+0.94,"Atascosa, TX"
+0.94,"Austin, TX"
+0.99,"Bailey, TX"
+0.94,"Bandera, TX"
+0.92,"Bastrop, TX"
+0.95,"Baylor, TX"
+0.88,"Bee, TX"
+0.78,"Bell, TX"
+0.88,"Bexar, TX"
+0.97,"Blanco, TX"
+1.0,"Borden, TX"
+0.96,"Bosque, TX"
+0.93,"Bowie, TX"
+0.94,"Brazoria, TX"
+0.83,"Brazos, TX"
+0.96,"Brewster, TX"
+0.92,"Briscoe, TX"
+0.85,"Brooks, TX"
+0.96,"Brown, TX"
+0.92,"Burleson, TX"
+0.93,"Burnet, TX"
+0.9,"Caldwell, TX"
+0.92,"Calhoun, TX"
+0.96,"Callahan, TX"
+0.91,"Cameron, TX"
+0.97,"Camp, TX"
+0.98,"Carson, TX"
+0.97,"Cass, TX"
+0.98,"Castro, TX"
+0.98,"Chambers, TX"
+0.89,"Cherokee, TX"
+0.9,"Childress, TX"
+0.98,"Clay, TX"
+1.0,"Cochran, TX"
+0.92,"Coke, TX"
+0.89,"Coleman, TX"
+0.97,"Collin, TX"
+0.98,"Collingsworth, TX"
+0.86,"Colorado, TX"
+0.94,"Comal, TX"
+0.99,"Comanche, TX"
+1.0,"Concho, TX"
+0.96,"Cooke, TX"
+0.93,"Coryell, TX"
+1.0,"Cottle, TX"
+0.91,"Crane, TX"
+0.88,"Crockett, TX"
+0.95,"Crosby, TX"
+0.98,"Culberson, TX"
+0.98,"Dallam, TX"
+0.84,"Dallas, TX"
+0.96,"Dawson, TX"
+0.9,"Deaf Smith, TX"
+0.94,"Delta, TX"
+0.94,"Denton, TX"
+0.93,"DeWitt, TX"
+0.95,"Dickens, TX"
+0.83,"Dimmit, TX"
+0.93,"Donley, TX"
+0.86,"Duval, TX"
+0.94,"Eastland, TX"
+0.81,"Ector, TX"
+0.96,"Edwards, TX"
+0.86,"El Paso, TX"
+0.92,"Ellis, TX"
+0.59,"Erath, TX"
+0.87,"Falls, TX"
+0.97,"Fannin, TX"
+0.94,"Fayette, TX"
+0.98,"Fisher, TX"
+0.96,"Floyd, TX"
+1.0,"Foard, TX"
+0.93,"Fort Bend, TX"
+0.99,"Franklin, TX"
+0.94,"Freestone, TX"
+0.85,"Frio, TX"
+0.93,"Gaines, TX"
+0.92,"Galveston, TX"
+0.71,"Garza, TX"
+0.95,"Gillespie, TX"
+1.0,"Glasscock, TX"
+0.99,"Goliad, TX"
+0.85,"Gonzales, TX"
+0.95,"Gray, TX"
+0.94,"Grayson, TX"
+0.94,"Gregg, TX"
+0.93,"Grimes, TX"
+0.94,"Guadalupe, TX"
+0.89,"Hale, TX"
+1.0,"Hall, TX"
+0.99,"Hamilton, TX"
+0.99,"Hansford, TX"
+0.98,"Hardeman, TX"
+0.96,"Hardin, TX"
+0.87,"Harris, TX"
+0.94,"Harrison, TX"
+0.95,"Hartley, TX"
+0.91,"Haskell, TX"
+0.89,"Hays, TX"
+0.84,"Hemphill, TX"
+0.96,"Henderson, TX"
+0.88,"Hidalgo, TX"
+0.96,"Hill, TX"
+0.87,"Hockley, TX"
+0.95,"Hood, TX"
+0.94,"Hopkins, TX"
+0.95,"Houston, TX"
+0.92,"Howard, TX"
+0.94,"Hudspeth, TX"
+0.9,"Hunt, TX"
+0.94,"Hutchinson, TX"
+1.0,"Irion, TX"
+0.98,"Jack, TX"
+0.96,"Jackson, TX"
+0.96,"Jasper, TX"
+1.0,"Jeff Davis, TX"
+0.86,"Jefferson, TX"
+0.85,"Jim Hogg, TX"
+0.84,"Jim Wells, TX"
+0.93,"Johnson, TX"
+0.96,"Jones, TX"
+0.95,"Karnes, TX"
+0.93,"Kaufman, TX"
+0.98,"Kendall, TX"
+,"Kenedy, TX"
+0.9,"Kent, TX"
+0.94,"Kerr, TX"
+0.98,"Kimble, TX"
+1.0,"King, TX"
+0.93,"Kinney, TX"
+0.88,"Kleberg, TX"
+0.98,"Knox, TX"
+0.87,"La Salle, TX"
+0.94,"Lamar, TX"
+0.96,"Lamb, TX"
+0.97,"Lampasas, TX"
+0.97,"Lavaca, TX"
+0.95,"Lee, TX"
+0.98,"Leon, TX"
+0.92,"Liberty, TX"
+0.9,"Limestone, TX"
+0.97,"Lipscomb, TX"
+0.93,"Live Oak, TX"
+1.0,"Llano, TX"
+,"Loving, TX"
+0.9,"Lubbock, TX"
+1.0,"Lynn, TX"
+0.95,"Madison, TX"
+0.94,"Marion, TX"
+0.97,"Martin, TX"
+1.0,"Mason, TX"
+0.92,"Matagorda, TX"
+0.87,"Maverick, TX"
+0.98,"McCulloch, TX"
+0.91,"McLennan, TX"
+1.0,"McMullen, TX"
+0.94,"Medina, TX"
+0.95,"Menard, TX"
+0.88,"Midland, TX"
+0.91,"Milam, TX"
+0.7,"Mills, TX"
+0.97,"Mitchell, TX"
+0.96,"Montague, TX"
+0.92,"Montgomery, TX"
+0.97,"Moore, TX"
+0.95,"Morris, TX"
+1.0,"Motley, TX"
+0.89,"Nacogdoches, TX"
+0.95,"Navarro, TX"
+0.92,"Newton, TX"
+0.93,"Nolan, TX"
+0.87,"Nueces, TX"
+0.91,"Ochiltree, TX"
+1.0,"Oldham, TX"
+0.91,"Orange, TX"
+0.94,"Palo Pinto, TX"
+0.89,"Panola, TX"
+0.97,"Parker, TX"
+0.97,"Parmer, TX"
+0.65,"Pecos, TX"
+0.92,"Polk, TX"
+0.88,"Potter, TX"
+0.94,"Presidio, TX"
+0.92,"Rains, TX"
+0.97,"Randall, TX"
+0.96,"Reagan, TX"
+0.71,"Real, TX"
+0.97,"Red River, TX"
+0.96,"Reeves, TX"
+0.95,"Refugio, TX"
+1.0,"Roberts, TX"
+0.97,"Robertson, TX"
+0.96,"Rockwall, TX"
+0.97,"Runnels, TX"
+0.93,"Rusk, TX"
+0.92,"Sabine, TX"
+0.94,"San Augustine, TX"
+0.91,"San Jacinto, TX"
+0.93,"San Patricio, TX"
+0.93,"San Saba, TX"
+0.98,"Schleicher, TX"
+0.93,"Scurry, TX"
+0.93,"Shackelford, TX"
+0.93,"Shelby, TX"
+0.96,"Sherman, TX"
+0.91,"Smith, TX"
+0.88,"Somervell, TX"
+0.91,"Starr, TX"
+0.91,"Stephens, TX"
+0.95,"Sterling, TX"
+0.96,"Stonewall, TX"
+0.95,"Sutton, TX"
+0.88,"Swisher, TX"
+0.89,"Tarrant, TX"
+0.86,"Taylor, TX"
+0.9,"Terrell, TX"
+0.92,"Terry, TX"
+0.96,"Throckmorton, TX"
+0.97,"Titus, TX"
+0.89,"Tom Green, TX"
+0.9,"Travis, TX"
+0.89,"Trinity, TX"
+0.92,"Tyler, TX"
+0.96,"Upshur, TX"
+0.93,"Upton, TX"
+0.78,"Uvalde, TX"
+0.86,"Val Verde, TX"
+0.93,"Van Zandt, TX"
+0.81,"Victoria, TX"
+0.77,"Walker, TX"
+0.95,"Waller, TX"
+0.95,"Ward, TX"
+0.91,"Washington, TX"
+0.91,"Webb, TX"
+0.96,"Wharton, TX"
+0.95,"Wheeler, TX"
+0.97,"Wichita, TX"
+0.83,"Wilbarger, TX"
+0.88,"Willacy, TX"
+0.95,"Williamson, TX"
+0.96,"Wilson, TX"
+0.99,"Winkler, TX"
+0.96,"Wise, TX"
+0.97,"Wood, TX"
+0.99,"Yoakum, TX"
+0.96,"Young, TX"
+0.9,"Zapata, TX"
+0.9,"Zavala, TX"
+0.85,"Beaver, UT"
+0.84,"Box Elder, UT"
+0.92,"Cache, UT"
+0.95,"Carbon, UT"
+,"Daggett, UT"
+0.95,"Davis, UT"
+0.88,"Duchesne, UT"
+0.94,"Emery, UT"
+0.93,"Garfield, UT"
+0.83,"Grand, UT"
+0.9,"Iron, UT"
+0.95,"Juab, UT"
+0.98,"Kane, UT"
+0.91,"Millard, UT"
+0.93,"Morgan, UT"
+0.95,"Piute, UT"
+0.95,"Rich, UT"
+0.82,"Salt Lake, UT"
+0.92,"San Juan, UT"
+0.82,"Sanpete, UT"
+0.83,"Sevier, UT"
+0.94,"Summit, UT"
+0.87,"Tooele, UT"
+0.83,"Uintah, UT"
+0.91,"Utah, UT"
+0.92,"Wasatch, UT"
+0.89,"Washington, UT"
+0.95,"Wayne, UT"
+0.84,"Weber, UT"
+0.94,"Addison, VT"
+0.82,"Bennington, VT"
+0.81,"Caledonia, VT"
+0.9,"Chittenden, VT"
+,"Essex, VT"
+0.92,"Franklin, VT"
+,"Grand Isle, VT"
+0.88,"Lamoille, VT"
+0.89,"Orange, VT"
+0.89,"Orleans, VT"
+0.9,"Rutland, VT"
+0.9,"Washington, VT"
+0.85,"Windham, VT"
+0.88,"Windsor, VT"
+0.9,"Accomack, VA"
+0.95,"Albemarle, VA"
+0.83,"Alexandria City, VA"
+0.91,"Alleghany, VA"
+0.94,"Amelia, VA"
+0.96,"Amherst, VA"
+0.95,"Appomattox, VA"
+0.91,"Arlington, VA"
+0.91,"Augusta, VA"
+0.91,"Bath, VA"
+0.9,"Bedford, VA"
+0.98,"Bland, VA"
+0.94,"Botetourt, VA"
+0.84,"Bristol City, VA"
+0.86,"Brunswick, VA"
+0.9,"Buchanan, VA"
+0.94,"Buckingham, VA"
+0.9,"Buena Vista City, VA"
+0.93,"Campbell, VA"
+0.87,"Caroline, VA"
+0.91,"Carroll, VA"
+0.93,"Charles City, VA"
+0.87,"Charlotte, VA"
+0.9,"Charlottesville City, VA"
+0.93,"Chesapeake City, VA"
+0.9,"Chesterfield, VA"
+0.98,"Clarke, VA"
+0.96,"Colonial Heights City, VA"
+0.86,"Covington City, VA"
+0.89,"Craig, VA"
+0.9,"Culpeper, VA"
+0.95,"Cumberland, VA"
+0.77,"Danville City, VA"
+0.88,"Dickenson, VA"
+0.9,"Dinwiddie, VA"
+,"Emporia City, VA"
+0.86,"Essex, VA"
+0.91,"Fairfax, VA"
+,"Fairfax City, VA"
+1.0,"Falls Church City, VA"
+0.96,"Fauquier, VA"
+0.94,"Floyd, VA"
+0.97,"Fluvanna, VA"
+0.94,"Franklin, VA"
+0.87,"Franklin City, VA"
+0.95,"Frederick, VA"
+0.83,"Fredericksburg City, VA"
+0.89,"Galax City, VA"
+0.9,"Giles, VA"
+0.9,"Gloucester, VA"
+0.97,"Goochland, VA"
+0.96,"Grayson, VA"
+0.95,"Greene, VA"
+0.84,"Greensville, VA"
+0.91,"Halifax, VA"
+0.92,"Hampton City, VA"
+0.95,"Hanover, VA"
+0.87,"Harrisonburg City, VA"
+0.91,"Henrico, VA"
+0.87,"Henry, VA"
+0.82,"Highland, VA"
+0.85,"Hopewell City, VA"
+0.94,"Isle of Wight, VA"
+0.92,"James City, VA"
+0.74,"King and Queen, VA"
+0.94,"King George, VA"
+0.94,"King William, VA"
+0.87,"Lancaster, VA"
+0.77,"Lee, VA"
+,"Lexington City, VA"
+0.96,"Loudoun, VA"
+0.92,"Louisa, VA"
+0.88,"Lunenburg, VA"
+0.86,"Lynchburg City, VA"
+0.94,"Madison, VA"
+0.79,"Manassas City, VA"
+0.91,"Manassas Park City, VA"
+0.87,"Martinsville City, VA"
+0.92,"Mathews, VA"
+0.93,"Mecklenburg, VA"
+0.85,"Middlesex, VA"
+0.93,"Montgomery, VA"
+0.88,"Nelson, VA"
+0.89,"New Kent, VA"
+0.94,"Newport News City, VA"
+0.81,"Norfolk City, VA"
+0.82,"Northampton, VA"
+0.96,"Northumberland, VA"
+0.96,"Norton City, VA"
+0.87,"Nottoway, VA"
+0.94,"Orange, VA"
+0.97,"Page, VA"
+0.92,"Patrick, VA"
+0.8,"Petersburg City, VA"
+0.92,"Pittsylvania, VA"
+0.95,"Poquoson City, VA"
+0.87,"Portsmouth City, VA"
+0.94,"Powhatan, VA"
+0.93,"Prince Edward, VA"
+0.92,"Prince George, VA"
+0.92,"Prince William, VA"
+0.94,"Pulaski, VA"
+0.95,"Radford City, VA"
+0.96,"Rappahannock, VA"
+0.95,"Richmond, VA"
+0.77,"Richmond City, VA"
+0.94,"Roanoke, VA"
+0.9,"Roanoke City, VA"
+0.91,"Rockbridge, VA"
+0.95,"Rockingham, VA"
+0.92,"Russell, VA"
+0.94,"Salem City, VA"
+0.94,"Scott, VA"
+0.96,"Shenandoah, VA"
+0.95,"Smyth, VA"
+0.89,"Southampton, VA"
+0.91,"Spotsylvania, VA"
+0.94,"Stafford, VA"
+0.89,"Staunton City, VA"
+0.87,"Suffolk City, VA"
+0.88,"Surry, VA"
+0.9,"Sussex, VA"
+0.9,"Tazewell, VA"
+0.92,"Virginia Beach City, VA"
+0.94,"Warren, VA"
+0.94,"Washington, VA"
+0.88,"Waynesboro City, VA"
+0.94,"Westmoreland, VA"
+0.92,"Williamsburg City, VA"
+0.93,"Winchester City, VA"
+0.96,"Wise, VA"
+0.91,"Wythe, VA"
+0.95,"York, VA"
+0.77,"Adams, WA"
+0.78,"Asotin, WA"
+0.77,"Benton, WA"
+0.81,"Chelan, WA"
+0.81,"Clallam, WA"
+0.84,"Clark, WA"
+0.83,"Columbia, WA"
+0.81,"Cowlitz, WA"
+0.85,"Douglas, WA"
+0.79,"Ferry, WA"
+0.75,"Franklin, WA"
+0.86,"Garfield, WA"
+0.79,"Grant, WA"
+0.82,"Grays Harbor, WA"
+0.88,"Island, WA"
+0.8,"Jefferson, WA"
+0.84,"King, WA"
+0.82,"Kitsap, WA"
+0.83,"Kittitas, WA"
+0.85,"Klickitat, WA"
+0.84,"Lewis, WA"
+0.95,"Lincoln, WA"
+0.75,"Mason, WA"
+0.89,"Okanogan, WA"
+0.89,"Pacific, WA"
+0.91,"Pend Oreille, WA"
+0.87,"Pierce, WA"
+0.89,"San Juan, WA"
+0.75,"Skagit, WA"
+0.82,"Skamania, WA"
+0.86,"Snohomish, WA"
+0.85,"Spokane, WA"
+0.83,"Stevens, WA"
+0.85,"Thurston, WA"
+0.84,"Wahkiakum, WA"
+0.77,"Walla Walla, WA"
+0.81,"Whatcom, WA"
+0.92,"Whitman, WA"
+0.79,"Yakima, WA"
+0.91,"Barbour, WV"
+0.94,"Berkeley, WV"
+0.88,"Boone, WV"
+0.9,"Braxton, WV"
+0.92,"Brooke, WV"
+0.82,"Cabell, WV"
+0.94,"Calhoun, WV"
+0.89,"Clay, WV"
+0.96,"Doddridge, WV"
+0.84,"Fayette, WV"
+0.96,"Gilmer, WV"
+0.95,"Grant, WV"
+0.9,"Greenbrier, WV"
+0.84,"Hampshire, WV"
+0.9,"Hancock, WV"
+0.93,"Hardy, WV"
+0.88,"Harrison, WV"
+0.96,"Jackson, WV"
+0.89,"Jefferson, WV"
+0.83,"Kanawha, WV"
+0.88,"Lewis, WV"
+0.93,"Lincoln, WV"
+0.91,"Logan, WV"
+0.93,"Marion, WV"
+0.91,"Marshall, WV"
+0.91,"Mason, WV"
+0.83,"McDowell, WV"
+0.89,"Mercer, WV"
+0.97,"Mineral, WV"
+0.94,"Mingo, WV"
+0.9,"Monongalia, WV"
+0.97,"Monroe, WV"
+0.94,"Morgan, WV"
+0.93,"Nicholas, WV"
+0.97,"Ohio, WV"
+0.98,"Pendleton, WV"
+0.93,"Pleasants, WV"
+0.88,"Pocahontas, WV"
+0.83,"Preston, WV"
+0.93,"Putnam, WV"
+0.87,"Raleigh, WV"
+0.9,"Randolph, WV"
+0.85,"Ritchie, WV"
+0.9,"Roane, WV"
+0.86,"Summers, WV"
+0.89,"Taylor, WV"
+0.96,"Tucker, WV"
+0.92,"Tyler, WV"
+0.91,"Upshur, WV"
+0.87,"Wayne, WV"
+0.95,"Webster, WV"
+0.93,"Wetzel, WV"
+0.88,"Wirt, WV"
+0.9,"Wood, WV"
+0.89,"Wyoming, WV"
+0.92,"Adams, WI"
+0.89,"Ashland, WI"
+0.91,"Barron, WI"
+0.94,"Bayfield, WI"
+0.9,"Brown, WI"
+0.97,"Buffalo, WI"
+0.83,"Burnett, WI"
+0.96,"Calumet, WI"
+0.9,"Chippewa, WI"
+0.96,"Clark, WI"
+0.94,"Columbia, WI"
+0.94,"Crawford, WI"
+0.91,"Dane, WI"
+0.9,"Dodge, WI"
+0.95,"Door, WI"
+0.89,"Douglas, WI"
+0.9,"Dunn, WI"
+0.87,"Eau Claire, WI"
+0.94,"Florence, WI"
+0.89,"Fond du Lac, WI"
+0.93,"Forest, WI"
+0.94,"Grant, WI"
+0.96,"Green, WI"
+0.92,"Green Lake, WI"
+0.97,"Iowa, WI"
+0.96,"Iron, WI"
+0.89,"Jackson, WI"
+0.91,"Jefferson, WI"
+0.9,"Juneau, WI"
+0.9,"Kenosha, WI"
+0.95,"Kewaunee, WI"
+0.93,"La Crosse, WI"
+0.95,"Lafayette, WI"
+0.89,"Langlade, WI"
+0.94,"Lincoln, WI"
+0.91,"Manitowoc, WI"
+0.94,"Marathon, WI"
+0.92,"Marinette, WI"
+0.85,"Marquette, WI"
+0.78,"Menominee, WI"
+0.77,"Milwaukee, WI"
+0.95,"Monroe, WI"
+0.92,"Oconto, WI"
+0.91,"Oneida, WI"
+0.91,"Outagamie, WI"
+0.96,"Ozaukee, WI"
+0.98,"Pepin, WI"
+0.96,"Pierce, WI"
+0.94,"Polk, WI"
+0.91,"Portage, WI"
+0.92,"Price, WI"
+0.83,"Racine, WI"
+0.91,"Richland, WI"
+0.94,"Rock, WI"
+0.88,"Rusk, WI"
+0.91,"Sauk, WI"
+0.88,"Sawyer, WI"
+0.91,"Shawano, WI"
+0.94,"Sheboygan, WI"
+0.93,"St. Croix, WI"
+0.92,"Taylor, WI"
+0.95,"Trempealeau, WI"
+0.96,"Vernon, WI"
+0.97,"Vilas, WI"
+0.93,"Walworth, WI"
+0.91,"Washburn, WI"
+0.93,"Washington, WI"
+0.94,"Waukesha, WI"
+0.89,"Waupaca, WI"
+0.9,"Waushara, WI"
+0.91,"Winnebago, WI"
+0.92,"Wood, WI"
+0.81,"Albany, WY"
+0.66,"Big Horn, WY"
+0.79,"Campbell, WY"
+0.78,"Carbon, WY"
+0.87,"Converse, WY"
+0.98,"Crook, WY"
+0.69,"Fremont, WY"
+0.85,"Goshen, WY"
+0.87,"Hot Springs, WY"
+0.86,"Johnson, WY"
+0.79,"Laramie, WY"
+0.91,"Lincoln, WY"
+0.79,"Natrona, WY"
+0.51,"Niobrara, WY"
+0.85,"Park, WY"
+0.84,"Platte, WY"
+0.86,"Sheridan, WY"
+0.92,"Sublette, WY"
+0.8,"Sweetwater, WY"
+0.93,"Teton, WY"
+0.85,"Uinta, WY"
+0.86,"Washakie, WY"
+0.9,"Weston, WY"
