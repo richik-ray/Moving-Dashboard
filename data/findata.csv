@@ -9451,7 +9451,7 @@
 "Jackson, AL",Political,0.6194719786504003
 "Jefferson, AL",Political,-0.07266815915000772
 "Lamar, AL",Political,0.6871949468848694
-"Lauderdale, AL",Political,0.454067046173308
+"Lauderdale, AL",Political,0.45406704617330795
 "Lawrence, AL",Political,0.4859397127250658
 "Lee, AL",Political,0.2261661401226538
 "Limestone, AL",Political,0.4863999602918549
@@ -9519,12 +9519,12 @@
 "District 37, AK",Political,-0.09541683129197943
 "District 38, AK",Political,-0.3169774288518155
 "District 39, AK",Political,-0.3080333392445469
-"District 40, AK",Political,-0.20845986984815612
+"District 40, AK",Political,-0.20845986984815615
 "Apache, AZ",Political,-0.31969198510538305
 "Cochise, AZ",Political,0.21277616714985506
 "Coconino, AZ",Political,-0.1889468754181721
 "Gila, AZ",Political,0.19562907049622585
-"Graham, AZ",Political,0.232640598837782
+"Graham, AZ",Political,0.23264059883778196
 "Greenlee, AZ",Political,0.15408320493066255
 "La Paz, AZ",Political,0.4079986556881197
 "Maricopa, AZ",Political,0.028353767044215137
@@ -9556,7 +9556,7 @@
 "Cross, AR",Political,0.3760546988652895
 "Dallas, AR",Political,0.12414290869722122
 "Desha, AR",Political,-0.07258632840028187
-"Drew, AR",Political,0.2430629264594389
+"Drew, AR",Political,0.24306292645943894
 "Faulkner, AR",Political,0.3096555642056095
 "Franklin, AR",Political,0.5410635155096012
 "Fulton, AR",Political,0.5037720033528919
@@ -9569,7 +9569,7 @@
 "Independence, AR",Political,0.5182165417952108
 "Izard, AR",Political,0.5376284875183553
 "Jackson, AR",Political,0.3266097750193949
-"Jefferson, AR",Political,-0.25187302077701396
+"Jefferson, AR",Political,-0.251873020777014
 "Johnson, AR",Political,0.40210711150131695
 "Lafayette, AR",Political,0.25384615384615383
 "Lawrence, AR",Political,0.4927000879507476
@@ -9590,7 +9590,7 @@
 "Perry, AR",Political,0.4549465861588482
 "Phillips, AR",Political,-0.26808571839493744
 "Pike, AR",Political,0.6191911580005024
-"Poinsett, AR",Political,0.46904946904946904
+"Poinsett, AR",Political,0.469049469049469
 "Polk, AR",Political,0.6567853237759689
 "Pope, AR",Political,0.4987372059019009
 "Prairie, AR",Political,0.4909988385598142
@@ -9616,7 +9616,7 @@
 "Butte, CA",Political,0.03743041312628186
 "Calaveras, CA",Political,0.2406206777316736
 "Colusa, CA",Political,0.13419782870928829
-"Contra Costa, CA",Political,-0.43616882072183205
+"Contra Costa, CA",Political,-0.436168820721832
 "Del Norte, CA",Political,0.17252563297761034
 "El Dorado, CA",Political,0.137224733147418
 "Fresno, CA",Political,-0.06124986274391734
@@ -9631,7 +9631,7 @@
 "Los Angeles, CA",Political,-0.4934388528926351
 "Madera, CA",Political,0.1467804787530154
 "Marin, CA",Political,-0.6242128768677346
-"Mariposa, CA",Political,0.23239833277007996
+"Mariposa, CA",Political,0.23239833277008
 "Mendocino, CA",Political,-0.2986098140192652
 "Merced, CA",Political,-0.1213747898684824
 "Modoc, CA",Political,0.4802006335797254
@@ -9686,7 +9686,7 @@
 "Delta, CO",Political,0.4507444907683145
 "Denver, CO",Political,-0.5480183937417885
 "Dolores, CO",Political,0.5593625498007968
-"Douglas, CO",Political,0.1808862980602564
+"Douglas, CO",Political,0.18088629806025636
 "Eagle, CO",Political,-0.20255322523094
 "Elbert, CO",Political,0.5364250844911753
 "El Paso, CO",Political,0.2232770161176548
@@ -9721,7 +9721,7 @@
 "Prowers, CO",Political,0.4675039872408294
 "Pueblo, CO",Political,0.0049589298883605006
 "Rio Blanco, CO",Political,0.6826086956521739
-"Rio Grande, CO",Political,0.19588001445608968
+"Rio Grande, CO",Political,0.19588001445608966
 "Routt, CO",Political,-0.16945516945516945
 "Saguache, CO",Political,-0.09523809523809523
 "San Juan, CO",Political,-0.09881422924901186
@@ -9730,7 +9730,7 @@
 "Summit, CO",Political,-0.2755657227649313
 "Teller, CO",Political,0.4252284685682636
 "Washington, CO",Political,0.7328942553969996
-"Weld, CO",Political,0.22249460968189733
+"Weld, CO",Political,0.22249460968189735
 "Yuma, CO",Political,0.6520559382174911
 "Fairfield, CT",Political,-0.1988917615720462
 "Hartford, CT",Political,-0.22668508395925915
@@ -9747,7 +9747,7 @@
 "Alachua, FL",Political,-0.2254474181580605
 "Baker, FL",Political,0.6476175399715055
 "Bay, FL",Political,0.4619281213909186
-"Bradford, FL",Political,0.4950405025624071
+"Bradford, FL",Political,0.49504050256240706
 "Brevard, FL",Political,0.1975174105327369
 "Broward, FL",Political,-0.3514257450258489
 "Calhoun, FL",Political,0.5614208189442526
@@ -9794,7 +9794,7 @@
 "Orange, FL",Political,-0.2465388311747746
 "Osceola, FL",Political,-0.2507524642312027
 "Palm Beach, FL",Political,-0.15441047692093995
-"Pasco, FL",Political,0.2154732332803901
+"Pasco, FL",Political,0.21547323328039011
 "Pinellas, FL",Political,0.01116971261344874
 "Polk, FL",Political,0.14067896762030713
 "Putnam, FL",Political,0.3636802850499744
@@ -9824,7 +9824,7 @@
 "Bibb, GA",Political,-0.20359128378810148
 "Bleckley, GA",Political,0.5263369521511861
 "Brantley, GA",Political,0.7852721790192033
-"Brooks, GA",Political,0.18513257575757566
+"Brooks, GA",Political,0.18513257575757572
 "Bryan, GA",Political,0.4293811375469584
 "Bulloch, GA",Political,0.2305261494706905
 "Burke, GA",Political,-0.025665704202759064
@@ -9836,7 +9836,7 @@
 "Catoosa, GA",Political,0.6018985685988714
 "Charlton, GA",Political,0.4848107569721116
 "Chatham, GA",Political,-0.1480444436517986
-"Chattahoochee, GA",Political,0.11294964028776976
+"Chattahoochee, GA",Political,0.11294964028776977
 "Chattooga, GA",Political,0.5876151236063984
 "Cherokee, GA",Political,0.4946136751068786
 "Clarke, GA",Political,-0.3754446816079687
@@ -9846,7 +9846,7 @@
 "Cobb, GA",Political,-0.021791372321420473
 "Coffee, GA",Political,0.39482572763205176
 "Colquitt, GA",Political,0.4723282442748092
-"Columbia, GA",Political,0.373754691626894
+"Columbia, GA",Political,0.37375469162689395
 "Cook, GA",Political,0.4000330196466898
 "Coweta, GA",Political,0.4202769455016601
 "Crawford, GA",Political,0.4277434312210201
@@ -9921,7 +9921,7 @@
 "Oconee, GA",Political,0.3892997171075488
 "Oglethorpe, GA",Political,0.4186394965537909
 "Paulding, GA",Political,0.4104946833102173
-"Peach, GA",Political,0.02911086309523809
+"Peach, GA",Political,0.029110863095238092
 "Pickens, GA",Political,0.688987035190198
 "Pierce, GA",Political,0.7384762686363014
 "Pike, GA",Political,0.6920343839541547
@@ -9938,9 +9938,9 @@
 "Seminole, GA",Political,0.3221850613154961
 "Spalding, GA",Political,0.2446700902583256
 "Stephens, GA",Political,0.5959246051961283
-"Stewart, GA",Political,-0.20262390670553931
+"Stewart, GA",Political,-0.20262390670553934
 "Sumter, GA",Political,-0.022234372152360123
-"Talbot, GA",Political,-0.2483056069008009
+"Talbot, GA",Political,-0.24830560690080095
 "Taliaferro, GA",Political,-0.21850613154960985
 "Tattnall, GA",Political,0.4947124438649863
 "Taylor, GA",Political,0.22535211267605634
@@ -10005,7 +10005,7 @@
 "Latah, ID",Political,-0.04556209761734442
 "Lemhi, ID",Political,0.55615234375
 "Lewis, ID",Political,0.5861635220125786
-"Lincoln, ID",Political,0.47139588100686497
+"Lincoln, ID",Political,0.471395881006865
 "Madison, ID",Political,0.4933707292197858
 "Minidoka, ID",Political,0.5414059088924466
 "Nez Perce, ID",Political,0.3413173652694611
@@ -10027,14 +10027,14 @@
 "Calhoun, IL",Political,0.38195254764683
 "Carroll, IL",Political,0.2668905305574211
 "Cass, IL",Political,0.31128024980484004
-"Champaign, IL",Political,-0.18301174313528606
+"Champaign, IL",Political,-0.18301174313528612
 "Christian, IL",Political,0.4237660909502555
 "Clark, IL",Political,0.4723763874873865
 "Clay, IL",Political,0.6300787401574803
 "Clinton, IL",Political,0.4860784201159653
 "Coles, IL",Political,0.2604400128070256
 "Cook, IL",Political,-0.5367603764450817
-"Crawford, IL",Political,0.490948670944088
+"Crawford, IL",Political,0.49094867094408795
 "Cumberland, IL",Political,0.5703251302317226
 "DeKalb, IL",Political,-0.03153669724770642
 "De Witt, IL",Political,0.4198594723584781
@@ -10070,9 +10070,9 @@
 "LaSalle, IL",Political,0.14365840419757553
 "Lawrence, IL",Political,0.5301936330817197
 "Lee, IL",Political,0.1991090451288011
-"Livingston, IL",Political,0.40506909424323795
-"Logan, IL",Political,0.39254898798484006
-"McDonough, IL",Political,0.11510846318362356
+"Livingston, IL",Political,0.405069094243238
+"Logan, IL",Political,0.39254898798484
+"McDonough, IL",Political,0.11510846318362357
 "McHenry, IL",Political,0.07625396825396825
 "McLean, IL",Political,0.01303939374960857
 "Macon, IL",Political,0.17734082397003745
@@ -10181,11 +10181,11 @@
 "Orange, IN",Political,0.4583740234375
 "Owen, IN",Political,0.4916442678508823
 "Parke, IN",Political,0.5199027651169857
-"Perry, IN",Political,0.1854748603351956
+"Perry, IN",Political,0.18547486033519556
 "Pike, IN",Political,0.5188221515810607
 "Porter, IN",Political,0.0667962171265708
 "Posey, IN",Political,0.3916740194112457
-"Pulaski, IN",Political,0.46290529400989205
+"Pulaski, IN",Political,0.462905294009892
 "Putnam, IN",Political,0.4948012232415902
 "Randolph, IN",Political,0.4848919487473705
 "Ripley, IN",Political,0.572599531615925
@@ -10230,7 +10230,7 @@
 "Cedar, IA",Political,0.17775914474373755
 "Cerro Gordo, IA",Political,0.07659481820161115
 "Cherokee, IA",Political,0.4015659955257271
-"Chickasaw, IA",Political,0.2293706293706293
+"Chickasaw, IA",Political,0.22937062937062935
 "Clarke, IA",Political,0.2801975752132914
 "Clay, IA",Political,0.4210282000696298
 "Clayton, IA",Political,0.22784532807536426
@@ -10260,11 +10260,11 @@
 "Humboldt, IA",Political,0.4552781600157264
 "Ida, IA",Political,0.5157807308970099
 "Iowa, IA",Political,0.2382075471698113
-"Jackson, IA",Political,0.19272550921435505
+"Jackson, IA",Political,0.19272550921435502
 "Jasper, IA",Political,0.1813071346012399
 "Jefferson, IA",Political,0.004659146640510054
 "Johnson, IA",Political,-0.37894463218092017
-"Jones, IA",Political,0.19076285404125126
+"Jones, IA",Political,0.19076285404125132
 "Keokuk, IA",Political,0.4108324974924774
 "Kossuth, IA",Political,0.3613337980713373
 "Lee, IA",Political,0.16023775617608818
@@ -10303,7 +10303,7 @@
 "Van Buren, IA",Political,0.4723392305532154
 "Wapello, IA",Political,0.20602019935309265
 "Warren, IA",Political,0.16128205128205128
-"Washington, IA",Political,0.2040442858449996
+"Washington, IA",Political,0.20404428584499956
 "Wayne, IA",Political,0.4591836734693878
 "Webster, IA",Political,0.21520367183017786
 "Winnebago, IA",Political,0.2619664765854501
@@ -10380,7 +10380,7 @@
 "Neosho, KS",Political,0.4640481469749762
 "Ness, KS",Political,0.7331499312242091
 "Norton, KS",Political,0.6978513876454789
-"Osage, KS",Political,0.4361339767243825
+"Osage, KS",Political,0.43613397672438253
 "Osborne, KS",Political,0.6862416107382551
 "Ottawa, KS",Political,0.6403720289355839
 "Pawnee, KS",Political,0.4979331078541902
@@ -10388,7 +10388,7 @@
 "Pottawatomie, KS",Political,0.5037875245487702
 "Pratt, KS",Political,0.5380010411244144
 "Rawlins, KS",Political,0.7180706521739131
-"Reno, KS",Political,0.35836431226765797
+"Reno, KS",Political,0.358364312267658
 "Republic, KS",Political,0.6520363780150257
 "Rice, KS",Political,0.5630914826498423
 "Riley, KS",Political,0.035574958201746235
@@ -10545,7 +10545,7 @@
 "Bienville, LA",Political,0.08950749464668094
 "Bossier, LA",Political,0.4580524795377949
 "Caddo, LA",Political,-0.04231409020452913
-"Calcasieu, LA",Political,0.332935489646118
+"Calcasieu, LA",Political,0.33293548964611797
 "Caldwell, LA",Political,0.6466325660699063
 "Cameron, LA",Political,0.7944203683640303
 "Catahoula, LA",Political,0.4441927512355848
@@ -10575,7 +10575,7 @@
 "Ouachita, LA",Political,0.25443639090227443
 "Plaquemines, LA",Political,0.3360446420126738
 "Pointe Coupee, LA",Political,0.17217923645948474
-"Rapides, LA",Political,0.32534656252199
+"Rapides, LA",Political,0.32534656252198996
 "Red River, LA",Political,0.10244233378561736
 "Richland, LA",Political,0.3261435865374596
 "Sabine, LA",Political,0.6310411770716257
@@ -10693,10 +10693,10 @@
 "Isabella, MI",Political,0.036783238815374916
 "Jackson, MI",Political,0.20089843133315155
 "Kalamazoo, MI",Political,-0.12758612498911315
-"Kalkaska, MI",Political,0.43428053888825996
+"Kalkaska, MI",Political,0.43428053888826
 "Kent, MI",Political,0.030816006022376243
 "Keweenaw, MI",Political,0.200139470013947
-"Lake, MI",Political,0.2289789789789789
+"Lake, MI",Political,0.22897897897897895
 "Lapeer, MI",Political,0.3829537657968705
 "Leelanau, MI",Political,0.03151046960764383
 "Lenawee, MI",Political,0.2107142079714404
@@ -10711,7 +10711,7 @@
 "Menominee, MI",Political,0.2937407132243685
 "Midland, MI",Political,0.19317272855596854
 "Missaukee, MI",Political,0.5222085554188876
-"Monroe, MI",Political,0.22094370637850647
+"Monroe, MI",Political,0.22094370637850652
 "Montcalm, MI",Political,0.3394716073508963
 "Montmorency, MI",Political,0.4414054701537233
 "Muskegon, MI",Political,-0.015072738448929413
@@ -10800,7 +10800,7 @@
 "Pope, MN",Political,0.2669726222503561
 "Ramsey, MN",Political,-0.39116506738228696
 "Red Lake, MN",Political,0.3195108984582669
-"Redwood, MN",Political,0.427013533044278
+"Redwood, MN",Political,0.42701353304427797
 "Renville, MN",Political,0.3645805942676834
 "Rice, MN",Political,0.03057670375735906
 "Rock, MN",Political,0.3550320314114486
@@ -10821,7 +10821,7 @@
 "Washington, MN",Political,-0.01842825943772316
 "Watonwan, MN",Political,0.1908763505402161
 "Wilkin, MN",Political,0.3743185947910357
-"Winona, MN",Political,0.02899440055227429
+"Winona, MN",Political,0.028994400552274292
 "Wright, MN",Political,0.329512482403976
 "Yellow Medicine, MN",Political,0.3521607278241092
 "Adams, MS",Political,-0.13609424689216534
@@ -11023,7 +11023,7 @@
 "St. Louis City, MO",Political,-0.6357372075828372
 "Beaverhead, MT",Political,0.4557640750670242
 "Big Horn, MT",Political,-0.05687986783101251
-"Blaine, MT",Political,0.024590163934426236
+"Blaine, MT",Political,0.024590163934426233
 "Broadwater, MT",Political,0.5665496329396744
 "Carbon, MT",Political,0.32048072108162245
 "Carter, MT",Political,0.7735368956743003
@@ -11036,7 +11036,7 @@
 "Fallon, MT",Political,0.7580862533692723
 "Fergus, MT",Political,0.5251712328767123
 "Flathead, MT",Political,0.3638959867728844
-"Gallatin, MT",Political,-0.008249874579609429
+"Gallatin, MT",Political,-0.00824987457960943
 "Garfield, MT",Political,0.8621169916434541
 "Glacier, MT",Political,-0.2957635467980296
 "Golden Valley, MT",Political,0.620253164556962
@@ -11066,7 +11066,7 @@
 "Roosevelt, MT",Political,0.06489594742606791
 "Rosebud, MT",Political,0.3666377063423111
 "Sanders, MT",Political,0.5153704014782463
-"Sheridan, MT",Political,0.4163487738419617
+"Sheridan, MT",Political,0.41634877384196173
 "Silver Bow, MT",Political,-0.1363360077802091
 "Stillwater, MT",Political,0.5649497229632671
 "Sweet Grass, MT",Political,0.5662078785002373
@@ -11098,7 +11098,7 @@
 "Colfax, NE",Political,0.4082140634723087
 "Cuming, NE",Political,0.5898379970544919
 "Custer, NE",Political,0.7172682236376504
-"Dakota, NE",Political,0.20735785953177252
+"Dakota, NE",Political,0.20735785953177255
 "Dawes, NE",Political,0.4980957562568009
 "Dawson, NE",Political,0.4456282570932252
 "Deuel, NE",Political,0.7002032520325203
@@ -11202,7 +11202,7 @@
 "Burlington, NJ",Political,-0.1482257939281
 "Camden, NJ",Political,-0.32695770371416466
 "Cape May, NJ",Political,0.1990066089241
-"Cumberland, NJ",Political,-0.06143989334123396
+"Cumberland, NJ",Political,-0.061439893341233974
 "Essex, NJ",Political,-0.5713784918986022
 "Gloucester, NJ",Political,0.00483008699889639
 "Hudson, NJ",Political,-0.5236421652421652
@@ -11263,7 +11263,7 @@
 "Chenango, NY",Political,0.2552579365079365
 "Clinton, NY",Political,-0.019000155738981468
 "Columbia, NY",Political,-0.04944663775807391
-"Cortland, NY",Political,0.055769610748863864
+"Cortland, NY",Political,0.05576961074886386
 "Delaware, NY",Political,0.26854284559417946
 "Dutchess, NY",Political,-0.003543770143736539
 "Erie, NY",Political,-0.06409678371200944
@@ -11274,7 +11274,7 @@
 "Greene, NY",Political,0.2570521541950113
 "Hamilton, NY",Political,0.3457364341085271
 "Herkimer, NY",Political,0.328166063606932
-"Jefferson, NY",Political,0.20802385186735006
+"Jefferson, NY",Political,0.20802385186735012
 "Kings, NY",Political,-0.6200420801757686
 "Lewis, NY",Political,0.3756291390728477
 "Livingston, NY",Political,0.21953980886417368
@@ -11289,7 +11289,7 @@
 "Ontario, NY",Political,0.0726395958513529
 "Orange, NY",Political,0.0550384486353859
 "Orleans, NY",Political,0.3947496947496947
-"Oswego, NY",Political,0.21986301369863007
+"Oswego, NY",Political,0.21986301369863012
 "Otsego, NY",Political,0.1113059061866916
 "Putnam, NY",Political,0.1576920700945164
 "Queens, NY",Political,-0.5359597198689381
@@ -11309,18 +11309,18 @@
 "Tompkins, NY",Political,-0.4339238014902291
 "Ulster, NY",Political,-0.09950218179583308
 "Warren, NY",Political,0.08469179826795721
-"Washington, NY",Political,0.18395303326810167
+"Washington, NY",Political,0.18395303326810172
 "Wayne, NY",Political,0.24962834177438456
 "Westchester, NY",Political,-0.3368270910841426
 "Wyoming, NY",Political,0.4935830731876518
-"Yates, NY",Political,0.1987879992052453
+"Yates, NY",Political,0.19878799920524534
 "Alamance, NC",Political,0.12622791854631307
 "Alexander, NC",Political,0.5542115921405506
 "Alleghany, NC",Political,0.4718720602069614
 "Anson, NC",Political,-0.1283072546230441
 "Ashe, NC",Political,0.4404052443384982
 "Avery, NC",Political,0.5587343920475211
-"Beaufort, NC",Political,0.2414153229175369
+"Beaufort, NC",Political,0.24141532291753695
 "Bertie, NC",Political,-0.2484219535679897
 "Bladen, NC",Political,0.09385418632446374
 "Brunswick, NC",Political,0.2843850126552647
@@ -11404,7 +11404,7 @@
 "Transylvania, NC",Political,0.22172477474956628
 "Tyrrell, NC",Political,0.1466359976998275
 "Union, NC",Political,0.30621511682906066
-"Vance, NC",Political,-0.24513190168694
+"Vance, NC",Political,-0.24513190168694002
 "Wake, NC",Political,-0.20214016041726685
 "Warren, NC",Political,-0.32503556187766713
 "Washington, NC",Political,-0.15344687753446878
@@ -11453,7 +11453,7 @@
 "Ransom, ND",Political,0.15769393810936838
 "Renville, ND",Political,0.6125290023201856
 "Richland, ND",Political,0.3560326659641728
-"Rolette, ND",Political,-0.2348868175765645
+"Rolette, ND",Political,-0.23488681757656454
 "Sargent, ND",Political,0.19729594391587385
 "Sheridan, ND",Political,0.7052096569250318
 "Sioux, ND",Political,-0.4042207792207792
@@ -11461,7 +11461,7 @@
 "Stark, ND",Political,0.6494075637071904
 "Steele, ND",Political,0.17717717717717718
 "Stutsman, ND",Political,0.4155588380108321
-"Towner, ND",Political,0.3699222126188417
+"Towner, ND",Political,0.36992221261884173
 "Traill, ND",Political,0.2603610475464022
 "Walsh, ND",Political,0.3943054357204487
 "Ward, ND",Political,0.4680431927622939
@@ -11533,7 +11533,7 @@
 "Perry, OH",Political,0.4061353784594865
 "Pickaway, OH",Political,0.4262275207112548
 "Pike, OH",Political,0.3672868086539271
-"Portage, OH",Political,0.09947595844442401
+"Portage, OH",Political,0.099475958444424
 "Preble, OH",Political,0.5407731582786287
 "Putnam, OH",Political,0.6414983748068418
 "Richland, OH",Political,0.3713732024486544
@@ -11548,7 +11548,7 @@
 "Tuscarawas, OH",Political,0.3567536147642229
 "Union, OH",Political,0.37835867147909147
 "Van Wert, OH",Political,0.5644153957879449
-"Vinton, OH",Political,0.460196292257361
+"Vinton, OH",Political,0.46019629225736103
 "Warren, OH",Political,0.374470226065304
 "Washington, OH",Political,0.4184986595174263
 "Wayne, OH",Political,0.3457966421278559
@@ -11609,7 +11609,7 @@
 "Noble, OK",Political,0.5768757687576875
 "Nowata, OK",Political,0.6086853906065612
 "Okfuskee, OK",Political,0.4709611970580776
-"Oklahoma, OK",Political,0.10497112527469316
+"Oklahoma, OK",Political,0.10497112527469317
 "Okmulgee, OK",Political,0.3268334647644993
 "Osage, OK",Political,0.3680269956764737
 "Ottawa, OK",Political,0.4721234798877456
@@ -11625,7 +11625,7 @@
 "Sequoyah, OK",Political,0.5421486458405486
 "Stephens, OK",Political,0.6197497765862378
 "Texas, OK",Political,0.6510380622837371
-"Tillman, OK",Political,0.47560975609756106
+"Tillman, OK",Political,0.475609756097561
 "Tulsa, OK",Political,0.2283346960583516
 "Wagoner, OK",Political,0.5201916932907348
 "Washington, OK",Political,0.4849262059035277
@@ -11660,7 +11660,7 @@
 "Multnomah, OR",Political,-0.5627795331029835
 "Polk, OR",Political,0.06253877652314183
 "Sherman, OR",Political,0.5211406096361848
-"Tillamook, OR",Political,0.055784974280953414
+"Tillamook, OR",Political,0.05578497428095341
 "Umatilla, OR",Political,0.3401094321846578
 "Union, OR",Political,0.3995990129549661
 "Wallowa, OR",Political,0.396701786532295
@@ -11709,7 +11709,7 @@
 "Lehigh, PA",Political,-0.04741821072965905
 "Luzerne, PA",Political,0.19437262470088826
 "Lycoming, PA",Political,0.4470879066548008
-"McKean, PA",Political,0.46698576337751596
+"McKean, PA",Political,0.466985763377516
 "Mercer, PA",Political,0.2449100537192453
 "Mifflin, PA",Political,0.5492715445406161
 "Monroe, PA",Political,-0.007627021447413694
@@ -11724,7 +11724,7 @@
 "Schuylkill, PA",Political,0.4331387488269258
 "Snyder, PA",Political,0.4719794658681171
 "Somerset, PA",Political,0.5591647331786543
-"Sullivan, PA",Political,0.491390306122449
+"Sullivan, PA",Political,0.49139030612244894
 "Susquehanna, PA",Political,0.41181148279701
 "Tioga, PA",Political,0.5300409276944066
 "Union, PA",Political,0.2542935653766888
@@ -11751,7 +11751,7 @@
 "Calhoun, SC",Political,0.02834812557954696
 "Charleston, SC",Political,-0.07857325129717316
 "Cherokee, SC",Political,0.4170687991176065
-"Chester, SC",Political,0.04833709131905298
+"Chester, SC",Political,0.048337091319052984
 "Chesterfield, SC",Political,0.1480007237199204
 "Clarendon, SC",Political,-0.022474829490094186
 "Colleton, SC",Political,0.08486464552779549
@@ -11957,7 +11957,7 @@
 "Austin, TX",Political,0.596138178262995
 "Bailey, TX",Political,0.528165086447295
 "Bandera, TX",Political,0.6299667253865727
-"Bastrop, TX",Political,0.2023968510578477
+"Bastrop, TX",Political,0.20239685105784772
 "Baylor, TX",Political,0.7178118745830554
 "Bee, TX",Political,0.15321154979375368
 "Bell, TX",Political,0.14945154430806154
@@ -12005,7 +12005,7 @@
 "Dallam, TX",Political,0.6729274611398963
 "Dallas, TX",Political,-0.2610567174326359
 "Dawson, TX",Political,0.5054729160819534
-"Deaf Smith, TX",Political,0.409392789373814
+"Deaf Smith, TX",Political,0.40939278937381396
 "Delta, TX",Political,0.6295484436650591
 "Denton, TX",Political,0.19994642468482648
 "Dewitt, TX",Political,0.6364699006428989
@@ -12015,7 +12015,7 @@
 "Duval, TX",Political,-0.3519673704414588
 "Eastland, TX",Political,0.7518311072813443
 "Ector, TX",Political,0.4043525869148645
-"Edwards, TX",Political,0.412861136999068
+"Edwards, TX",Political,0.41286113699906796
 "Ellis, TX",Political,0.4505520393259309
 "El Paso, TX",Political,-0.4314371425367276
 "Erath, TX",Political,0.6514071834736918
@@ -12083,7 +12083,7 @@
 "Kimble, TX",Political,0.7638319672131147
 "King, TX",Political,0.9056603773584906
 "Kinney, TX",Political,0.33426573426573425
-"Kleberg, TX",Political,-0.036690496215306984
+"Kleberg, TX",Political,-0.03669049621530698
 "Knox, TX",Political,0.6079005120702268
 "Lamar, TX",Political,0.5898662081564666
 "Lamb, TX",Political,0.5857321652065082
@@ -12296,8 +12296,8 @@
 "King William, VA",Political,0.3509442200633119
 "Lancaster, VA",Political,0.0984198645598194
 "Lee, VA",Political,0.6294286626236834
-"Loudoun, VA",Political,-0.16846807976100106
-"Louisa, VA",Political,0.2447960977823153
+"Loudoun, VA",Political,-0.16846807976100103
+"Louisa, VA",Political,0.24479609778231526
 "Lunenburg, VA",Political,0.1749015395631937
 "Madison, VA",Political,0.317524000573148
 "Mathews, VA",Political,0.3679156467708529
@@ -12314,12 +12314,12 @@
 "Patrick, VA",Political,0.5496774193548387
 "Pittsylvania, VA",Political,0.3910057598582189
 "Powhatan, VA",Political,0.4630177514792899
-"Prince Edward, VA",Political,-0.05359291261074047
+"Prince Edward, VA",Political,-0.053592912610740465
 "Prince George, VA",Political,0.16917943648047454
 "Prince William, VA",Political,-0.21076331294711456
 "Pulaski, VA",Political,0.4054855937232149
 "Rappahannock, VA",Political,0.17666741021637294
-"Richmond, VA",Political,0.2365473914231085
+"Richmond, VA",Political,0.23654739142310846
 "Roanoke, VA",Political,0.2759424343063567
 "Rockbridge, VA",Political,0.2938397406206577
 "Rockingham, VA",Political,0.4434603996051965
@@ -12352,9 +12352,9 @@
 "Falls Church, VA",Political,-0.5794766017790383
 "Franklin, VA",Political,-0.2697788697788698
 "Fredericksburg, VA",Political,-0.26305042613636365
-"Galax, VA",Political,0.3880471380471379
+"Galax, VA",Political,0.388047138047138
 "Hampton, VA",Political,-0.37542497915196615
-"Harrisonburg, VA",Political,-0.2195298171511144
+"Harrisonburg, VA",Political,-0.21952981715111436
 "Hopewell, VA",Political,-0.09313943161634104
 "Lexington, VA",Political,-0.30344827586206896
 "Lynchburg, VA",Political,0.08942838720529281
@@ -12397,7 +12397,7 @@
 "Kitsap, WA",Political,-0.1137253955613472
 "Kittitas, WA",Political,0.1377472962279082
 "Klickitat, WA",Political,0.1481103166496425
-"Lewis, WA",Political,0.3612990131482621
+"Lewis, WA",Political,0.36129901314826207
 "Lincoln, WA",Political,0.5013127953789602
 "Mason, WA",Political,0.059986463862073874
 "Okanogan, WA",Political,0.19378620326487625
@@ -12459,7 +12459,7 @@
 "Raleigh, WV",Political,0.5268755486528462
 "Randolph, WV",Political,0.4499816108863553
 "Ritchie, WV",Political,0.7138650306748466
-"Roane, WV",Political,0.48770726129216707
+"Roane, WV",Political,0.487707261292167
 "Summers, WV",Political,0.4658576717400247
 "Taylor, WV",Political,0.4958702967268278
 "Tucker, WV",Political,0.5220143884892087
@@ -12531,7 +12531,7 @@
 "Sawyer, WI",Political,0.18429996710886964
 "Shawano, WI",Political,0.33851450559465346
 "Sheboygan, WI",Political,0.15928254127902106
-"Taylor, WI",Political,0.4419021509911429
+"Taylor, WI",Political,0.44190215099114294
 "Trempealeau, WI",Political,0.1263619744058501
 "Vernon, WI",Political,0.045310631112361915
 "Vilas, WI",Political,0.24970614163972965
